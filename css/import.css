@@ -1,0 +1,18 @@
+/* 
+    ! 1. plugin을 넣기.
+    ! 2. 중복코드 신경쓰지말고 일단 code 쳐 -> 구현을 목적
+    ! 3. 1280 adaptive 완성되면 -> 중복 코드 grouping으로 정리.
+*/
+/* @import url('https://db.onlinewebfonts.com/c/acc9694c9ebbeb50def04cedb7fd6a44?family=Sabon+Next+LT+W04+Bold');
+@import url('https://db.onlinewebfonts.com/c/d2bc04461f4c2a26ce4d81c73734503b?family=Sabon+Next+LT+W04+Italic');
+@import url('https://fonts.cdnfonts.com/css/sabon'); */
+
+
+@import url('https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400..700;1,400..700&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,300;0,400;0,500;0,600;0,700;1,300;1,400;1,500;1,600&display=swap');
+
+@import url('reset.css');
+@import url('jquery.bxslider.css');
+@import url('global.css');
+@import url('page.css');

@@ -1,0 +1,2259 @@
+header>div:last-child>nav>ul>li>h2,
+header>div:last-child>nav>ul>li>ol>li>h3,
+header>div:last-child>nav>ul>li>ol>li>a,
+header>div:last-child>div>ul>li:first-of-type>div>form>input[type='submit'],
+header>div:last-child>div>ul>li:last-of-type>div>div>div>a,
+header>div:last-child>div>ul>li:last-of-type>#cartPanel>form>div>div:last-of-type>a,
+.indexContainer>.bx-wrapper:first-of-type .bx-viewport ul li figure figcaption>dl>dt,
+.indexContainer>.bx-wrapper:first-of-type .bx-viewport ul li figure figcaption>dl>dd,
+.indexContainer>.bx-wrapper:first-of-type .bx-viewport ul li figure figcaption>a,
+.indexContainer>div>h2,
+.indexContainer>div>a,
+.indexContainer>div>ul>li>a>b,
+.indexContainer>div>ul>li>a>mark,
+.bx-wrapper:first-of-type .bx-viewport .carouselSlider li a b,
+.bx-wrapper:first-of-type .bx-viewport .carouselSlider li a mark,
+.indexContainer>div>.carouselSlider>li>a>mark,
+.indexContainer>div:nth-child(7)>div>div>div>h2,
+.indexContainer>div:nth-child(7)>div>div>h2,
+.indexContainer>div:nth-child(7)>div>div>div>p,
+.indexContainer>div:nth-child(7)>div>div>p,
+.indexContainer>div:nth-child(7)>div>div>div>a,
+.indexContainer>div:nth-child(7)>div>div>a,
+.indexContainer>div:nth-child(8)>p,
+.indexContainer>div:nth-child(9)>div>div>h2,
+.indexContainer>div:nth-child(9)>div>div>p,
+.indexContainer>div:nth-child(9)>div>div>a,
+.indexContainer>div:last-of-type>div,
+.listContainer>div:first-child>div:first-of-type>h2,
+.listContainer>div:nth-child(2)>p,
+.listContainer>ul>li>a>b,
+.listContainer>ul>li>a>mark,
+.listContainer>div:nth-child(2)>div>div:first-of-type>#filterPanel div fieldset:last-of-type input[type='submit'],
+.listContainer>div:nth-child(2)>div>div:last-of-type #sortPanel div fieldset:last-of-type input[type='submit'] ,
+.listContainer>ul>li>div>a,
+.listContainer>div:last-child>div>h2,
+.listContainer>div:last-child>div>p,
+.listContainer>div:last-child>div>a,
+.listContainer>div:last-child>ul>li>a>b,
+.listContainer>div:last-child>ul>li>a>mark,
+.detailContainer>div:last-child>div>h2,
+.detailContainer>div:last-child>div>p,
+.detailContainer>div:last-child>div>a,
+.detailContainer>div:last-child>ul>li>a>b,
+.detailContainer>div:last-child>ul>li>a>mark,
+.detailContainer >div:first-child>div:last-of-type span,
+.detailContainer >div:first-child>div:last-of-type>h2,
+.detailContainer >div:first-child>div:last-of-type>p,
+.detailContainer >div:first-child>div:last-of-type>form>fieldset>legend,
+.detailContainer >div:first-child>div:last-of-type>form>fieldset:last-of-type>a,
+.detailContainer >div:first-child>div:last-of-type>div>a,
+.detailContainer>div:nth-child(2) ul li,
+.detailContainer>div:nth-child(2)>div:nth-of-type(2) p,
+.detailContainer>div.editorialContainer>h2,
+.detailContainer>div.editorialContainer div input[type='button'],
+.detailContainer>div.alsoContainer,
+.accountContainer>div aside,
+.accountContainer>div:first-child>h2,
+.accountContainer>div.bx-wrapper div.bx-viewport ul.ftIconsSlider a b,
+.myaccountContainer>div>div>div>a,
+.myaccountContainer>div>div>div:last-child>div>div>a,
+.myaccountContainer>div>div>div:last-child>div:last-of-type>div:nth-of-type(2)>form>fieldset>div:last-of-type>input[type="submit"],
+.myaccountContainer>div>div>div:last-child>div:last-of-type>div:nth-of-type(2)>form>fieldset>div:last-of-type>input[type="button"],
+.myaccountContainer>div>div>div:last-child>div:last-of-type>div:nth-of-type(2)>form>div>div:last-of-type>input[type="submit"],
+.myaccountContainer>div>div>div:last-child>div:last-of-type>div:nth-of-type(2)>form>div>div:last-of-type>input[type="reset"],
+.accountSettingContainer >div:nth-child(2)>div:first-of-type>div>form>fieldset>div>input,
+.paymentMethodsContainer>div:nth-child(2)>div>div>form>fieldset>div:last-child>input,
+.beforePaymentMethodsContainer form input[type="submit"],
+.beforeWishContainer form input[type="submit"],
+.accountMembershipContainer>div:nth-child(2)>div>div>form>div>div>div:last-of-type,
+.accountMembershipContainer>div:nth-child(2)>div>div>form>div input,
+.accountMembershipContainer>div:nth-child(2)>div>div>form>fieldset input,
+.accountMembershipContainer>div:nth-child(2)>div>div>form>fieldset a:last-of-type,
+.accountMembershipContainer>div:nth-child(2)>div>div>form>fieldset:nth-of-type(2)>div>h3,
+.wishlistContainer>div:nth-child(2)>div>div:last-child>form>fieldset:first-child>div>p,
+.wishlistContainer>div:nth-child(2)>div>div:last-child>form>fieldset:last-child h3,
+.wishlistContainer>div:nth-child(2)>div>div:last-child>form>fieldset:last-child div:nth-of-type(2) span,
+.wishlistContainer>div:nth-child(2)>div>div:last-child>form>fieldset:last-child>div:nth-of-type(2)>div>a,
+.wishlistContainer>div:nth-child(2)>div>div:last-child>form>fieldset:last-child>div:nth-of-type(2)>div>input,
+.wishlistContainer>div:nth-child(2)>div>div:last-of-type>form>fieldset:last-of-type>div:nth-of-type(2)>div:first-of-type>div>span:last-of-type,
+.emailPreferencesContainer>div:nth-child(2) form input[type="submit"],
+.giftCardContainer>div:nth-child(2)>div:last-of-type>div>:last-of-type> fieldset input[type="submit"],
+.giftCardContainer>div:nth-child(2)>div:last-of-type>div:first-of-type>h2,
+.accountAddressContainer>div:nth-child(2)>div:last-of-type>div>form>fieldset>div>input:last-of-type,
+.accountAddressContainer>div:nth-child(2)>div:last-of-type>div>form>fieldset>div:last-of-type>input[type="submit"],
+.orderHistoryContainer>div:nth-child(2)>div>div:last-of-type>form>fieldset>div>input[type="submit"],
+.shippingContainer>div:first-child>div:last-child div form fieldset input[type="submit"],
+.shippingContainer>div:first-child>div:last-child>div:nth-of-type(2)>form>fieldset>div:last-of-type>div:last-of-type>div:last-of-type>div>div:first-of-type>h3,
+.shippingContainer>div:first-child>div:last-child>div:nth-of-type(2)>form>fieldset>div:last-of-type>div:last-of-type>div:last-of-type>div>div:first-of-type>span,
+.shippingContainer>div:first-child>div:last-child>div:nth-of-type(2)>form>fieldset>div:last-of-type>div:last-of-type>div:last-of-type>div>div:last-of-type>span,
+.shippingContainer>div:first-child>div:last-child>div:nth-of-type(3)>form>fieldset>div:last-of-type>div:last-of-type>span,
+.shippingContainer>div:first-child>div:last-child>div:nth-of-type(4)>form>fieldset>div>div:last-of-type>div:last-of-type>div:first-of-type>div:first-of-type>h3,
+.shippingContainer>div:first-child>div:last-child>div:nth-of-type(4)>form>fieldset>div>div:last-of-type>div:last-of-type>div:first-of-type>div:first-of-type>span,
+.shippingContainer>div:first-child>div:last-child>div:nth-of-type(4)>form>fieldset>div>div:last-of-type>div:last-of-type>div:first-of-type>div:last-of-type>span,
+.shippingContainer>div:last-of-type>div>a,
+.shippingContainer>div:first-child>div:last-child>div:last-of-type>form>fieldset>div:first-of-type>div>p,
+.cartContainer>div:first-child>h2,
+.cartContainer>div>form>fieldset:first-of-type>div:nth-child(2)>h2,
+.cartContainer>div>form>fieldset:first-of-type>div:nth-child(2)>span,
+.cartContainer>div>form>fieldset:first-of-type>div:nth-child(2)>div>label,
+.cartContainer>div>form>fieldset:first-of-type>div:nth-child(3)>input[type="number"],
+.cartContainer>div>form>fieldset:first-of-type>div:nth-child(3)>span,
+.cartContainer>div>form>fieldset:nth-of-type(2),
+.cartContainer>div:last-of-type>form>fieldset>div:nth-of-type(4)>span,
+.cartContainer>div:last-of-type>form>fieldset:nth-of-type(2)>input[type="submit"],
+.cartBeforeContainer>h2,
+.completeorderContainer>h2,
+.contentPrivacyContainer>div:first-child,
+.contentPrivacySaleContainer>div:first-child,
+.contentCopyRightContainer>div:first-child,
+.contentContainer>div:first-child,
+.contentAdditionalContainer>div:first-child,
+.logContainer div form fieldset legend,
+.logContainer div form fieldset>input[type="submit"],
+.passwordContainer>div>form>fieldset>legend,
+.forgotPasswordContainer>div:first-of-type>form>fieldset>input[type="button"],
+.forgotPasswordContainer>div:first-of-type>form>fieldset>input[type="reset"],
+.forgotPasswordContainer>div:nth-child(2)>div>h2,
+.forgotPasswordContainer>div:nth-child(2)>div>input[type="button"],
+.forgotPasswordContainer>div:nth-child(2)>div>input[type="reset"],
+.forgotPasswordContainer>div:last-of-type>div>h2,
+.forgotPasswordContainer>div:last-of-type>div>a,
+.createContainer>form>fieldset>legend,
+.createContainer>form>fieldset input[type="submit"],
+.resetPasswordContainer>div>form>fieldset>input[type="submit"],
+.affiliateProgramContainer>div:first-child>span,
+.masterCardContainer>div:nth-child(2)>div:last-of-type,
+.masterCardContainer>div.bx-wrapper div.bx-viewport ul.ftIconsSlider a b,
+.blukOrderContianer>div:last-child>form>fieldset input[type="button"],
+.blukOrderContianer>div:last-child>form>fieldset:last-of-type>div:last-of-type>h2,
+.membershipContainer>div:nth-child(2)>h2,
+.membershipContainer>div:nth-child(3)>a,
+.membershipContainer>div.bx-wrapper div.bx-viewport ul.ftIconsSlider a b,
+.mobileAppsContainer>div>a,
+.mobileNOOKAppContainer>div:nth-child(3)>h2,
+.mobileNOOKAppContainer>div.bx-wrapper div.bx-viewport ul.ftIconsSlider a b,
+.barnesAppContainer>div.bx-wrapper div.bx-viewport ul.ftIconsSlider a b,
+.bookfairContainer>div:nth-child(2)>a,
+.bookfairContainer>div:nth-child(3)>h2,
+.bookfairContainer>div.bx-wrapper div.bx-viewport ul.ftIconsSlider a b,
+.giftCardsContainer>div:first-child,
+.bulkGiftCardContainer>div:first-child>h2,
+.balaceCardContainer>div:nth-child(4)>form>fieldset>div>input[type="submit"],
+.quickHelpContainer>div:first-child>h2,
+.quickHelpContainer>nav>ul>li>a,
+.quickHelpContainer>div:last-of-type>h2,
+.quickHelpContentContainer>div:nth-child(4)>ul>li>a,
+.pressContainer>div:nth-child(4)>a,
+.helpContentContainer>div:first-child>h2,
+.audiosubscriptionContainer>div:last-child>form>fieldset>input[type="button"],
+.helpPressContentCotainer>nav>ul>li,
+.helpPressContentCotainer>div:first-child>h2,
+.covidContainer>div.bx-wrapper div.bx-viewport ul.ftIconsSlider a b,
+.storePickUpContainer>div:nth-child(2)>div>span,
+.storePickUpContainer>div:nth-child(3)>h2,
+.storePickUpContainer>div:last-child input[type="submit"],
+.giftCardContentContainer>div:first-child>div:last-of-type>span,
+.giftCardContentContainer>div:first-child>div:last-of-type>h2,
+.giftCardContentContainer>div:first-child>div:last-of-type>p,
+.giftCardContentContainer>div:last-of-type>ul>li,
+.giftCardContentContainer>div:first-child>div>div>form>div>h2,
+.searchStoresContainer>div:nth-child(2)>form>fieldset>div>input[type="submit"],
+.footerContainer div:first-child>h2{
+    font-family: 'Montserrat';
+}
+
+header>div:first-of-type>a,
+header>div:last-child>nav>ul>li>ol>li:last-of-type>figure>figcaption>h3,
+header>div:last-child>nav>ul>li>ol>li:last-of-type>figure>figcaption>a,
+header>div:last-child>div>ul>li:first-of-type>div>form>input[type='search'],
+header>div:last-child>div>ul>li:last-of-type>#cartPanel>div>h2,
+header>div:last-child>div>ul>li:last-of-type>#cartPanel>div>p,
+header>div:last-child>div>ul>li:last-of-type>#cartPanel>form>div>h2,
+header>div:last-child>div>ul>li:last-of-type>#cartPanel>form>div>div>div>h3,
+header>div:last-child>div>ul>li:last-of-type>#cartPanel>form>div>div>div>mark,
+header>div:last-child>div>ul>li:last-of-type>#cartPanel>form>div>div:nth-child(2)>a,
+header>div:last-child>div>ul>li:last-of-type>#cartPanel>form>div>div>div>span,
+header>div:last-child>div>ul>li:last-of-type>#cartPanel>form>div>div:last-of-type>p,
+div>div:nth-child(9)>p,
+div>div:last-of-type>span>a,
+.listContainer>div:first-child div:first-of-type p,
+.listContainer>div:nth-child(2) div div:first-of-type input[type='button'],
+.listContainer>div:nth-child(2) div div:last-of-type input[type='button'],
+.listContainer>div:nth-child(2)>div>div:first-of-type>#filterPanel fieldset label,
+.listContainer>div:nth-child(2)>div>div:first-of-type>#filterPanel fieldset legend,
+.listContainer>div:nth-child(2)>div>div:last-of-type>#sortPanel fieldset legend,
+.listContainer>div:nth-child(2)>div>div:last-of-type>#sortPanel fieldset label,
+.listContainer>div:nth-child(4)>p,
+.listContainer>div:nth-child(4)>ol>li>a,
+.listContainer>div:last-child>div>p,
+.detailContainer>div:last-child>div>p,
+.detailContainer >div:first-child>div:last-of-type>form>fieldset:last-of-type>a:last-of-type,
+.detailContainer >div:first-child>div:last-of-type>div>p,
+.detailContainer>div:nth-child(2)>div:not(:nth-of-type(2))>p,
+.detailContainer>div.editorialContainer>div time,
+.detailContainer>div.editorialContainer>div p,
+.detailContainer>div.editorialContainer>div span,
+.myaccountContainer>span,
+.myaccountContainer>div>div>div>div>p,
+.myaccountContainer>div>div>div:nth-child(2)>div>a,
+.myaccountContainer>div>div>div:last-child>div>div>p,
+.myaccountContainer>div>div>div:last-child>div>div>div>a,
+.myaccountContainer>div>div>div:last-child>div:first-of-type>div:last-of-type>div>div>p,
+.myaccountContainer>div>div>div:last-child>div:last-of-type>div:nth-of-type(2)>form>fieldset>div.selectForm,
+.myaccountContainer>div>div>div:last-child>div:last-of-type>div:nth-of-type(2)>form>div>div:first-of-type>input[type="text"],
+.myaccountContainer>div>div>div:last-child>div:last-of-type>div:nth-of-type(2)>form>div>div:nth-of-type(2),
+.myaccountContainer>div>div>div:last-child>div:last-of-type>div:nth-of-type(2)>form>div>div:nth-of-type(3),
+.accountSettingContainer >div:nth-child(2)>div:first-of-type>div>form>fieldset>input,
+.accountSettingContainer >div:nth-child(2)>div:first-of-type>div>form>fieldset>p,
+.accountSettingContainer >div:nth-child(2)>div:first-of-type>div>p,
+.accountSettingContainer >div:nth-child(2)>div:first-of-type>div>form>fieldset>ul>li,
+.accountSettingContainer >div:nth-child(2)>div:first-of-type>div>form>fieldset>div>a,
+.accountSettingContainer >div:nth-child(2)>div:first-of-type>div>form>fieldset>div>label,
+.accountSettingContainer >div:nth-child(2)>div:first-of-type>div>form>fieldset>div>input[type="password"],
+.accountSettingContainer >div:nth-child(2)>div:first-of-type>div>form>fieldset>.selectForm,
+.paymentMethodsContainer>div:nth-child(2)>div>div>p,
+.paymentMethodsContainer>div:nth-child(2)>div>div>form>div>input,
+.paymentMethodsContainer>div:nth-child(2)>div>div>form>fieldset>input,
+.paymentMethodsContainer>div:nth-child(2)>div>div>form>fieldset>div>label,
+.paymentMethodsContainer>div:nth-child(2)>div>div>form>fieldset>div>div>input,
+.accountMembershipContainer>div:nth-child(2)>div>div>form>div>div>p,
+.accountMembershipContainer>div:nth-child(2)>div>div>form>div>div>div>p,
+.accountMembershipContainer>div:nth-child(2)>div>div>form>fieldset,
+.accountMembershipContainer>div:nth-child(2)>div>div>form>fieldset input[type="text"],
+.wishlistContainer>div:nth-child(2)>div>div:first-of-type>p,
+.wishlistContainer>div:nth-child(2)>div>div:last-child>form>fieldset:last-child div:nth-of-type(2) span:not(:first-of-type),
+.wishlistContainer>div:nth-child(2)>div>div:last-child>form>fieldset:last-child div:last-of-type,
+.beforeWishContainer form p:last-of-type,
+.emailPreferencesContainer>div:nth-child(2) div,
+.finemailPreferencesContainer>div:nth-child(2)>div>p,
+.giftCardContainer>div:nth-child(2)>div:last-of-type>div>:last-of-type,
+.giftCardContainer>div:nth-child(2)>div:last-of-type>div>:last-of-type>form>fieldset>input[type="text"],
+.accountAddressContainer>div:nth-child(2)>div:last-of-type>div>form>fieldset>input,
+.accountAddressContainer>div:nth-child(2)>div:last-of-type>div>form>fieldset>div:not(:last-of-type)>label,
+.accountAddressContainer>div:nth-child(2)>div:last-of-type>div>form>fieldset>div:nth-of-type(2)>input[type="text"],
+.orderHistoryContainer>div:nth-child(2)>div>div:last-of-type>form>fieldset>div>input[type="text"],
+.orderHistoryContainer>div:nth-child(2)>div>div:last-of-type>form>fieldset>p,
+.filterSelect,
+.selectForm,
+.contentPrivacyContainer>div:nth-child(2),
+.contentPrivacyContainer>div:last-child,
+.contentPrivacySaleContainer>div:nth-child(2),
+.contentPrivacySaleContainer>div:last-child,
+.contentContainer>div:nth-child(2),
+.contentContainer>div:last-child,
+.contentCopyRightContainer>div:nth-child(2),
+.contentCopyRightContainer>div:last-child,
+.contentAdditionalContainer>div:last-child,
+.logContainer div form fieldset table tbody tr td,
+.logContainer div form fieldset>div:last-of-type,
+.logContainer div form fieldset>div:first-of-type>a,
+.passwordContainer>div:first-of-type>form>fieldset>p,
+.forgotPasswordContainer>div:first-of-type>form>fieldset>div>input[type="email"],
+.forgotPasswordContainer>div:nth-child(2)>div>p,
+.forgotPasswordContainer>div:nth-child(2)>div>span,
+.forgotPasswordContainer>div:nth-child(2)>div>div>label,
+.forgotPasswordContainer>div:last-of-type>div>span,
+.forgotPasswordContainer>div:last-of-type>div>p,
+.createContainer>form>fieldset>div input[type="text"],
+.createContainer>form>fieldset>div input[type="email"],
+.createContainer>form>fieldset>div input[type="password"],
+.createContainer>form>fieldset>div input[type="text"],
+.createContainer>form>fieldset p,
+.createContainer>form>fieldset label,
+.resetPasswordContainer>div>form>fieldset>div>div>input[type="text"],
+.resetPasswordContainer>div>form>fieldset input[type="password"],
+.resetPasswordContainer>ul>li,
+.shippingContainer,
+.shippingContainer input[type="text"],
+.cartContainer>div>form>fieldset:first-of-type>div:last-of-type>a,
+.cartContainer>div:last-of-type>form>fieldset>div:nth-of-type(2)>div>label,
+.cartBeforeContainer>p,
+.completeorderContainer>p,
+.aboutBNConatiner p,
+.affiliateProgramContainer>dl>dd,
+.masterCardContainer>ul>li>figure>figcaption>dl>dd,
+.masterCardContainer>ol>li,
+.publisherAuthorContainer>div:last-child,
+.publisherAuthorContentContainer>div:last-child>span,
+.publisherAuthorContentContainer>div:last-child>p,
+.publisherAuthorContentContainer>div:last-child>ul>li,
+.publisherAuthorContentContainer>div:last-child>ol>li,
+.publisherAuthorContentContainer>div:last-child>address,
+.blukOrderContianer>div:nth-child(2)>ul>li,
+.blukOrderContianer>div:last-child>form>fieldset:last-of-type>div:nth-of-type(3)>ul>li,
+.blukOrderContianer>div:last-child>form>fieldset input,
+.blukOrderContianer>div:last-child>form>fieldset textarea,
+.blukOrderContianer>div:last-child>form>fieldset:last-of-type>h2,
+.blukOrderContianer>div:last-child>form>fieldset:last-of-type>div:last-of-type>p,
+.membershipContainer>div:nth-child(2)>div>p,
+.membershipContainer>div:nth-child(2)>div>a,
+.membershipContainer>div:nth-child(3)>div:nth-of-type(2)>div>span,
+.membershipContainer>div:nth-child(3)>div:last-of-type>span:first-of-type,
+.membershipContainer>div:nth-child(4)>div>p,
+.membershipContainer>div:nth-child(5)>div>div,
+.membershipContainer>div:nth-child(6)>ol>li,
+.mobileAppsContainer>div>p,
+.mobileNOOKAppContainer>div:nth-child(2)>p:first-of-type,
+.mobileNOOKAppContainer>div:nth-child(3)>div>p,
+.mobileNOOKAppContainer>div>div>p,
+.mobileNOOKAppContainer>div>div>a,
+.mobileNOOKAppContainer>div>div>div>span,
+.barnesAppContainer>div:nth-child(3)>div>p,
+.barnesAppContainer>div:nth-child(3)>div>div>p,
+.bookfairContainer>div>p,
+.bookfairContainer>div:nth-child(4)>div:first-of-type>div>p,
+.giftCardsContainer>div:nth-child(2)>p,
+.giftCardsContainer>div:nth-child(2)>a,
+.bulkGiftCardContainer>div:nth-child(2)>p,
+.bulkGiftCardContainer>div:nth-child(2)>a,
+.bulkGiftCardContainer li,
+.balaceCardContainer>div>form>fieldset>span,
+.balaceCardContainer>div>form>fieldset>div>input[type="text"],
+.quickHelpContainer>nav>div>form>input[type="search"],
+.helpCenterContainer>ul>li>a>div>span,
+.pressContainer>ul>li>a>div>span,
+.helpContentContainer li,
+.helpContentContainer p,
+.helpContentContainer span,
+.helpContentContainer>div:last-child>address,
+.audiosubscriptionContainer>div:last-child,
+.audiosubscriptionContainer input[type="text"],
+.audiosubscriptionContainer label,
+.helpPressContentCotainer p,
+.helpPressContentCotainer li,
+.helpPressContentCotainer span,
+.covidContainer p,
+.covidContainer>div:not(:last-of-type)>ul>li,
+.storePickUpContainer>div:nth-child(2)>div>p,
+.storePickUpContainer>div:nth-child(3)>ul>li>figure>figcaption>dl>dd,
+.productRecallsContainer li,
+.productRecallsContainer p,
+.giftCardContentContainer>div:first-child>div>div>form>fieldset>input[type="text"],
+.giftCardContentContainer>div:first-child>div>div>form>fieldset>textarea,
+.giftCardContentContainer>div:last-of-type>div.content>ul>li,
+.giftCardContentContainer>div:first-child>div>div>form>div>p,
+.searchStoresContainer>div:nth-child(2)>form>fieldset>div>span>b,
+.searchStoresContainer>div:nth-child(2)>form>fieldset>div>input[type="search"],
+footer>div:first-of-type>p,
+footer>div:last-of-type>p,
+footer>div:nth-of-type(2)>div>div>div,
+footer>div:nth-of-type(2)>div>div>div>a,
+footer>div:nth-of-type(2)>div>ul>li>a,
+footer>div:nth-of-type(2)>div>div>form>input[type='email']{
+    font-family: 'Lora';
+}
+
+footer>div:nth-of-type(2)>div>div>h3,
+footer>div:nth-of-type(2)>div>h2,
+.detailContainer>div:nth-child(2)>div.content h3,
+.detailContainer>div:nth-child(2) div.content:first-of-type p.bold,
+.detailContainer>div:nth-child(2) div.content:first-of-type p strong,
+.detailContainer>div:nth-child(2) div.content:first-of-type p.bold_nonunder,
+.detailContainer>div:nth-child(2) div.content:last-of-type p>strong,
+.myaccountContainer>div>div>div>h2,
+.myaccountContainer>div>div>div:last-child>div>div>h2,
+.myaccountContainer>div>div>div:last-child>div:first-of-type>div:last-of-type>div>div>span,
+.myaccountContainer>div>div>div:last-child>div:last-of-type>div:nth-of-type(2)>form>div>h3,
+.accountSettingContainer >div:nth-child(2)>div:first-of-type>div>form>fieldset>legend,
+.paymentMethodsContainer>div:nth-child(2)>div>div>h2,
+.paymentMethodsContainer>div:nth-child(2)>div>div>form>fieldset>legend,
+.beforePaymentMethodsContainer form p,
+.beforeWishContainer form p:first-of-type,
+.accountMembershipContainer>div:nth-child(2)>div>div>h2,
+.accountMembershipContainer>div:nth-child(2)>div>div>form>div>div>b,
+.accountMembershipContainer>div:nth-child(2)>div>div>form>div>div>div>span,
+.accountMembershipContainer>div:nth-child(2)>div>div>form>fieldset>legend,
+.accountMembershipContainer>div:nth-child(2)>div>div>form>div>div:last-of-type>span,
+.accountMembershipContainer>div:nth-child(2)>div>div>form>fieldset:first-of-type>a:first-of-type,
+.accountMembershipContainer>div:nth-child(2)>div>div>form>fieldset:first-of-type>div span,
+.wishlistContainer>div:nth-child(2)>div>div:first-of-type>h2,
+.emailPreferencesContainer>div:nth-child(2) h2,
+.finemailPreferencesContainer>div:nth-child(2)>div>h2,
+.emailPreferencesContainer>div:nth-child(2) fieldset:last-of-type legend,
+.emailPreferencesContainer>div:nth-child(2)>div>div:first-of-type>div>span:last-of-type,
+.giftCardContainer>div:nth-child(2)>div:last-of-type>div>:last-of-type>fieldset>legend,
+.accountAddressContainer>div:nth-child(2)>div:last-of-type>div>form>fieldset>legend,
+.shippingContainer>div:first-child>div:last-child>div:last-of-type>form>fieldset h2,
+.shippingContainer>div:first-child>div:last-child>div:last-of-type>form>fieldset>div:nth-of-type(2)>div>span,
+.shippingContainer>div:last-of-type>h2,
+.contentContainer>div:last-child>div>ul>li>b,
+.contentContainer>div:last-child>div>h2,
+.contentContainer>div:last-child>div>h3,
+.contentContainer>div:last-child>div>p>b,
+.contentPrivacyContainer>div:last-child>div#termsQ16,
+.contentCopyRightContainer>div:last-child>h2,
+.contentPrivacyContainer>div:nth-child(2)>p:nth-of-type(4),
+.contentPrivacyContainer>div:last-of-type div h2,
+.contentPrivacySaleContainer>div:last-of-type div h2,
+.contentPrivacySaleContainer>div:last-of-type div p.bold,
+.contentPrivacySaleContainer>div:last-of-type div p>b,
+.contentContainer>div:nth-child(2)>p.bold,
+.shippingContainer div div div:not(:last-child) form fieldset legend,
+.shippingContainer>div:last-of-type>div>h2,
+.shippingContainer>div:last-of-type>div>div:last-of-type>span,
+.cartContainer>div>form>fieldset:last-of-type,
+.cartBeforeContainer>p:first-of-type,
+.completeorderContainer>p:first-of-type,
+.completeorderContainer>div>div>span,
+.forgotPasswordContainer>div:last-of-type>div>span.bold,
+.aboutBNConatiner h3,
+.affiliateProgramContainer>dl>dt,
+.masterCardContainer>div:nth-child(2)>div:first-of-type>span,
+.masterCardContainer>ul>li>figure>figcaption>dl>dt,
+.masterCardContainer>ol>li>a,
+.masterCardContainer>ol>li>b,
+.publisherAuthorContainer>ul>li,
+.publisherAuthorContentContainer>div:last-child>h2,
+.publisherAuthorContentContainer>div:last-child>p.bold,
+.blukOrderContianer>div:nth-child(2)>div>h2,
+.blukOrderContianer>div:nth-child(2)>ul>li.bold,
+.blukOrderContianer>div:last-child>form>fieldset>legend,
+.blukOrderContianer>div:last-child>form>fieldset:last-of-type>div:nth-of-type(3)>ul>li:first-of-type,
+.blukOrderContianer>div:last-child>form>fieldset:last-of-type>div:last-of-type>p.bold,
+.blukOrderContianer>div:nth-child(2)>h2,
+.blukOrderContianer>div:last-child>form>fieldset:last-of-type>div:last-of-type>div>div>h3,
+.blukOrderContianer>div:last-child>form>fieldset:last-of-type>div:last-of-type>div>div>span,
+.membershipContainer>div:nth-child(2)>div>h3,
+.membershipContainer>div:nth-child(3)>div:first-of-type,
+.membershipContainer>div:nth-child(3)>div:first-of-type>h2,
+.membershipContainer>div:nth-child(3)>div>div>p.bold,
+.membershipContainer>div:nth-child(3)>div:last-of-type>span,
+.membershipContainer>div:nth-child(4)>div>h2,
+.membershipContainer>div:nth-child(5)>h2,
+.membershipContainer>div:nth-child(5)>div>h3,
+.membershipContainer>div:nth-child(6)>ol>li>a,
+.mobileAppsContainer>div:not(:first-child)>h2,
+.mobileAppsContainer>div>span,
+.mobileNOOKAppContainer>div:nth-child(2)>div:first-of-type>h2,
+.mobileNOOKAppContainer>div:nth-child(2)>div:nth-of-type(2)>div>span,
+.mobileNOOKAppContainer>div:nth-child(2)>p:last-of-type,
+.mobileNOOKAppContainer>div:nth-child(3)>div>h3,
+.mobileNOOKAppContainer>div:nth-child(4)>div>h2,
+.mobileNOOKAppContainer>div:nth-child(6)>div>h2,
+.mobileNOOKAppContainer>div>div>h2,
+.barnesAppContainer>div:nth-child(2)>div>p,
+.barnesAppContainer>div:nth-child(3)>div>h2,
+.barnesAppContainer>div:nth-child(3)>div>div>h2,
+.bookfairContainer>div:nth-child(2)>h2,
+.bookfairContainer>div>div>div>h2,
+.bookfairContainer>div>div:first-of-type>div>h2,
+.giftCardsContainer>div:not(:first-child)>h2,
+.giftCardsContainer>ul>li>a>b,
+.bulkGiftCardContainer h2,
+.bulkGiftCardContainer b,
+.balaceCardContainer>div>form>fieldset>legend,
+.balaceCardContainer>span,
+.helpCenterContainer>ul>li>a>div>b,
+.pressContainer>ul>li>a>div>b,
+.quickHelpContainer>div:last-of-type>ul>li>a,
+.quickHelpContentContainer>div:nth-child(4)>span,
+.helpContentContainer .bold,
+.helpContentContainer>div:last-child>h2,
+.helpContentContainer>div:last-child>h3,
+.helpContentContainer>div:last-child>address.bold,
+.helpPressContentCotainer h2,
+.helpPressContentCotainer h3,
+.helpPressContentCotainer address.bold,
+.helpPressContentCotainer .bold,
+.covidContainer h2,
+.storePickUpContainer>div:nth-child(2)>div>h2,
+.storePickUpContainer>div:nth-child(3)>ul>li:nth-of-type(6),
+.storePickUpContainer>div:nth-child(3)>ul>li>figure>figcaption>dl>dd>a,
+.storePickUpContainer>div:nth-child(3)>ul>li>figure>figcaption>dl>dt,
+.storePickUpContainer>div:last-child,
+.productRecallsContainer h2,
+.productRecallsContainer .bold,
+.giftCardContentContainer>div:first-child>div:last-of-type>div>form>fieldset>legend,
+.giftCardContentContainer>div:first-child>div>div>form>div>p.bold,
+.giftCardContentContainer>div:first-child>div>div>form>div>div>div>h3,
+.giftCardContentContainer>div:first-child>div>div>form>div>div>div>span,
+.searchStoresContainer>div:nth-child(2)>form>fieldset>legend,
+.searchStoresContainer>div:nth-child(2)>form>fieldset>div>span{
+    font-family: 'Lora';
+    font-weight: 700;
+}
+
+
+.detailContainer>div:nth-child(2) div.content:first-of-type p.italic,
+.helpPressContentCotainer .italic,
+.publisherAuthorContentContainer>div:last-child>p.italic{
+    font-family: 'Lora';
+    font-style: italic;
+}
+a{
+    text-decoration: none;
+}
+
+
+.bx-wrapper {
+    box-shadow: none;
+    border: none;
+    background: none;
+    margin-bottom: 0px;
+}
+div.selectForm{
+    background: url('../images/account_form_select_arrow.png') no-repeat 95% 50%;
+    background-color: #f7f6f2;
+    border: 1px solid #cacaca; 
+}
+div.selectForm.actvie{
+    background: url('../images/account_form_select_arrow_Up.png') no-repeat 95% 50%;
+}
+select::-ms-expand{
+    display:none;
+ }
+
+ @media screen and (max-width: 767px){
+    [id$='Panel']{
+        display: none;
+    }
+    [id$='Panel'].active{
+        display: block;
+    }
+
+    select{
+        -webkit-appearance: none;
+        -moz-appearance: none;
+        appearance: none;
+        width:100%;
+        height:100%; 
+        padding: 15px 0 15px 15px;
+        font-family: inherit;
+        box-sizing: border-box;
+        background:transparent; border:0;
+        border-style: none; cursor: pointer;
+    }
+    header:after{
+        content: ''; display: block; clear: both;
+    }
+    header{
+        position: relative;
+    }
+
+    .searchStoresContainer>div:last-child>iframe:first-of-type,
+    .searchStoresContainer>div:last-child>iframe:nth-of-type(2),
+    .helpContentContainer>div:last-child>.video_Container>video:first-of-type,
+    .helpContentContainer>div:last-child>.video_Container>video:nth-of-type(2){
+        display: none;
+    }
+    
+    header>div:not(:first-of-type),
+   .indexContainer>div:nth-child(2),
+   .indexContainer>div:nth-child(3),
+   .indexContainer>div:nth-child(4),
+   .indexContainer>div:nth-child(5),
+   .indexContainer>div:nth-child(6),
+   .indexContainer>div:nth-child(7),
+   .listContainer,
+   .detailContainer,
+   .logContainer,
+   .contentContainer,
+   .contentPrivacyContainer,
+   .contentPrivacySaleContainer,
+   .contentCopyRightContainer,
+   .contentAdditionalContainer,
+   .accountContainer,
+   .shippingContainer,
+   .cartContainer,
+   .cartBeforeContainer,
+   .completeorderContainer,
+   .passwordContainer,
+   .createContainer,
+   .quickHelpContainer,
+   .helpContentContainer,
+   .helpPressContentCotainer,
+   .giftCardContentContainer,
+   footer>div,
+   .footerContainer{
+        margin: 0 auto;
+        padding: 0 10px;
+    }
+    footer>div:nth-of-type(2)>div:not(:first-of-type)>ul>li,
+    footer>div:last-of-type>ul>li,
+   .indexContainer>div:nth-child(9)>ul>li{
+        list-style: none;
+    }
+
+
+    .indexContainer>div:not(:nth-child(9))>h2{
+        font-weight: 400; color: #505050; font-size: 17px;
+    }
+
+    .btn_now{
+        font-weight: 500; font-size: 14px; color: #fff; padding: 15px 10px;
+        background-color: #3e5962; max-width: 150px; text-align: center;
+       
+    }
+    input[type="text"]{
+        font-size: 14px;
+    }
+
+    header>div:after{
+        content: ''; display: block; clear: both;
+    }
+
+    header>div:last-child{
+        /* position: relative; */
+        margin: 0 auto;
+        float: right;
+    }
+    header>div:first-child>a{
+        text-align: center; display: block;
+        background-color: #3e5962;
+        font-size: 10px; font-weight: 400;
+        padding: 15px 0; color: white;
+        margin-bottom: 20px;
+        width: 100%;
+    }
+    header>div:nth-child(2)>h1{
+        margin-bottom: 20px;
+        position: relative;
+    }
+    header>div:nth-child(2)>h1>a>img{
+        display: block;
+        padding-top: 5px;
+        /* max-width: 150px; */
+        max-width: 110px;
+    }
+    header>div:nth-child(2){
+        float: left;
+    }
+    header>div:last-child>div,
+    header>div:last-child>nav{
+        float: left;
+    }
+    header>div:last-child{
+        z-index: 99999;
+    }
+    header>div:last-child>nav>label.mui{
+        width: 15px; display: block;
+        /* margin: 3px 0 0 25px; */
+        margin: 3px 0 0 0;
+    }
+    header>div:last-child>nav>label.mui>span{
+        border-top: 2px solid #868686; display: block;
+    }
+    header>div:last-child>nav>label.mui>span:not(:last-of-type){
+        margin-bottom: 3px;
+    }
+    header>div:last-child>nav>input[type='checkbox'].mui{
+        display: none;
+    }
+   
+    header>div:last-child>nav>input[type='checkbox'].mui:checked+ul{
+        height: 1000px;
+    }
+    header>div:last-child>nav>ul{
+        height: 0; overflow-y: hidden; transition: height 1s ease-in-out;
+        background-color: #000;
+        position: absolute;
+        width: 100%;
+        top: 90px;
+        left: 0;
+        z-index: 99999;
+    }
+    header>div:last-child>nav>ul>li{
+        display:block;
+        
+    }
+    header>div:last-child>nav>ul>li>h2{
+        font-size: 16px; font-weight: 400;
+        color: #fff;
+        padding: 20px 0 20px 10px;
+        background-image: url('../images/m_arrow_03.png');
+        background-repeat: no-repeat;
+        background-position: right 30px center;
+        border-bottom: 2px solid #757575;
+    }
+    header>div:last-child>nav>ul>li>h2.active{
+        background-image: url('../images/m_arrow_Up.png');
+        background-repeat: no-repeat;
+        background-position: right 30px center;
+    }
+    header>div:last-child>nav>ul>li>h2:hover,
+    header>div:last-child>nav>ul>li>ol>li>a:hover{
+        color: #00c0f3;
+        cursor: pointer;
+    }
+    
+    header>div:last-child>nav>ul>li:first-of-type>h2{
+        padding-top: 20px;
+    }
+    header>div:last-child>nav>ul>li,
+    header>div:last-child>nav>ul>li>ol>li,
+    header>div:last-child>div>ul>li{
+        list-style: none;
+    }
+
+     header>div:last-child>nav>ul>li:hover>ol{
+        display: block;
+     }
+     header>div:last-child>nav>ul>li:first-of-type>ol>li:first-of-type,
+     header>div:last-child>nav>ul>li:nth-of-type(2)>ol>li:first-of-type,
+     header>div:last-child>nav>ul>li:nth-of-type(3)>ol>li:first-of-type,
+     header>div:last-child>nav>ul>li:last-of-type>ol>li:first-of-type{
+        padding-top: 20px;
+     }
+     header>div:last-child>nav>ul>li:first-of-type>ol>li:not(:nth-of-type(4)),
+     header>div:last-child>nav>ul>li:nth-of-type(2)>ol>li:not(:nth-of-type(3)),
+     header>div:last-child>nav>ul>li:nth-of-type(3)>ol>li:not(:nth-of-type(3)),
+     header>div:last-child>nav>ul>li:last-of-type>ol>li:not(:nth-of-type(4)){
+        margin-bottom: 20px;
+     }
+     header>div:last-child>nav>ul>li>ol>li:last-of-type{
+        display: none;
+     }
+    
+    header>div:last-child>nav>ul>li>ol{
+        background-color: #000;
+        display: none;    
+        width: 100%;
+    }
+    
+    header>div:last-child>nav>ul>li>ol{
+        left: 0;
+    }
+    
+    header>div:last-child>nav>ul>li>ol>li:not(:last-of-type){
+        padding-left: 10px;
+     }
+     
+     header>div:last-child>nav>ul>li>ol>li{
+        border-bottom: 1px solid #505050;
+     }
+     
+     header>div:last-child>nav>ul>li>ol>li>a{
+        font-size: 12px; color: #ababaa;
+     }
+     
+    header>div:last-child>nav>ul>li>ol>li>h3{
+        font-weight: 500;  margin-bottom: 20px;
+        color: #c7c7c7;
+        font-size: 13px;
+    }
+    
+    header>div:last-child>nav>ul>li>ol>li>a{
+        margin-bottom: 20px;
+        display: block; font-weight: 300; 
+    }
+    
+     
+    header>div:last-child>nav>ul>li>ol>li:last-of-type{
+        display: none;
+    }
+
+ 
+
+
+
+/*  * search, cart, account 부분 */
+    header>div:last-child>div{
+        /* margin-right: 24px; */
+    }
+    header>div:last-child
+    header>div:last-child>div>ul::after{
+        content: ''; display: block; clear: both;
+    }
+    header>div:last-child>div>ul>li{
+        float: left;
+        max-width: 23px;
+    }
+    header>div:last-child>div>ul>li:first-of-type{
+        margin-left: 20px;
+    }
+    header>div:last-child>div>ul>li:nth-of-type(2){
+        margin-left: 10px;
+    }
+    header>div:last-child>div>ul>li:last-of-type{
+        margin-left: 20px;
+    }
+    header>div:last-child>div>ul>li:first-of-type>input[type='button'],
+    header>div:last-child>div>ul>li:nth-of-type(2)>a,
+    header>div:last-child>div>ul>li:last-of-type>input[type='button']{
+        padding: 5px 10px; 
+        border-style: none; 
+        text-indent: -9999px;
+        cursor: pointer;
+        
+    }
+
+
+
+    header>div:last-child>div>ul>li:nth-of-type(2)>a{
+        display: block; 
+        background-image: url('../images/nav_account_icon_fill.svg');
+        background-size: contain; background-position: center; background-repeat: no-repeat;
+        width: 10px; height: 10px;
+      
+    }
+
+ 
+    header>div:last-child>div>ul>li:first-of-type>input[type='button']{   
+        display: block; 
+        background-image: url('../images/nav_search_icon_fill.svg');
+        background-size: contain; background-position: center; background-repeat: no-repeat;
+        background-color: transparent;
+        width: 18px; height: 18px;
+    }
+ 
+    header>div:last-child>div>ul>li:last-of-type>input[type='button']{
+        display: block; 
+        background-image: url('../images/nav_cart_icon_fill.svg');
+        background-size: contain; background-position: center; background-repeat: no-repeat;
+        background-color: transparent;
+        width: 18px; height: 18px;
+    }
+    header>div:last-child>div>ul>li:not(:first-of-type){
+        /* position: relative; */
+    }
+    header>div:last-child>div>ul>li>#searchtarget{
+        height: 100%;
+    }
+    header>div:last-child>div>ul>li>div.search_container{
+        position: fixed;
+        z-index: 99999;
+        left: 0;
+        top: 0;
+        padding: 10px 20% 0 10px ;
+        background-color: #000;
+        display: none;
+    }
+    header>div:last-child>div>ul>li>#searchtarget>form>input[type='search']{
+        background: url('../images/nav_search_icon_fill.svg') no-repeat 10px center/ 20px 20px;
+        padding: 20px 16.58% 20px 40px;
+
+        background-color: transparent;
+        font-size: 14px;
+        color: #fff;
+        border-style: none;
+        border-bottom: 1px solid #cacaca;
+        margin-bottom: 25px;
+    }
+    header>div:last-child>div>ul>li>#searchtarget>form>input[type='submit']{
+        display: block;
+        margin: 0 auto;
+        text-align: center;
+        color: #0d0d0d;
+        border-style: none;
+        background-color: #00c0f3;
+        padding:10px 15px;
+        width: 100%;
+        min-width: 115%;
+        font-weight: 300;
+        font-size: 16px;
+        cursor: pointer;
+    }
+    header>div:last-child>div>ul>li>#searchtarget>form>input[type='button']{
+        padding: 5px;
+        background: url('../images/li_bs100_Filter_close.png') center / contain no-repeat;
+        position: absolute;
+        z-index: 99999;
+        top:10px;
+        width: 10px;
+        right: 5%;
+        border-style: none; 
+        text-indent: -9999px;
+        cursor: pointer;
+    }
+
+    /*! cart paner start */
+    header>div:last-child>div>ul>li>#cartPanel{
+        position: fixed;
+        z-index: 99999;
+        right: 0;
+        top: 0;
+        margin-left: 10px;
+        height: 100%;
+        background-color: #000;
+       
+    }
+    header>div:last-child>div>ul>li>#cartPanel>div{
+      display: none;
+    }
+    header>div:last-child>div>ul>li>#cartPanel>div>h2,
+    header>div:last-child>div>ul>li>#cartPanel>div>p,
+    header>div:last-child>div>ul>li:last-of-type>#cartPanel>form>div>h2{
+        padding: 25px 0 25px 25px;
+        font-weight: 400;
+        font-size: 14px;
+        color: #fff;
+    }
+    header>div:last-child>div>ul>li>#cartPanel>div>h2,
+    header>div:last-child>div>ul>li:last-of-type>#cartPanel>form>div>h2{
+        border-bottom: 1px solid #cacaca;
+    }
+
+    header>div:last-child>div>ul>li:last-of-type>#cartPanel>form>div>h2{
+        margin-bottom: 25px;
+    }
+    header>div:last-child>div>ul>li:last-of-type>#cartPanel>form>div>div::after{
+        content: ''; display: block; clear: both;
+    }
+    header>div:last-child>div>ul>li:last-of-type>#cartPanel>form>div>div>img{
+        display: block; 
+        margin: 0 20px 0 25px;
+        float: left;
+    }
+    header>div:last-child>div>ul>li:last-of-type>#cartPanel>form>div>div>div>h3>a{
+        color: #fff;
+        font-weight: 400; font-size: 14px;
+        display: block;
+        margin-bottom: 10px;
+    }
+    header>div:last-child>div>ul>li:last-of-type>#cartPanel>form>div>div>div>mark{
+        background-color: transparent;
+        font-weight: 700; font-size: 12px; color: #00c0f3;
+        margin-bottom: 65px;
+        display: block;
+    }
+    header>div:last-child>div>ul>li:last-of-type>#cartPanel>form>div>div>div>div.countComponent{
+        padding-bottom: 25px;
+        border-bottom: 1px solid #cacaca;
+        margin-bottom: 25px;
+    }
+    header>div:last-child>div>ul>li:last-of-type>#cartPanel>form>div>div>div>div.countComponent>input[type='button']{
+        border: 1px solid #cacaca;
+        background-color: #fff;
+        padding: 5px 10px;
+        color: #505050;
+        cursor: pointer;
+    }
+    header>div:last-child>div>ul>li:last-of-type>#cartPanel>form>div>div>div>div.countComponent>span{
+        color: #fff;
+        font-size: 14px; font-weight: 700;
+        display: inline-block;
+        padding: 0 5px;
+    }
+    header>div:last-child>div>ul>li:last-of-type>#cartPanel>form>div>input[type='button']{
+        padding: 5px;
+        background: url('../images/li_bs100_Filter_close.png') center / contain no-repeat;
+        position: absolute;
+        border-style: none; 
+        text-indent: -9999px;
+        cursor: pointer;
+    }
+    header>div:last-child>div>ul>li:last-of-type>#cartPanel>form>div>input[type='button']:first-of-type{
+        position: absolute;
+        top: 15px;
+        right: 5%;
+    }
+    header>div:last-child>div>ul>li:last-of-type>#cartPanel>form>div>input[type='button']:last-of-type{
+     
+        top: 195px;
+        left: 85%;
+       
+    }
+    header>div:last-child>div>ul>li:last-of-type>#cartPanel>form>div>div:last-of-type{
+        margin: 0 25px;
+    }
+    header>div:last-child>div>ul>li:last-of-type>#cartPanel>form>div>div:last-of-type>p{
+        font-weight: 400; font-size: 14px; color: #969696; line-height: 24px;
+        margin-bottom: 25px;
+    }
+    header>div:last-child>div>ul>li:last-of-type>#cartPanel>form>div>div:last-of-type>p>mark{
+        display: inline-block; background-color: transparent; color: #969696;
+    }
+    header>div:last-child>div>ul>li:last-of-type>#cartPanel>form>div>div:last-of-type>a{
+        display: block;
+        background-color: #00c0f3;
+        text-align: center;
+        padding: 15px 0;
+        color: #2a2a2a;
+        margin-bottom: 25px;
+    }
+/* *header Fin */
+
+    footer{
+        background-color: #505050;
+    }
+    footer>div:first-of-type{
+        padding-top: 20px;
+        margin-bottom: 20px;
+    }
+    footer>div:first-of-type>p{
+        font-weight: 400; font-size: 10px; color: #fff;
+    }
+    
+    footer>div:nth-of-type(2)::after{
+        content: ''; display: block; clear: both;
+    }
+
+    footer>div:nth-of-type(2){
+        margin-bottom: 15px;
+    }
+    footer>div:nth-of-type(2)>div:first-of-type,
+    footer>div:nth-of-type(2)>div:last-of-type{
+        border-bottom: 1px solid #fff;
+    }
+    footer>div:nth-of-type(2)>div:first-of-type>h2>img{
+        display: block; margin-bottom: 20px; 
+    }
+    footer>div:nth-of-type(2)>div:first-of-type>div>h3{
+        font-weight: 700; font-size: 10px; color: #fff;
+        margin-bottom: 20px;
+    }
+    footer>div:nth-of-type(2)>div:first-of-type>div:after{
+        content: ''; display: block; clear: both;   
+    }
+    footer>div:nth-of-type(2)>div:first-of-type>div>form>input[type='email'],
+    footer>div:nth-of-type(2)>div:first-of-type>div>form>input[type='submit']{
+        padding: 10px 10px;
+        display: block;
+    }
+
+    footer>div:nth-of-type(2)>div:first-of-type>div>form>input[type='email']{
+        float: left;
+        /* min-width: 76.63%; */
+        
+        min-width: 70.63%;
+    }
+    footer>div:nth-of-type(2)>div:first-of-type>div>form>input[type='submit']{
+        cursor: pointer;
+        background-image: url('../images/d_Main__Footer_arrow_next.png');
+        background-repeat: no-repeat;
+        background-position: center;
+        text-indent: -9999px;
+        background-color: #3e5962;
+        border: none;
+        width: 50px;
+        margin-bottom: 20px;
+        transition: background-color 0.3s ease-in-out;
+    }
+    footer>div:nth-of-type(2)>div:first-of-type>div>form>input[type='submit']:hover{
+        background-color: #00c0f3;
+    }
+
+    footer>div:nth-of-type(2)>div:first-of-type>div>div{
+        font-weight: 400; font-size: 10px; color: #fff;
+        line-height: 14px;
+        margin-bottom: 20px;
+    }
+    footer>div:nth-of-type(2)>div:first-of-type>div>div>a{
+        display: inline-block; color: white; border-bottom: 1px solid #fff;
+        max-width: 10%;
+    }
+    footer>div:nth-of-type(2)>div:nth-of-type(2)>h2,
+    footer>div:nth-of-type(2)>div:last-of-type>h2{
+        color: #fff; font-weight: 700; font-size: 12px;
+        background: url('../images/m_arrow_03.png')no-repeat right center;
+        padding: 20px 0;
+    }
+    footer>div:nth-of-type(2)>div:nth-of-type(2)>h2.active,
+    footer>div:nth-of-type(2)>div:last-of-type>h2.active {
+        background-image: url('../images/m_arrow_Up.png');
+    }
+    footer>div:nth-of-type(2)>div:nth-of-type(2)>ul>li>a,
+    footer>div:nth-of-type(2)>div:last-of-type>ul>li>a{
+        display:inline-block; color: white; font-weight: 400; 
+        font-size: 10px; position: relative;
+        line-height: 20px;
+    }
+    footer .footerUl{
+        display: none;
+    }
+    footer>div:nth-of-type(2)>div:last-of-type>ul>li:last-of-type>a{
+        margin-bottom: 20px;
+    }
+    footer>div:nth-of-type(2)>div:nth-of-type(2)>ul>li>a::after,
+    footer>div:nth-of-type(2)>div:last-of-type>ul>li>a::after{
+        content: '';
+        position: absolute;
+        bottom: -2px;
+        left: 0;
+        width: 0;
+        height: 2px;
+        background-color: white;
+        transition: width 0.3s ease;
+    }
+    footer>div:nth-of-type(2)>div:nth-of-type(2)>ul>li>a:hover::after,
+    footer>div:nth-of-type(2)>div:last-of-type>ul>li>a:hover::after{
+        width: 100%;
+    }
+
+    footer>div:last-of-type{
+        padding-bottom: 20px;
+    }
+    footer>div:last-of-type>p{
+        font-weight: 400; font-size: 10px; color: white;
+        margin-bottom: 20px;
+    }
+    footer>div:last-of-type>ul>li{
+        display: inline-block;  
+        width: 16px; line-height: 16px;
+     }
+
+     footer>div:last-of-type>ul>li>a{
+        display: block; text-indent: -9999px; background-repeat: no-repeat; 
+        background-size: contain;
+        cursor: pointer;
+    }
+    footer>div:last-of-type>ul>li:not(:first-of-type){
+        margin-left: 15px;
+    }
+     footer>div:last-of-type>ul>li:nth-child(1)>a{background-image: url('../images/d_Main__Footer_snsIcon_Facebook.png');}
+     footer>div:last-of-type>ul>li:nth-child(2)>a{background-image: url('../images/d_Main__Footer_snsIcon_Twitter.png');}
+     footer>div:last-of-type>ul>li:nth-child(3)>a{background-image: url('../images/d_Main__Footer_snsIcon_Pinterest.png');}
+     footer>div:last-of-type>ul>li:nth-child(4)>a{background-image: url('../images/d_Main__Footer_snsIcon_instagram.png');}
+
+}
+/* ? mobile Global. */
+
+ @media screen and (min-width:768px) and (max-width: 1279px){
+    [id$='Panel']{
+        display: none;
+    }
+    [id$='Panel'].active{
+        display: block;
+    }
+
+    select{
+        -webkit-appearance: none;
+        -moz-appearance: none;
+        appearance: none;
+        width:100%;
+        height:100%; 
+        padding: 15px;
+        font-family: inherit;
+        box-sizing: border-box;
+        background:transparent; border:0;
+        border-style: none; cursor: pointer;
+    }
+    header{
+        position: relative;
+    }
+    .mui{
+        display: none;
+    }
+    .searchStoresContainer>div:last-child>iframe:first-of-type,
+    .searchStoresContainer>div:last-child>iframe:last-of-type,
+    .helpContentContainer>div:last-child>.video_Container>video:first-of-type,
+    .helpContentContainer>div:last-child>.video_Container>video:last-of-type,
+    header>div:last-child>div>ul>li>#searchtarget>form>input[type='button'],
+    header>div:last-child>div>ul>li:last-of-type>#cartPanel>form>div>input[type='button']:last-of-type{
+        display: none;
+    }
+    
+    .myaccountContainer>span.mspan{
+        display: none;
+    }
+    header>div:not(:first-of-type),
+   .indexContainer>div:nth-child(2),
+   .indexContainer>div:nth-child(3),
+   .indexContainer>div:nth-child(4),
+   .indexContainer>div:nth-child(5),
+   .indexContainer>div:nth-child(6),
+   .indexContainer>div:nth-child(7),
+   .listContainer,
+   .detailContainer,
+   .logContainer,
+   .contentContainer,
+   .contentPrivacyContainer,
+   .contentPrivacySaleContainer,
+   .contentCopyRightContainer,
+   .contentAdditionalContainer,
+   .accountContainer,
+   .shippingContainer,
+   .cartContainer,
+   .cartBeforeContainer,
+   .completeorderContainer,
+   .passwordContainer,
+   .createContainer,
+   .quickHelpContainer,
+   .helpContentContainer,
+   .helpPressContentCotainer,
+   .giftCardContentContainer,
+   footer>div,
+   .footerContainer{
+        max-width: 720px; margin: 0 auto;
+    }
+    footer>div:nth-of-type(2)>div:not(:first-of-type)>ul>li,
+    footer>div:last-of-type>ul>li,
+   .indexContainer>div:nth-child(9)>ul>li{
+        list-style: none;
+    }
+
+
+    .indexContainer>div:not(:nth-child(9))>h2{
+        font-weight: 400; color: #505050; font-size: 17px;
+    }
+
+    .btn_now{
+        font-weight: 500; font-size: 14px; color: #fff; padding: 15px 10px;
+        background-color: #3e5962; max-width: 150px; text-align: center;
+       
+    }
+    input[type="text"]{
+        font-size: 14px;
+    }
+
+
+    header>div:last-child{
+        position: relative;
+        max-width: 768px;
+        margin: 0 auto;
+    }
+    header>div:first-child>a{
+        text-align: center; display: block;
+        background-color: #3e5962;
+        font-size: 12px; font-weight: 400;
+        padding: 15px 0; color: white;
+        margin-bottom: 65px;
+    }
+    header>div:nth-child(2)>h1{
+        margin-bottom: 50px;
+    }
+    header>div:nth-child(2)>h1>a{
+        display: block;
+    }
+    header>div:last-child{
+        display: flex;
+        justify-content: space-between;
+       
+    }
+    header>div:last-child>nav{
+        z-index: 99999;
+    }
+    header>div:last-child>nav>ul>li{
+        display: inline-block;
+    }
+    header>div:last-child>nav>ul>li:first-of-type{
+        margin-left: 24px;
+    }
+    
+    header>div:last-child>nav>ul>li>h2{
+        font-size: 16px; font-weight: 400;
+        padding-right: 15px; color: #0d0d0d;
+        margin-bottom: 40px;
+    }
+    header>div:last-child>nav>ul>li>h2:hover,
+    header>div:last-child>nav>ul>li>ol>li>a:hover{
+        color: #00c0f3;
+        cursor: pointer;
+    }
+    
+    header>div:last-child>nav>ul>li,
+    header>div:last-child>nav>ul>li>ol>li,
+    header>div:last-child>div>ul>li{
+        list-style: none;
+    }
+    header>div:last-child>nav>ul>ol::after{
+        content: '';  display: block; clear: both;
+     }
+
+     header>div:last-child>nav>ul>li:hover>ol{
+        display: block;
+     }
+    
+    header>div:last-child>nav>ul>li>ol{
+        position:absolute;
+        background-color: #fafafa;
+        display: none;    
+        max-width: 768px;
+        width: 100%;
+    }
+    
+    header>div:last-child>nav>ul>li>ol{
+        left: 0;
+    }
+    
+    header>div:last-child>nav>ul>li>ol>li:not(:last-of-type){
+        padding: 20px 0 0 15px; 
+        float: left;
+        margin-right: 15px;
+        
+     }
+     
+     header>div:last-child>nav>ul>li>ol>li:not(:first-of-type){
+        border-left: 1px solid #eaeaea;
+     }
+     
+     header>div:last-child>nav>ul>li>ol>li>a{
+        font-size: 12px; color: #737373;
+     }
+     
+    header>div:last-child>nav>ul>li>ol>li>h3{
+        font-weight: 500;  margin-bottom: 25px;color: #737373;
+        font-size: 13px;
+    }
+    
+    header>div:last-child>nav>ul>li>ol>li>a{
+        margin-bottom: 15px;
+        max-width: 115px; line-height: 24px; display: block; font-weight: 300; 
+    }
+    
+     header>div:last-child>nav>ul>li:first-of-type>ol>li:nth-of-type(2){
+        padding-bottom: 130px;
+     }
+     header>div:last-child>nav>ul>li:first-of-type>ol>li:nth-of-type(4){
+        padding-bottom: 195px;
+     }
+     header>div:last-child>nav>ul>li:first-of-type>ol>li:last-of-type{
+        padding-bottom: 120px;
+     }
+
+     header>div:last-child>nav>ul>li:nth-of-type(2)>ol>li:nth-of-type(2){
+        padding-bottom: 172px;   
+    }
+    header>div:last-child>nav>ul>li:nth-of-type(2)>ol>li:last-of-type{
+        padding-bottom: 166px;   
+    }
+    header>div:last-child>nav>ul>li:nth-of-type(3)>ol>li:nth-of-type(2){
+        padding-bottom: 180px;
+    }
+    header>div:last-child>nav>ul>li:nth-of-type(3)>ol>li:last-of-type{
+        padding-bottom: 170px;   
+    }
+    header>div:last-child>nav>ul>li:last-of-type>ol>li:nth-of-type(2){
+        padding-bottom: 117px;
+    }
+    header>div:last-child>nav>ul>li:last-of-type>ol>li:nth-of-type(4){
+        padding-bottom: 219px;
+    }
+    header>div:last-child>nav>ul>li:last-of-type>ol>li:last-of-type{
+        padding-bottom: 138px;
+    }
+
+    header>div:last-child>nav>ul>li>ol>li:last-of-type{
+      display: flex;
+      justify-content: flex-end;
+    }
+    header>div:last-child>nav>ul>li>ol>li:last-of-type>figure{
+        margin-top: 20px;
+    }
+     
+    header>div:last-child>nav>ul>li>ol>li:last-of-type>figure{
+        margin-left: 15px;
+    }
+    header>div:last-child>nav>ul>li>ol>li:last-of-type>figure:last-of-type{
+        margin-right: 15px;
+    }
+    header>div:last-child>nav>ul>li>ol>li:last-of-type>figure>img{
+        display: block; width: 100%;
+    }
+    
+    header>div:last-child>nav>ul>li>ol>li:last-of-type>figure>figcaption{
+       background-color: white;
+       padding: 10px 10px 15px 10px;
+    }
+    header>div:last-child>nav>ul>li>ol>li:last-of-type>figure>figcaption>h3,
+    header>div:last-child>nav>ul>li>ol>li:last-of-type>figure>figcaption>a{
+        font-weight: 700; font-size: 10px; 
+    }
+    header>div:last-child>nav>ul>li>ol>li:last-of-type>figure>figcaption>h3{
+        margin-bottom: 10px;
+         color: #505050;
+    }
+    header>div:last-child>nav>ul>li>ol>li:last-of-type>figure>figcaption>a{
+        color: #00c0f3;
+        border-bottom: 1px solid #00c0f3;
+    }
+
+ 
+
+
+
+/*  * search, cart, account 부분 */
+    header>div:last-child>div{
+        margin-right: 24px;
+    }
+    header>div:last-child
+    header>div:last-child>div>ul::after{
+        content: ''; display: block; clear: both;
+    }
+    header>div:last-child>div>ul>li{
+        float: left;
+    }
+    header>div:last-child>div>ul>li:not(:first-of-type){
+        margin-left: 20px;
+        
+    }
+    header>div:last-child>div>ul>li:first-of-type>input[type='button'],
+    header>div:last-child>div>ul>li:nth-of-type(2)>a,
+    header>div:last-child>div>ul>li:last-of-type>input[type='button']{
+        padding: 5px 20px; 
+        border-style: none; 
+        text-indent: -9999px;
+        cursor: pointer;
+        
+    }
+
+    header>div:last-child>div>ul>li:first-of-type>input[type='button'].active{
+        background: url('../images/nav_close_icon_fill.svg') center / contain no-repeat ;
+        width: 20px;height: 23px;
+    }
+
+    header>div:last-child>div>ul>li:last-of-type>input[type='button'].active{
+        background: url('../images/nav_close_icon_fill.svg') center / contain no-repeat ;
+        width: 20px;height: 23px;
+    }
+
+
+
+    header>div:last-child>div>ul>li:nth-of-type(2)>a{
+        display: block; 
+        background-image: url('../images/nav_account_icon_fill.svg');
+        background-size: contain; background-position: center; background-repeat: no-repeat;
+        width: 20px; height: 20px;
+      
+    }
+
+ 
+    header>div:last-child>div>ul>li:first-of-type>input[type='button']{   
+        display: block; 
+        background-image: url('../images/nav_search_icon_fill.svg');
+        background-size: contain; background-position: center; background-repeat: no-repeat;
+        background-color: transparent;
+        width: 30px; height: 30px;
+    }
+ 
+    header>div:last-child>div>ul>li:last-of-type>input[type='button']{
+        display: block; 
+        background-image: url('../images/nav_cart_icon_fill.svg');
+        background-size: contain; background-position: center; background-repeat: no-repeat;
+        background-color: transparent;
+        width: 28px; height: 28px;
+    }
+    header>div:last-child>div>ul>li:not(:first-of-type){
+        position: relative;
+    }
+    header>div:last-child>div>ul>li>#searchtarget{
+        position: absolute;
+        z-index: 2;
+        display: none;
+    }
+    header>div:last-child>div>ul>li>#searchtarget{
+        left: 24px;
+        top: 55px;
+    }
+    header>div:last-child>div>ul>li>#searchtarget>form>input[type='search']{
+        min-width: 720px;
+        width: 100%;
+        padding: 20px;
+        box-shadow: 0 3px 5px #0003;
+        border-style: none;
+    }
+    header>div:last-child>div>ul>li>#searchtarget>form>input[type='submit']{
+        position: absolute;
+        right: 20px;
+        top: 10px;
+        border-style: none;
+        background-color: #00c0f3;
+        padding: 10px 30px;
+        color: #0d0d0d;
+        font-weight: 300;
+        font-size: 14px;
+        cursor: pointer;
+    }
+
+    /* cart paner start */
+    header>div:last-child>div>ul>li>#cartPanel{
+        position: absolute;
+        right: 0;
+        top: 55px;
+        background-color: #fff;
+        max-width: 350px;
+        z-index: 2;
+        box-shadow: 0 3px 5px #0003;
+    }
+    header>div:last-child>div>ul>li>#cartPanel>div{
+      min-width: 350px;
+      display: none;
+    }
+    header>div:last-child>div>ul>li>#cartPanel>div>h2,
+    header>div:last-child>div>ul>li>#cartPanel>div>p,
+    header>div:last-child>div>ul>li:last-of-type>#cartPanel>form>div>h2{
+        padding: 25px 0 25px 25px;
+        font-weight: 400;
+        font-size: 14px;
+        color: #969696;
+    }
+    header>div:last-child>div>ul>li>#cartPanel>div>h2,
+    header>div:last-child>div>ul>li:last-of-type>#cartPanel>form>div>h2{
+        border-bottom: 1px solid #cacaca;
+    }
+
+    header>div:last-child>div>ul>li>#cartPanel>form{
+        min-width: 350px;
+    }
+    header>div:last-child>div>ul>li:last-of-type>#cartPanel>form>div>h2{
+        margin-bottom: 25px;
+    }
+    header>div:last-child>div>ul>li:last-of-type>#cartPanel>form>div>div::after{
+        content: ''; display: block; clear: both;
+    }
+    header>div:last-child>div>ul>li:last-of-type>#cartPanel>form>div>div>img{
+        display: block; 
+        margin: 0 20px 0 25px;
+        float: left;
+    }
+    header>div:last-child>div>ul>li:last-of-type>#cartPanel>form>div>div>div>h3>a{
+        color: #2a2a2a;
+        font-weight: 400; font-size: 14px;
+        display: block;
+        margin-bottom: 10px;
+    }
+    header>div:last-child>div>ul>li:last-of-type>#cartPanel>form>div>div>div>mark{
+        background-color: transparent;
+        font-weight: 700; font-size: 12px; color: #00c0f3;
+        margin-bottom: 65px;
+        display: block;
+    }
+    header>div:last-child>div>ul>li:last-of-type>#cartPanel>form>div>div>div>div.countComponent{
+        padding-bottom: 25px;
+        border-bottom: 1px solid #cacaca;
+        margin-bottom: 25px;
+    }
+    header>div:last-child>div>ul>li:last-of-type>#cartPanel>form>div>div>div>div.countComponent>input[type='button']{
+        border: 1px solid #cacaca;
+        background-color: #fff;
+        padding: 5px 10px;
+        color: #505050;
+        cursor: pointer;
+    }
+    header>div:last-child>div>ul>li:last-of-type>#cartPanel>form>div>div>div>div.countComponent>span{
+        color: #505050;
+        font-size: 14px; font-weight: 700;
+        display: inline-block;
+        padding: 0 5px;
+    }
+    header>div:last-child>div>ul>li:last-of-type>#cartPanel>form>div>input[type='button']{
+        padding: 5px;
+        background: url('../images/cart_Fill__Close.png') center / contain no-repeat;
+        position: absolute;
+        top: 195px;
+        right: 20px;
+        border-style: none; 
+        text-indent: -9999px;
+        cursor: pointer;
+       
+    }
+    header>div:last-child>div>ul>li:last-of-type>#cartPanel>form>div>div:last-of-type{
+        margin: 0 25px;
+    }
+    header>div:last-child>div>ul>li:last-of-type>#cartPanel>form>div>div:last-of-type>p{
+        font-weight: 400; font-size: 14px; color: #969696; line-height: 24px;
+        margin-bottom: 25px;
+    }
+    header>div:last-child>div>ul>li:last-of-type>#cartPanel>form>div>div:last-of-type>p>mark{
+        display: inline-block; background-color: transparent; color: #969696;
+    }
+    header>div:last-child>div>ul>li:last-of-type>#cartPanel>form>div>div:last-of-type>a{
+        display: block;
+        background-color: #00c0f3;
+        text-align: center;
+        padding: 15px 0;
+        color: #2a2a2a;
+        margin-bottom: 25px;
+    }
+/* *header Fin */
+
+    footer{
+        background-color: #505050;
+    }
+    footer>div:first-of-type{
+        padding-top: 20px;
+        margin-bottom: 25px;
+    }
+    footer>div:first-of-type>p{
+        font-weight: 400; font-size: 12px; color: #fff;
+    }
+    
+    footer>div:nth-of-type(2){
+        border-bottom: 1px solid #fff;
+        margin-bottom: 20px;
+        padding-bottom: 20px;
+    }
+    footer>div:nth-of-type(2)::after{
+        content: ''; display: block; clear: both;
+    }
+    footer>div:nth-of-type(2)>div{
+        float: left;
+    }
+
+    footer>div:nth-of-type(2)>div:first-of-type{
+        width: 50%;
+    }
+    footer>div:nth-of-type(2)>div:first-of-type>h2>img{
+        display: block; margin-bottom: 20px; 
+    }
+    footer>div:nth-of-type(2)>div:first-of-type>div>h3{
+        font-weight: 700; font-size: 12px; color: #fff;
+        margin-bottom: 20px;
+    }
+    footer>div:nth-of-type(2)>div:first-of-type>div:after{
+        content: ''; display: block; clear: both;   
+    }
+    footer>div:nth-of-type(2)>div:first-of-type>div>form>input[type='email'],
+    footer>div:nth-of-type(2)>div:first-of-type>div>form>input[type='submit']{
+        padding: 15px 10px;
+        display: block;
+    }
+
+    footer>div:nth-of-type(2)>div:first-of-type>div>form>input[type='email']{
+        float: left;
+        min-width: 230px;
+    }
+    footer>div:nth-of-type(2)>div:first-of-type>div>form>input[type='submit']{
+        cursor: pointer;
+        background-image: url('../images/d_Main__Footer_arrow_next.png');
+        background-repeat: no-repeat;
+        background-position: center;
+        text-indent: -9999px;
+        background-color: #3e5962;
+        border: none;
+        width: 50px;
+        margin-bottom: 20px;
+        transition: background-color 0.3s ease-in-out;
+    }
+    footer>div:nth-of-type(2)>div:first-of-type>div>form>input[type='submit']:hover{
+        background-color: #00c0f3;
+    }
+
+    footer>div:nth-of-type(2)>div:first-of-type>div>div{
+        font-weight: 400; font-size: 12px; color: #fff;
+        line-height: 21px;
+    }
+    footer>div:nth-of-type(2)>div:first-of-type>div>div>a{
+        display: inline-block; color: white; border-bottom: 1px solid #fff;
+        max-width: 10%;
+    }
+    footer>div:nth-of-type(2)>div:nth-of-type(2)>h2,
+    footer>div:nth-of-type(2)>div:last-of-type>h2{
+        color: #fff; font-weight: 700; font-size: 14px; margin-bottom: 20px;
+    }
+    footer>div:nth-of-type(2)>div:nth-of-type(2)>ul>li>a,
+    footer>div:nth-of-type(2)>div:last-of-type>ul>li>a{
+        display:inline-block; color: white; font-weight: 400; 
+        font-size: 12px; position: relative;
+        line-height: 20px;
+    }
+    footer>div:nth-of-type(2)>div:nth-of-type(2)>ul>li>a::after,
+    footer>div:nth-of-type(2)>div:last-of-type>ul>li>a::after{
+        content: '';
+        position: absolute;
+        bottom: -2px;
+        left: 0;
+        width: 0;
+        height: 2px;
+        background-color: white;
+        transition: width 0.3s ease;
+    }
+    footer>div:nth-of-type(2)>div:nth-of-type(2)>ul>li>a:hover::after,
+    footer>div:nth-of-type(2)>div:last-of-type>ul>li>a:hover::after{
+        width: 100%;
+    }
+    footer>div:nth-of-type(2)>div:nth-of-type(2){
+        margin-left: 10.41%;
+    }
+    footer>div:nth-of-type(2)>div:last-of-type{
+        margin-left: 10.41%;
+    }
+
+    footer>div:last-of-type{
+        padding-bottom: 25px;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+    }
+    footer>div:last-of-type>p{
+        font-weight: 400; font-size: 12px; color: white;
+    }
+    footer>div:last-of-type>ul>li{
+        display: inline-block;  
+        width: 16px; line-height: 16px;
+     }
+
+     footer>div:last-of-type>ul>li>a{
+        display: block; text-indent: -9999px; background-repeat: no-repeat; 
+        background-size: contain;
+        cursor: pointer;
+    }
+    footer>div:last-of-type>ul>li:not(:first-of-type){
+        margin-left: 15px;
+    }
+     footer>div:last-of-type>ul>li:nth-child(1)>a{background-image: url('../images/d_Main__Footer_snsIcon_Facebook.png');}
+     footer>div:last-of-type>ul>li:nth-child(2)>a{background-image: url('../images/d_Main__Footer_snsIcon_Twitter.png');}
+     footer>div:last-of-type>ul>li:nth-child(3)>a{background-image: url('../images/d_Main__Footer_snsIcon_Pinterest.png');}
+     footer>div:last-of-type>ul>li:nth-child(4)>a{background-image: url('../images/d_Main__Footer_snsIcon_instagram.png');}
+
+}
+/* ? tablet Global. */
+
+
+@media screen and (min-width:1280px){
+    
+select{
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+    width:100%;
+    height:100%; 
+    padding: 15px;
+    font-family: inherit;
+    box-sizing: border-box;
+    background:transparent; border:0;
+    border-style: none; cursor: pointer;
+}
+    [id$='Panel']{
+        display: none;
+    }
+    [id$='Panel'].active{
+        display: block;
+    }
+    .mui{
+        display: none;
+    }
+    header{
+        position: relative;
+    }
+
+    .myaccountContainer>span.mspan{
+        display: none;
+    }
+    .shippingContainer>div:last-of-type>div>p{
+        display: none;
+    }
+    
+    .searchStoresContainer>div:last-child>iframe:nth-child(2),
+    .searchStoresContainer>div:last-child>iframe:last-of-type,
+    .helpContentContainer>div:last-child>.video_Container>video:nth-child(2),
+    .helpContentContainer>div:last-child>.video_Container>video:last-of-type,
+    header>div:last-child>div>ul>li>#searchtarget>form>input[type='button'],
+    header>div:last-child>div>ul>li:last-of-type>#cartPanel>form>div>input[type='button']:last-of-type{
+        display: none;
+    }
+    header>div:not(:first-of-type),
+   .indexContainer>div:nth-child(2),
+   .indexContainer>div:nth-child(3),
+   .indexContainer>div:nth-child(4),
+   .indexContainer>div:nth-child(5),
+   .indexContainer>div:nth-child(6),
+   .indexContainer>div:nth-child(7),
+   .listContainer,
+   .detailContainer,
+   .logContainer,
+   .contentContainer,
+   .contentPrivacyContainer,
+   .contentPrivacySaleContainer,
+   .contentCopyRightContainer,
+   .contentAdditionalContainer,
+   .accountContainer,
+   .shippingContainer,
+   .cartContainer,
+   .cartBeforeContainer,
+   .completeorderContainer,
+   .passwordContainer,
+   .createContainer,
+   .quickHelpContainer,
+   .helpContentContainer,
+   .helpPressContentCotainer,
+   .giftCardContentContainer,
+   footer>div,
+   .footerContainer{
+        max-width: 1180px; margin: 0 auto;
+    }
+    footer>div:nth-of-type(2)>div:not(:first-of-type)>ul>li,
+    footer>div:last-of-type>ul>li,
+    /*.indexContainer>div:first-of-type>ul>li,*/
+   .indexContainer>div:nth-child(9)>ul>li{
+        list-style: none;
+    }
+    .indexContainer>div:not(:nth-child(9))>h2{
+        font-weight: 400; color: #505050; font-size: 30px;
+    }
+    .btn_now{
+        font-weight: 500; font-size: 14px; color: #fff; padding: 15px 25px;
+        background-color: #3e5962; max-width: 150px; text-align: center;
+       
+    }
+
+
+
+    header>div:not(:first-child){
+        position: relative;
+    }
+    header>div:first-child>a{
+        text-align: center; display: block;
+        background-color: #3e5962;
+        font-size: 12px; font-weight: 400;
+        padding: 15px 0; color: white;
+        margin-bottom: 65px;
+    }
+    header>div:nth-child(2)>h1{
+        margin-bottom: 50px;
+    }
+    header>div:nth-child(2)>h1>a{
+        display: block;
+    }
+    header>div:last-child{
+        display: flex;
+        justify-content: space-between;
+       
+    }
+    header>div:last-child>nav{
+        z-index: 2;
+    }
+    header>div:last-child>nav>ul>li{
+        display: inline-block;
+    }
+    
+    header>div:last-child>nav>ul>li>h2{
+        font-size: 16px; font-weight: 400;
+        padding-right: 15px; color: #0d0d0d;
+        margin-bottom: 40px;
+    }
+    header>div:last-child>nav>ul>li>h2:hover,
+    header>div:last-child>nav>ul>li>ol>li>a:hover{
+        color: #00c0f3;
+        cursor: pointer;
+    }
+    
+    header>div:last-child>nav>ul>li,
+    header>div:last-child>nav>ul>li>ol>li,
+    header>div:last-child>div>ul>li{
+        list-style: none;
+    }
+    header>div:last-child>nav>ul>ol::after{
+        content: '';  display: block; clear: both;
+     }
+
+     header>div:last-child>nav>ul>li:hover>ol{
+        display: block;
+     }
+    
+    header>div:last-child>nav>ul>li>ol{
+        position: absolute;
+        background-color: #fafafa;
+        display: none;    
+        max-width: 1180px;
+        width: 100%;
+    }
+    
+    header>div:last-child>nav>ul>li:not(:first-of-type)>ol{
+        left: 0;
+    }
+    
+    header>div:last-child>nav>ul>li>ol>li:not(:last-of-type){
+        padding: 20px 0 0 20px; float: left;
+        margin-right: 35px;
+        
+     }
+     
+     header>div:last-child>nav>ul>li>ol>li:not(:first-of-type){
+        border-left: 1px solid #eaeaea;
+     }
+     
+     header>div:last-child>nav>ul>li>ol>li>a,
+     header>div:last-child>nav>ul>li>ol>li>h3{
+        font-size: 15px; color: #737373;
+     }
+     
+    header>div:last-child>nav>ul>li>ol>li>h3{
+        font-weight: 500;  margin-bottom: 25px;
+    }
+    
+    header>div:last-child>nav>ul>li>ol>li>a{
+        margin-bottom: 15px;
+        max-width: 165px; line-height: 24px; display: block; font-weight: 300; 
+    }
+    
+     header>div:last-child>nav>ul>li:first-of-type>ol>li:nth-of-type(2){
+        padding-bottom: 156px;
+     }
+     header>div:last-child>nav>ul>li:first-of-type>ol>li:nth-of-type(4){
+        padding-bottom: 195px;
+     }
+     header>div:last-child>nav>ul>li:first-of-type>ol>li:last-of-type{
+        padding-bottom: 26px;
+     }
+     header>div:last-child>nav>ul>li:nth-of-type(2)>ol>li:nth-of-type(2){
+        padding-bottom: 195px;   
+    }
+    header>div:last-child>nav>ul>li:nth-of-type(2)>ol>li:last-of-type{
+        padding-bottom: 65px;   
+    }
+    header>div:last-child>nav>ul>li:nth-of-type(3)>ol>li:nth-of-type(2){
+        padding-bottom: 204px;
+    }
+    header>div:last-child>nav>ul>li:nth-of-type(3)>ol>li:last-of-type{
+        padding-bottom: 75px;   
+    }
+    header>div:last-child>nav>ul>li:last-of-type>ol>li:nth-of-type(2){
+        padding-bottom: 93px;
+    }
+    header>div:last-child>nav>ul>li:last-of-type>ol>li:nth-of-type(4){
+        padding-bottom: 195px;
+    }
+    header>div:last-child>nav>ul>li:last-of-type>ol>li:last-of-type{
+        padding-bottom: 26px;
+    }
+    
+    header>div:last-child>nav>ul>li>ol>li:last-of-type{
+      display: flex;
+      justify-content: flex-end;
+    }
+    header>div:last-child>nav>ul>li>ol>li:last-of-type>figure{
+        margin-top: 20px;
+    }
+     
+    header>div:last-child>nav>ul>li>ol>li:last-of-type>figure{
+        margin-left: 20px;
+    }
+    header>div:last-child>nav>ul>li>ol>li:last-of-type>figure:last-of-type{
+        margin-right: 20px;
+    }
+    header>div:last-child>nav>ul>li>ol>li:last-of-type>figure>img{
+        display: block; width: 100%;
+    }
+    
+    header>div:last-child>nav>ul>li>ol>li:last-of-type>figure>figcaption{
+       background-color: white;
+       padding: 25px;
+    }
+    header>div:last-child>nav>ul>li>ol>li:last-of-type>figure>figcaption>h3,
+    header>div:last-child>nav>ul>li>ol>li:last-of-type>figure>figcaption>a{
+        font-weight: 700; font-size: 14px; 
+    }
+    header>div:last-child>nav>ul>li>ol>li:last-of-type>figure>figcaption>h3{
+        margin-bottom: 10px; color: #505050;
+    }
+    header>div:last-child>nav>ul>li>ol>li:last-of-type>figure>figcaption>a{
+        color: #00c0f3;
+        border-bottom: 1px solid #00c0f3;
+    }
+
+ 
+
+
+
+/*  * search, cart, account 부분 */
+    header>div:last-child
+    header>div:last-child>div>ul::after{
+        content: ''; display: block; clear: both;
+    }
+    header>div:last-child>div>ul>li{
+        float: left;
+    }
+    header>div:last-child>div>ul>li:not(:first-of-type){
+        margin-left: 20px;
+        
+    }
+    header>div:last-child>div>ul>li:first-of-type>input[type='button'],
+    header>div:last-child>div>ul>li:nth-of-type(2)>a,
+    header>div:last-child>div>ul>li:last-of-type>input[type='button']{
+        padding: 5px 20px; 
+        border-style: none; 
+        text-indent: -9999px;
+        cursor: pointer;
+        
+    }
+
+    header>div:last-child>div>ul>li:first-of-type>input[type='button'].active{
+        background: url('../images/nav_close_icon_fill.svg') center / contain no-repeat ;
+        width: 20px;height: 23px;
+    }
+
+    header>div:last-child>div>ul>li:last-of-type>input[type='button'].active{
+        background: url('../images/nav_close_icon_fill.svg') center / contain no-repeat ;
+        width: 20px;height: 23px;
+    }
+
+
+
+    header>div:last-child>div>ul>li:nth-of-type(2)>a{
+        display: block; 
+        background-image: url('../images/nav_account_icon_fill.svg');
+        background-size: contain; background-position: center; background-repeat: no-repeat;
+        width: 20px; height: 20px;
+      
+    }
+
+ 
+    header>div:last-child>div>ul>li:first-of-type>input[type='button']{   
+        display: block; 
+        background-image: url('../images/nav_search_icon_fill.svg');
+        background-size: contain; background-position: center; background-repeat: no-repeat;
+        background-color: transparent;
+        width: 30px; height: 30px;
+    }
+ 
+    header>div:last-child>div>ul>li:last-of-type>input[type='button']{
+        display: block; 
+        background-image: url('../images/nav_cart_icon_fill.svg');
+        background-size: contain; background-position: center; background-repeat: no-repeat;
+        background-color: transparent;
+        width: 28px; height: 28px;
+    }
+    header>div:last-child>div>ul>li:not(:first-of-type){
+        position: relative;
+    }
+    header>div:last-child>div>ul>li>#searchtarget{
+        position: absolute;
+        z-index: 2;
+        display: none;
+    }
+    header>div:last-child>div>ul>li>#searchtarget{
+        left: 0;
+        top: 55px;
+    }
+    header>div:last-child>div>ul>li>#searchtarget>form>input[type='search']{
+        min-width: 1180px;
+        width: 100%;
+        padding: 20px 84.74% 20px 20px;
+        box-shadow: 0 3px 5px #0003;
+        border-style: none;
+    }
+    header>div:last-child>div>ul>li>#searchtarget>form>input[type='submit']{
+        position: absolute;
+        right: 20px;
+        top: 10px;
+        border-style: none;
+        background-color: #00c0f3;
+        padding: 10px 30px;
+        color: #0d0d0d;
+        font-weight: 300;
+        font-size: 14px;
+        cursor: pointer;
+    }
+
+    /* cart paner start */
+    header>div:last-child>div>ul>li>#cartPanel{
+        position: absolute;
+        right: 0;
+        top: 55px;
+        background-color: #fff;
+        max-width: 350px;
+        z-index: 2;
+        box-shadow: 0 3px 5px #0003;
+    }
+    header>div:last-child>div>ul>li>#cartPanel>div{
+      min-width: 350px;
+      display: none;
+    }
+    header>div:last-child>div>ul>li>#cartPanel>div>h2,
+    header>div:last-child>div>ul>li>#cartPanel>div>p,
+    header>div:last-child>div>ul>li:last-of-type>#cartPanel>form>div>h2{
+        padding: 25px 0 25px 25px;
+        font-weight: 400;
+        font-size: 14px;
+        color: #969696;
+    }
+    header>div:last-child>div>ul>li>#cartPanel>div>h2,
+    header>div:last-child>div>ul>li:last-of-type>#cartPanel>form>div>h2{
+        border-bottom: 1px solid #cacaca;
+    }
+
+    header>div:last-child>div>ul>li>#cartPanel>form{
+        min-width: 350px;
+    }
+    header>div:last-child>div>ul>li:last-of-type>#cartPanel>form>div>h2{
+        margin-bottom: 25px;
+    }
+    header>div:last-child>div>ul>li:last-of-type>#cartPanel>form>div>div::after{
+        content: ''; display: block; clear: both;
+    }
+    header>div:last-child>div>ul>li:last-of-type>#cartPanel>form>div>div>img{
+        display: block; 
+        margin: 0 20px 0 25px;
+        float: left;
+    }
+    header>div:last-child>div>ul>li:last-of-type>#cartPanel>form>div>div>div>h3>a{
+        color: #2a2a2a;
+        font-weight: 400; font-size: 14px;
+        display: block;
+        margin-bottom: 10px;
+    }
+    header>div:last-child>div>ul>li:last-of-type>#cartPanel>form>div>div>div>mark{
+        background-color: transparent;
+        font-weight: 700; font-size: 12px; color: #00c0f3;
+        margin-bottom: 65px;
+        display: block;
+    }
+    header>div:last-child>div>ul>li:last-of-type>#cartPanel>form>div>div>div>div.countComponent{
+        padding-bottom: 25px;
+        border-bottom: 1px solid #cacaca;
+        margin-bottom: 25px;
+    }
+    header>div:last-child>div>ul>li:last-of-type>#cartPanel>form>div>div>div>div.countComponent>input[type='button']{
+        border: 1px solid #cacaca;
+        background-color: #fff;
+        padding: 5px 10px;
+        color: #505050;
+        cursor: pointer;
+    }
+    header>div:last-child>div>ul>li:last-of-type>#cartPanel>form>div>div>div>div.countComponent>span{
+        color: #505050;
+        font-size: 14px; font-weight: 700;
+        display: inline-block;
+        padding: 0 5px;
+    }
+    header>div:last-child>div>ul>li:last-of-type>#cartPanel>form>div>input[type='button']{
+        padding: 5px;
+        background: url('../images/cart_Fill__Close.png') center / contain no-repeat;
+        position: absolute;
+        top: 195px;
+        right: 20px;
+        border-style: none; 
+        text-indent: -9999px;
+        cursor: pointer;
+       
+    }
+    header>div:last-child>div>ul>li:last-of-type>#cartPanel>form>div>div:last-of-type{
+        margin: 0 25px;
+    }
+    header>div:last-child>div>ul>li:last-of-type>#cartPanel>form>div>div:last-of-type>p{
+        font-weight: 400; font-size: 14px; color: #969696; line-height: 24px;
+        margin-bottom: 25px;
+    }
+    header>div:last-child>div>ul>li:last-of-type>#cartPanel>form>div>div:last-of-type>p>mark{
+        display: inline-block; background-color: transparent; color: #969696;
+    }
+    header>div:last-child>div>ul>li:last-of-type>#cartPanel>form>div>div:last-of-type>a{
+        display: block;
+        background-color: #00c0f3;
+        text-align: center;
+        padding: 15px 0;
+        color: #2a2a2a;
+        margin-bottom: 25px;
+    }
+/* *header Fin */
+
+    footer{
+        background-color: #505050;
+    }
+    footer>div:first-of-type{
+        padding-top: 45px;
+        margin-bottom: 75px;
+    }
+    footer>div:first-of-type>p{
+        font-weight: 400; font-size: 16px; color: #fff;
+    }
+    
+    footer>div:nth-of-type(2){
+        border-bottom: 1px solid #fff;
+        margin-bottom: 25px;
+    }
+    footer>div:nth-of-type(2)::after{
+        content: ''; display: block; clear: both;
+    }
+    footer>div:nth-of-type(2)>div{
+        float: left;
+    }
+
+    footer>div:nth-of-type(2)>div:first-of-type>h2>img{
+        display: block; margin-bottom: 35px; 
+    }
+    footer>div:nth-of-type(2)>div:first-of-type>div>h3{
+        font-weight: 700; font-size: 16px; color: #fff;
+        margin-bottom: 25px;
+    }
+    footer>div:nth-of-type(2)>div:first-of-type>div:after{
+        content: ''; display: block; clear: both;   
+    }
+    footer>div:nth-of-type(2)>div:first-of-type>div>form>input[type='email'],
+    footer>div:nth-of-type(2)>div:first-of-type>div>form>input[type='submit']{
+        padding: 15px 10px;
+        display: block;
+    }
+
+    footer>div:nth-of-type(2)>div:first-of-type>div>form>input[type='email']{
+        float: left;
+        min-width: 235px;
+    }
+    footer>div:nth-of-type(2)>div:first-of-type>div>form>input[type='submit']{
+        cursor: pointer;
+        background-image: url('../images/d_Main__Footer_arrow_next.png');
+        background-repeat: no-repeat;
+        background-position: center;
+        text-indent: -9999px;
+        background-color: #3e5962;
+        border: none;
+        width: 50px;
+        margin-bottom: 25px;
+        transition: background-color 0.3s ease-in-out;
+    }
+    footer>div:nth-of-type(2)>div:first-of-type>div>form>input[type='submit']:hover{
+        background-color: #00c0f3;
+    }
+
+    footer>div:nth-of-type(2)>div:first-of-type>div>div{
+        font-weight: 400; font-size: 14px; color: #fff;
+        max-width: 305px; line-height: 21px;
+    }
+    footer>div:nth-of-type(2)>div:first-of-type>div>div>a{
+        display: inline-block; color: white; border-bottom: 1px solid #fff;
+        max-width: 10%;
+    }
+    footer>div:nth-of-type(2)>div:nth-of-type(2)>h2,
+    footer>div:nth-of-type(2)>div:last-of-type>h2{
+        color: #fff; font-weight: 700; font-size: 16px; margin-bottom: 25px;
+    }
+    footer>div:nth-of-type(2)>div:nth-of-type(2)>ul>li>a,
+    footer>div:nth-of-type(2)>div:last-of-type>ul>li>a{
+        display:inline-block; color: white; font-weight: 400; font-size: 14px; position: relative;
+    }
+    footer>div:nth-of-type(2)>div:nth-of-type(2)>ul>li>a::after,
+    footer>div:nth-of-type(2)>div:last-of-type>ul>li>a::after{
+        content: '';
+        position: absolute;
+        bottom: -2px;
+        left: 0;
+        width: 0;
+        height: 2px;
+        background-color: white;
+        transition: width 0.3s ease;
+    }
+    footer>div:nth-of-type(2)>div:nth-of-type(2)>ul>li>a:hover::after,
+    footer>div:nth-of-type(2)>div:last-of-type>ul>li>a:hover::after{
+        width: 100%;
+    }
+    footer>div:nth-of-type(2)>div:nth-of-type(2)>ul>li:not(:last-of-type)>a,
+    footer>div:nth-of-type(2)>div:last-of-type>ul>li:not(:last-of-type)>a{
+        margin-bottom: 20px;
+    }
+    footer>div:nth-of-type(2)>div:nth-of-type(2){
+        margin: 0 0 65px 19.49%;
+    }
+    footer>div:nth-of-type(2)>div:last-of-type{
+        margin-left: 16.94%;
+    }
+
+    footer>div:last-of-type{
+        padding-bottom: 25px;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+    }
+    /* footer>div:last-of-type::after{
+        content: ''; display: block; clear: both;
+    } 
+    footer>div:last-of-type>p{
+    float: left;
+        clear: right;
+    }
+    footer>div:last-of-type>ul{
+        float: right;
+    }*/
+    
+    footer>div:last-of-type>p{
+        font-weight: 400; font-size: 12px; color: white;
+    }
+    footer>div:last-of-type>ul>li{
+        display: inline-block;  
+        width: 16px; line-height: 16px;
+     }
+
+     footer>div:last-of-type>ul>li>a{
+        display: block; text-indent: -9999px; background-repeat: no-repeat; background-size: contain;
+        cursor: pointer;
+    }
+    footer>div:last-of-type>ul>li:not(:first-of-type){
+        margin-left: 15px;
+    }
+     footer>div:last-of-type>ul>li:nth-child(1)>a{background-image: url('../images/d_Main__Footer_snsIcon_Facebook.png');}
+     footer>div:last-of-type>ul>li:nth-child(2)>a{background-image: url('../images/d_Main__Footer_snsIcon_Twitter.png');}
+     footer>div:last-of-type>ul>li:nth-child(3)>a{background-image: url('../images/d_Main__Footer_snsIcon_Pinterest.png');}
+     footer>div:last-of-type>ul>li:nth-child(4)>a{background-image: url('../images/d_Main__Footer_snsIcon_instagram.png');}
+
+}
