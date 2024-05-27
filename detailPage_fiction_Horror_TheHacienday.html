@@ -1,0 +1,807 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>barnesandnoble</title>
+    <script src="http://code.jquery.com/jquery-latest.min.js"></script>
+    <script src="js/jquery.bxslider.js"></script>
+    <script src="js/barnes.js"></script>
+    <link rel="stylesheet" href="css/import.css">
+</head>
+<body>
+    <header>
+        <div>
+            <a href="listPage_offBestsellers.html">50% OFF HUNDREDS OF HARDCOVERS</a>
+        </div>
+        <div>
+            <h1>
+                <a href="index.html">
+                    <img src="images/d_main__Header_Logo.png" alt="Welcom to BarnesandNoble">
+                </a>
+            </h1>
+        </div>
+        <div>
+            <nav>
+                <label for="mnav" class="mui">
+                    <span></span>
+                    <span></span>
+                    <span></span>
+                </label>
+                 <input type="checkbox" id="mnav" class="mui">
+                <ul>
+                    <li>
+                        <h2>Book</h2>
+                        <ol>
+                            <li>
+                                <h3>BESTSELLERS</h3>
+                                <a href="listPage_bestsellers.html">Bestsellers</a>
+                                <a href="listPage_bs100.html">B&amp;N Top 100</a>
+                                <a href="listPage_offBestsellers.html">30% Off Bestsellers</a>
+                                <a href="listPage_allBestsellers.html">All Bestsellers</a>
+                            </li>
+                            <li>
+                                <h3>WE RECOMMEND</h3>
+                                <a href="listPage_barnesMonthlyPicks.html">B&amp;N Monthly Picks</a>
+                                <a href="listPage_barnesBooksellerPicks.html">B&amp;N Bookseller Picks</a>
+                            </li>
+                            <li>
+                                <h3>TOP SUBJECTS</h3>
+                                <a href="listPage_nonfiction_Biography.html">Biography</a>
+                                <a href="listPage_nonFiction_HistoryBooks.html">History</a>
+                                <a href="listPage_fiction_Horror.html">Horror</a>
+                                <a href="listPage_fiction_MysteryandCrime.html">Mystery &amp; Crime</a>
+                                <a href="listPage_fiction_Romance.html">Romance</a>
+                                <a href="listPage_fiction_Fantasy.html">Sci-Fi &amp; Fantasy</a>
+                            </li>
+                            <li>
+                                <h3>DEPARTMENTS</h3>
+                                <a href="about_MobileApps.html">B&amp;N Apps</a>
+                            </li>
+                            <li>
+                                 <figure>
+                                    <img src="images/d_main__Nav_li_Book_01.png" alt="Go to Fiction Page">
+                                    <figcaption>
+                                        <h3>Fiction</h3>
+                                        <a href="listPage_fiction_Bestsellers.html">Shop Now →</a>
+                                    </figcaption>
+                                </figure>
+                                <figure>
+                                    <img src="images/d_main__Nav_li_Book_02.png" alt="Go to barnes and noble Books Page">
+                                    <figcaption>
+                                        <h3>B&amp;N Books</h3>
+                                        <a href="listPage_barnesandNobleBook.html">Shop Now →</a>
+                                    </figcaption>
+                                </figure>
+                            </li>
+                        </ol>
+                    </li>
+
+                    <li>
+                        <h2>Fiction</h2>
+                        <ol>
+                            <li>
+                                <h3>BESTSELLERS</h3>
+                                <a href="listPage_fiction_Bestsellers.html">Bestsellers</a>
+                                <a href="listPage_fiction_BNTop100.html">B&amp;N Top 100</a>
+                                <a href="listPage_fiction_OffBestsellers.html">30% Off Bestsellers</a>
+                                <a href="listPage_allBestsellers.html">All Bestsellers</a>
+                            </li>
+                            <li>
+                                <h3>WE RECOMMEND</h3>
+                                <a href="listPage_barnesMonthlyPicks.html">B&amp;N Monthly Picks</a>
+                                <a href="listPage_barnesBooksellerPicks.html">B&amp;N Bookseller Picks</a>
+                            </li>
+                            <li>
+                                <h3>FICTION SUBJECTS</h3>
+                                <a href="listPage_fiction_Horror.html">Horror</a>
+                                <a href="listPage_fiction_MysteryandCrime.html">Mystery &amp; Crime</a>
+                                <a href="listPage_fiction_Poetry.html">Poetry</a>
+                                <a href="listPage_fiction_Romance.html">Romance</a>
+                                <a href="listPage_fiction_Fantasy.html">Sci-Fi &amp; Fantasy</a>
+                                <a href="listPage_fiction_Thrillers.html">Thrillers</a>
+                                <a href="listPage_fiction_SeeAllSubjects.html">See All Subjects&gt;</a>
+                            </li>
+                            <li>
+                                <figure>
+                                    <img src="images/d_main__Nav_li_Book_01.png" alt="Go to Fantasy Page">
+                                    <figcaption>
+                                        <h3>Fantasy</h3>
+                                        <a href="listPage_fiction_Fantasy.html">Shop Now →</a>
+                                    </figcaption>
+                                </figure>
+                                <figure>
+                                    <img src="images/d_main__Nav_li_Fic_02.png" alt="Go to Horror Page">
+                                    <figcaption>
+                                        <h3>Horror</h3>
+                                        <a href="listPage_fiction_Horror.html">Shop Now →</a>
+                                    </figcaption>
+                                </figure>
+                                <figure>
+                                    <img src="images/d_main__Nav_li_Fic_03.png" alt="Go to Romance Page">
+                                    <figcaption>
+                                        <h3>Romance</h3>
+                                        <a href="listPage_fiction_Romance.html">Shop Now →</a>
+                                    </figcaption>
+                                </figure>
+                            </li>
+                        </ol>
+                    </li>
+
+                    <li>
+                        <h2>Nonfiction</h2>
+                        <ol>
+                            <li>
+                                <h3>BESTSELLERS</h3>
+                                <a href="listPage_nonFiction_Bestsellers.html">Bestsellers</a>
+                                <a href="listPage_nonFiction_BNTop100.html">B&amp;N Top 100</a>
+                                <a href="listPage_nonFiction_OffBestsellers.html">30% Off Bestsellers</a>
+                                <a href="listPage_allBestsellers.html">All Bestsellers</a>
+                            </li>
+                            <li>
+                                <h3>WE RECOMMEND</h3>
+                                <a href="listPage_barnesMonthlyPicks.html">B&amp;N Monthly Picks</a>
+                                <a href="listPage_barnesBooksellerPicks.html">B&amp;N Bookseller Picks</a>
+                            </li>
+                            <li>
+                                <h3>SUBJECTS</h3>
+                                <a href="listPage_nonFiction_ActivityandGameBook.html">Activity &amp; Game Books</a>
+                                <a href="listPage_nonFiction_Biography.html">Biography</a>
+                                <a href="listPage_nonFiction_BusinessBooks.html">Business Books</a>
+                                <a href="listPage_nonFiction_CurrentAffairsandPolitics.html">Current Affairs &amp; Politics</a>
+                                <a href="listPage_nonFiction_HistoryBooks.html">History Books</a>
+                                <a href="listPage_nonFiction_AllBestsellers.html">See All Subjects&gt;</a>
+                            </li>
+                            <li>
+                                <figure>
+                                    <img src="images/d_main__Nav_li_NonFic_01.png" alt="Go to BioGraphy Page">
+                                    <figcaption>
+                                        <h3>BioGraphy</h3>
+                                        <a href="listPage_nonFiction_Biography.html">Shop Now →</a>
+                                    </figcaption>
+                                </figure>
+                                <figure>
+                                    <img src="images/d_main__Nav_li_NonFic_02.png" alt="Go to Activity Page">
+                                    <figcaption>
+                                        <h3>Activity</h3>
+                                        <a href="listPage_nonFiction_ActivityandGameBook.html">Shop Now →</a>
+                                    </figcaption>
+                                </figure>
+                                <figure>
+                                    <img src="images/d_main__Nav_li_NonFic_03.png" alt="Go to Business Book Page">
+                                    <figcaption>
+                                        <h3>Business Book</h3>
+                                        <a href="listPage_nonFiction_BusinessBooks.html">Shop Now →</a>
+                                    </figcaption>
+                                </figure>
+                            </li>
+                        </ol>
+                    </li>
+
+                    <li>
+                        <h2>Teens &amp; YA</h2>
+                        <ol>
+                            <li>
+                                <h3>BESTSELLERS</h3>
+                                <a href="listPage_teen_Bestsellers.html">Teens &amp; YA Top 100</a>
+                                <a href="listPage_allBestsellers.html">All Bestsellers</a>
+                            </li>
+                            <li>
+                                <h3>BROWSE</h3>
+                                <a href="listPage_teen_HalloweenPage.html">Halloween Books &amp; Spooky Stories</a>
+                                <a href="listPage_bestof2023.html">Best Books of 2023</a>
+                                <a href="listPage_teen_SalePage.html">Get One 50% Off</a>
+                            </li>
+                            <li>
+                                <h3>SUBJECTS</h3>
+                                <a href="listPage_teen_FantasyandAdventure.html">Fantasy &amp; Adventure</a>
+                                <a href="listPage_teen_LifeandRelationship.html">Life &amp; Relationship</a>
+                                <a href="listPage_teen_Romance.html">Romance</a>
+                                <a href="listPage_teen_Mystery.html">Mystery</a>
+                                <a href="listPage_teen_Thrillers.html">Thrillers</a>
+                                <a href="listPage_teen_AllBestsellers.html">See All &gt;</a>
+                            </li>
+                            <li>
+                                <h3>FAVORITES</h3>
+                                <a href="listPage_teen_BookAwards.html">YA Book Awards</a>
+                            </li>
+                            <li>
+                                <figure>
+                                    <img src="images/d_main__Nav_li_Book_01.png" alt="Go to Fantasy Book Page">
+                                    <figcaption>
+                                        <h3>Fantasy</h3>
+                                        <a href="listPage_teen_FantasyandAdventure.html">Shop Now →</a>
+                                    </figcaption>
+                                </figure>
+                                <figure>
+                                    <img src="images/d_main__Nav_li_Fic_03.png" alt="Go to Romance Book Page">
+                                    <figcaption>
+                                        <h3>Romance</h3>
+                                        <a href="listPage_teen_Romance.html">Shop Now →</a>
+                                    </figcaption>
+                                </figure>
+                            </li>
+                        </ol>
+                    </li>
+                </ul>
+            </nav>
+            <div>
+                <ul>
+                    <li>
+                        <input type="button" value="search" data-target="searchtarget">
+                        <div class="search_container" id="searchtarget">
+                            <form>
+                                <input type="search" placeholder="What are you looking for?" title="searchField">
+                                <input type="submit" value="submit">
+                                <input type="button" value="remove">
+                            </form>
+                        </div>
+                    </li>
+                    <li>
+                        <a href="account_login.html">login</a>
+                    </li>
+                    <li>
+                        <input type="button" value="cart" data-toggle="cartPanel" class="open">
+                        <div id="cartPanel">  
+                            <div>
+                                <h2>Cart</h2>
+                                <p>Your cart is currently empty.</p>
+                            </div>  
+                            <form action="cart.html"> 
+                                <div class="active">  
+                                    <h2>Cart</h2>
+                                    <div>
+                                        <img src="images/cartbook_03.png" alt="Your Cart Book">
+                                        <div>
+                                            <h3><a href="detailPage_fiction_Romance_IronFlame.html">Iron Flame</a></h3>
+                                            <mark>$26.39</mark>
+                                            <div class="countComponent">
+                                                <input type="button" value="-" class="countDown">
+                                                <span>1</span>
+                                                <input type="button" value="+" class="countUp">
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <input type="button" value="remove" class="close">
+                                    <input type="button" value="remove" class="close">
+                                    <div>
+                                        <p>
+                                            Your subtotal today is <mark>$26.39</mark> Shipping and taxes will calculated at checkout. 
+                                        </p>
+                                        <a class="btn_arrow" href="cart.html">Go to Checkout </a>
+                                    </div>
+                                </div>
+                            </form>
+                        </div>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </header>
+    <!-- *Header FIn -->
+
+    <div class="detailContainer">
+        <div>
+            <div>
+                <ul class="mainBookSlider_1">
+                    <li>
+                        <img src="images/li_detail_Horror_16.png" alt="The Hacienda book">
+                        <input type="button" value="expandBook" data-panel="expandPanel" class="btn_open">
+                        <div>
+                            <a href="#"><img src="images/li_detail_arrow_before.png" alt="before"></a>
+                            <a href="#"><img src="images/li_detail_arrow_next.png" alt="next"></a>
+                        </div>
+                    </li>
+                </ul>
+                <ol class="thumbNailSlider_1">
+                    <li class="active">
+                        <a href="#"><img src="images/li_detail_Horror_16.png" alt="The Hacienda Thumbnails"></a>
+                    </li>
+                </ol>
+                <div class="expandPanel">
+                    <div id="expandPanel">
+                        <img src="images/li_detail_Horror_16.png" alt="The Hacienda expandBook">
+                        <input type="button" value="X" class="btn_close">
+                    </div>
+                </div>
+            </div>
+            <div>
+                <span>Isabel Cañas</span>
+                <h2>The Hacienda</h2>
+                <div>
+                    <span>$17.00 </span>
+                </div>
+                <form action="#">
+                    <fieldset class="quantSet">
+                        <legend>Quantity</legend>
+                        <div class="numberInput">
+                            <input type="button" value="minBtn">
+                            <input type="number" class="quantity" value="1" step="1" min="1" title="number">
+                            <input type="button" value="plusBtn">
+                        </div>
+                    </fieldset>
+                    <fieldset>
+                        <a href="cart.html">ADD TO CART</a>
+                        <a href="account_login.html">instant Purchase</a>
+                        <a href="quickHelp_StorePickup.html">Pick up in store</a>
+                    </fieldset>
+                </form>
+                <div>
+                    <p>
+                        Mexican Gothic meets Rebecca in this debut supernatural suspense novel, set 
+                        in the aftermath of the Mexican War of Independence, about a remote house, a 
+                        sinister haunting, and the woman pulled into their clutches...       
+                    </p>
+                    <a href="#descriptionMove">Full Description</a>
+                    <ul>
+                        <li><a href="#"><img src="images/li_detail_sns_facebook.png" alt="facebook"></a></li>
+                        <li><a href="#"><img src="images/li_detail_sns_twitter.png" alt="twitter"></a></li>
+                        <li><a href="#"><img src="images/li_detail_sns_pinterest.png" alt="pinterest"></a></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+        <!-- sliderArea FIn -->
+
+        <div id="descriptionMove">
+            <ul class="tabMenu">
+                <li class="active">DESCRIPTION</li>
+                <li>DETAILS</li>
+                <li>ABOUT THE AUTHOR</li>
+            </ul>
+            <div class="content active">
+                <h3>Notes From Your Bookseller</h3>
+                <p>
+                    A gorgeous gothic ghost story and a Rebecca for a new age. Cañas delivers an 
+                    atmospheric love story set against the backdrop of the Mexican War of 
+                    Independence. A winning debut with electric prose.    
+                </p>
+                <p>
+                    Mexican Gothic meets Rebecca in this debut supernatural suspense novel, set in the 
+                    aftermath of the Mexican War of Independence, about a remote house, a sinister 
+                    haunting, and the woman pulled into their clutches...        
+                </p>
+                <p>
+                    During the overthrow of the Mexican government, Beatriz’s father was executed 
+                    and her home destroyed. When handsome Don Rodolfo Solórzano proposes, 
+                    Beatriz ignores the rumors surrounding his first wife’s sudden demise, choosing 
+                    instead to seize the security that his estate in the countryside provides. She will have 
+                    her own home again, no matter the cost.      
+                </p>
+                <p>
+                    But Hacienda San Isidro is not the sanctuary she imagined.        
+                </p>
+                <p>
+                    When Rodolfo returns to work in the capital, visions and voices invade Beatriz’s 
+                    sleep. The weight of invisible eyes follows her every move. Rodolfo’s sister, Juana, 
+                    scoffs at Beatriz’s fears—but why does she refuse to enter the house at night? Why 
+                    does the cook burn copal incense at the edge of the kitchen and mark the doorway 
+                    with strange symbols? What really happened to the first Doña Solórzano?
+                </p>
+                <p>
+                    Beatriz only knows two things for certain: Something is wrong with the hacienda. 
+                    And no one there will save her.
+                </p>
+                <p>
+                    Desperate for help, she clings to the young priest, Padre Andrés, as an ally. No 
+                    ordinary priest, Andrés will have to rely on his skills as a witch to fight off the 
+                    malevolent presence haunting the hacienda and protect the woman for whom he 
+                    feels a powerful, forbidden attraction. But even he might not be enough to battle the 
+                    darkness.
+                </p>
+                <p>
+                    Far from a refuge, San Isidro may be Beatriz’s doom.
+                </p>
+            </div>
+            <div class="content">
+                <h3>Product Details</h3>
+                <p>
+                    <strong>ISBN-13 :</strong>9780593436707
+                </p>
+                <p>
+                    <strong>Publisher :</strong>Penguin Publishing Group
+                </p>
+                <p>
+                    <strong>Publication date :</strong>09/26/2023
+                </p>
+                <p>
+                    <strong>Pages :</strong>384
+                </p>
+                <p>
+                    <strong>Sales rank :</strong>14,789
+                </p>
+                <p>
+                    <strong>Product dimensions :</strong>5.40(w) x 8.20(h) x 0.90(d)
+                </p>
+
+            </div>
+            <div class="content">
+                <h3>About the Author</h3>
+                <p>
+                    <strong>Isabel Cañas</strong> is a Mexican-American speculative fiction writer. After having lived in 
+                    Mexico, Scotland, Egypt, and Turkey, among other places, she has settled (for now) 
+                    in New York City. She holds a doctorate in Near Eastern Languages and 
+                    Civilizations and writes fiction inspired by her research and her heritage.
+                </p>
+            </div>
+        </div>
+<!-- *tab Fin -->
+
+
+        <div class="editorialContainer">
+            <h2>Editorial Reviews</h2>
+            <div>
+                <span>
+                    A thing of uncanny, chilling beauty. Hauntings, exorcisms, incantations, forbidden love — The Hacienda 
+                    transports one to a world where love triumphs over demons.”
+                    —The New York Times 
+                </span>
+                <span>
+                    “[R]omantic, frightening, claustrophobic, and entirely satisfying.”
+                    —Vulture
+                </span>
+                <span>
+                    “A tale of romance, dread, and supernatural menace."
+                    —Harper’s Bazaar         
+                </span>
+                <span>
+                    “[A] gothic tale of doomed love and vengeful spirits."
+                    —The Washington Post    
+                </span>
+                <span>
+                    “[A] chilling Mexican gothic horror, full of suspense that will have you tethered to each page.” 
+                    —NPR       
+                </span>
+                <span>
+                    “This Gothic thriller is *impossible* to put down.”
+                    —Cosmopolitan        
+                </span>
+                <span>
+                    “Looking for supernatural suspense, forbidden love and a history lesson set in the aftermath of the Mexican War of 
+                    Independence? Pick up The Hacienda."
+                    —Parade       
+                </span>
+                <span>
+                    “Don't read this gothic horror right before bedtime, especially if you're prone to nightmares."
+                    —Good Housekeeping              
+                </span>
+                <span>
+                    "[A] dazzling debut….Yeah, this one will keep you up at night, muttering 'one last page."
+                    —E! News         
+                </span>
+                <span>
+                    "A deliciously haunting novel that slithers into your mind and keeps you dreaming of it."
+                    —Buzzfeed          
+                </span>
+                <span>
+                    "After you read and enjoy Mexican Gothic, pick up this beautifully unsettling tale. Set in post-Independence War Mexico, 
+                    this chilling suspense novel will leave you with chills as you follow the terrifying haunting at Hacienda San Isidro."
+                    —Glamour                           
+                </span>
+                <span>
+                    “Pretty much the perfect Gothic novel… meaning it reads like a brilliant piece of historical fiction and a, ‘Okay, I’m gonna 
+                    need to sleep with the lights on now,’ horror novel.”
+                    —Jezebel          
+                </span>
+                <span>
+                    “The scary, atmospheric, gorgeous Gothic of my dreams.”
+                    —Rachel Hawkins, New York Times bestselling author of The Wife Upstairs          
+                </span>
+                <span>
+                    “Gothic terror at its best, layered with tension: class, religious, and sexual. You will be so immersed in its skillful 
+                    storytelling that the hours will vanish.”
+                    —Simone St. James, New York Times bestselling author of The Sun Down Motel           
+                </span>
+                <span>
+                    "A haunted history, a gory gothic, a forbidden romance. This book kept me up at night, and it was worth 
+                    every second of lost sleep."
+                    —Alix E. Harrow, New York Times bestselling author of The Once and Future Witches         
+                </span>
+                <span>
+                    “A hypnotic, sinister tale that is equal parts terrifying and luxurious. Cañas’s debut is a nightmare lined with velvet.”
+                    —Roshani Chokshi, New York Times bestselling author of The Gilded Wolves          
+                </span>
+                <span>
+                    “The Hacienda is a perfect gothic and Cañas is not afraid to pull in the horror element. An impressive debut.”
+                    —Jayne Ann Krentz, New York Times bestselling author of Lightning in a Mirror         
+                </span>
+                <span>
+                    “A haunting gorgeous tale of doomed love, vengeful spirits, and tortured faith that I could not put down.”
+                    —S.A. Chakraborty, bestselling author of The Empire of Gold       
+                </span>
+                <span>
+                    "Lush, sinister, and darkly romantic. The Hacienda is a haunting and brilliant debut."
+                    —Alexis Henderson, author of The Year of the Witching            
+                </span>
+                <span>
+                    “Absolutely enthralling—I read it in one sitting because its vivid prose and spectacular twists and turns made it 
+                    impossible to put down.”
+                    —Genevieve Gornichec, bestselling author of The Witch’s Heart          
+                </span>
+                <span>
+                    “As romantic as it is terrifying, The Hacienda is a lush, atmospheric read that never pulls any punches. Horror 
+                    fans, fantasy fans, and romance fans will all find something to love here.”
+                    —Hannah Whitten, New York Times bestselling author of For the Wolf           
+                </span>
+                <span>
+                    “A stunning, spellbinding debut. The Hacienda is bone-chilling and gloriously gothic. Absolutely unmissable.”
+                    —Rachel Harrison, author of The Return          
+                </span>
+                <span>
+                    "The Hacienda is a ghost story that also earns its place as literature. Cañas is a name to watch."
+                    —Daniel Abraham, co-author of The Expanse series   
+                </span>
+                <span>
+                    “[A] spooky Gothic story full of supernatural flourishes."
+                    —PopSugar  
+                </span>
+                <span>
+                    "Cañas clearly knows the genre, alternately deploying and subverting haunted house tropes. The result is a brilliant 
+                    contribution to the new wave of postcolonial Gothics. Readers won’t want to miss this."
+                    —Publishers Weekly (starred review)    
+                </span>
+                <span>
+                    “Lush, beautiful, and completely deserving of the comparisons to Rebecca, The Hacienda is essential reading in the gothic revival.”
+                    —CrimeReads  
+                </span>
+                <span>
+                    "[A] blend of horror and mystery with a gothic heart, complete with a heroine on the brink of madness, running into the night 
+                    in fear. This chilling read exposes the rotting soul of colonialism and manages to be wildly entertaining while doing so."
+                    —Shelf Awareness          
+                </span>
+                <span>
+                    “Debut gothic thrills appropriately billed for fans of Silvia Moreno-Garcia’s Mexican Gothic and Oyinkan Braithwaite’s
+                    My Sister, the Serial Killer."
+                   —Library Journal          
+                </span>
+                <span>
+                    "If you love the Gothic Horror genre but are keen to see a heroine with more agency and a story with plenty of bite, 
+                    The Hacienda just might be what you've been looking for."
+                    —Mystery & Suspense          
+                </span>
+                <span>
+                    "If you like gothic horror (creepy manors and the like), then you'll love this highly anticipated thriller that takes 
+                    place at a haunted hacienda."
+                    —Betches        
+                </span>
+                <span>
+                    "Reminiscent of both Jane Eyre and Carol Goodman’s The Widow’s House (2017), this can be offered to fans of Gothic suspense."
+                    —Booklist       
+                </span>
+                <span>
+                    “As much a historical novel with an underlying political commentary as it is a thriller with a good mystery at its core."
+                    —Book Riot     
+                </span>
+                <span>
+                    "[A] remarkable blend of suspense, horror, romance and supernatural gothic....[A] magical combination, not only of genres and 
+                    vivid character and story arcs, but of ideas - explorations of racism, oppression, power, resilience and resistance. It'll also scare 
+                    the pants off you, its lush, hypnotic prose causing you to stare into the shadows."
+                    —Booktrib      
+                </span>
+                <span>
+                    "This gothic novel will pull you in with vivid language and drop you into a sinister world. Reminiscent of Rebecca by Daphne du 
+                    Maurier in its setup, this story is infused with a much darker horror....Cañas  has created engaging characters in Beatriz, Andrés, and, 
+                    yes, the house, but beware of blood and supernatural violence. The pages turn quickly to a faultless, satisfying ending."
+                    —Historical Novel Society            
+                </span>
+                <span>
+                    "[T]his haunted and haunting novel is just the terrifying gothic debut you want to read tonight."
+                    —Ms. Magazine         
+                </span>
+                <span>
+                    "It is quietly hopeful - a satisfying tone to end on for what is otherwise a tense and electrifying story - and marks her as a 
+                    serious writer to watch."
+                    —The Harvard Crimson        
+                </span>
+                <span>From the Publisher</span>
+                <div class="hidden">
+                    <time datetime="2021-12-20">
+                        ★ 12/20/2021
+                    </time>
+                    <span>
+                        Mexican Gothic meets Rebecca in Cañas's stunning debut. After Beatriz's mestizo father, General Hernandez, is betrayed
+                        seems the perfect escape for Beatriz and her mother. Beatriz’s first sign that something’s off is the housekeeper, who refuses to work without 
+                        burning copal incense and chalking glyphs on the kitchen door. Then Beatriz is plagued by bad dreams and mysterious, bloody visions. Her 
+                        sister-in-law, Juana, who shares the estate, insists these are signs that Beatriz is going mad. Beatriz, however, comes to believe that her 
+                        husband's first wife was murdered and is haunting the house, and she finds an ally in Mestizo priest Padre Andrés, who’s torn between 
+                        the folk beliefs of his childhood and his Catholic teachings. To exorcise the house, the pair digs into a past deliberately obscured by those 
+                        who would kill them if the truth comes out. Cañas clearly knows the genre, alternately deploying and subverting haunted house tropes. The 
+                        result is a brilliant contribution to the new wave of postcolonial Gothics. Readers won’t want to miss this. Agent: Kari Sutherland, Bradford 
+                        Literary. (May)
+                    </span>
+                    <span>Publishers Weekly</span>
+                    <time datetime="2022-04-01">
+                        04/01/2022
+                    </time>
+                    <span>
+                        DEBUT Set in the 1820s, in the tumultuous years surrounding the Mexican War of Independence, Cañas's debut introduces readers to recently 
+                        disgraced Beatriz, who jumps at the chance for a new start when rich, handsome, and widowed Don Solórzano proposes marriage and moves her 
+                        to Hacienda San Isidro. But this beautiful home is anything but a safe haven. The servants won't enter the house at night, there are secrets about 
+                        the first Doña Solórzano, and Beatriz spends sleepless nights under attack. Desperate, she seeks out help from Andres, a local priest with ties to 
+                        San Isidro. Together they fight to save the house and those who call it home, while finding their true selves along the way. With strong dual 
+                        narration by Beatriz and Andres, great pacing, well-placed flashbacks that effortlessly offer up the necessary details, and a strong, foreboding 
+                        sense of place, this is a thought-provoking ghost story with monsters that are at once human, systemic, and supernatural. While the plot may 
+                        seem to mirror Daphne du Maurier's Rebecca, don't be mistaken—the ghost here is real, and the havoc it causes is nightmare-inducing. 
+                        VERDICT For fans of Silvia Moreno-Garcia's Mexican Gothic; but also V. Castro's focus on colonialism, menacing old-world forces, sexism, 
+                        class struggle, and vengeance; and Alma Katsu's mastery of historical horror.—Becky Spratford
+                    </span>
+                    <span>
+                        Library Journal       
+                    </span>
+                    <span>
+                        Narrators Victoria Villarreal and Lee Osorio narrate this horror story set in Mexico in 1823. Beatriz marries Rodolfo to have a home after her 
+                        father's execution during the revolution. As soon as Beatriz arrives at her new house, she realizes it’s cursed and haunted. She comes to rely on 
+                        a local priest named Andres to help her. Andres, practicing indigenous witchcraft that he learned from his grandmother, tries to exorcise the 
+                        house. Listeners may find some plot holes puzzling, but the audiobook does give a good fright. Villarreal does a wonderful job portraying 
+                        Beatriz; she deftly switches from English to Spanish. Osorio adds depth to the character of Andres, who suffers due to his station in life and 
+                        because of his feelings for Beatriz. A.M. © AudioFile 2022, Portland, Maine       
+                    </span>
+                    <span>
+                        JUNE 2022 - AudioFile       
+                    </span>
+                    <span>
+                        Narrators Victoria Villarreal and Lee Osorio narrate this horror story set in Mexico in 1823. Beatriz marries Rodolfo to have a home after her 
+                        father's execution during the revolution. As soon as Beatriz arrives at her new house, she realizes it’s cursed and haunted. She comes to rely on 
+                        a local priest named Andres to help her. Andres, practicing indigenous witchcraft that he learned from his grandmother, tries to exorcise the 
+                        house. Listeners may find some plot holes puzzling, but the audiobook does give a good fright. Villarreal does a wonderful job portraying 
+                        Beatriz; she deftly switches from English to Spanish. Osorio adds depth to the character of Andres, who suffers due to his station in life and 
+                        because of his feelings for Beatriz. A.M. © AudioFile 2022, Portland, Maine        
+                    </span>
+                    <span>
+                        JUNE 2022 - AudioFile         
+                    </span>
+                    <input type="button" value="READ LESS">
+                </div>            
+                <input type="button" value="READ MORE">
+            </div>
+        </div>
+        
+<!-- *reviewsArea Fin -->
+
+
+        <div class="alsoContainer">
+            <h2>You May Also Like</h2>
+            <ul class="alsoSlider">
+                <li>
+                    <a href="detailPage_fiction_Horror_LoneWomen.html">
+                        <img src="images/li_Bs100_29.png" alt="Lone Women: A Novel">
+                        <b>Lone Women: A Novel</b>
+                        <mark>$24.30</mark>
+                    </a>
+                </li>
+                <li>
+                    <a href="detailPage_fiction_Horror_ADowryofBlood.html">
+                        <img src="images/li_Horror_14.png" alt="A Dowry of Blood">
+                        <b>A Dowry of Blood</b>
+                        <mark>$17.99</mark>
+                    </a>
+                </li>
+                <li>
+                    <a href="detailPage_fiction_Horror_GhostEaters.html">
+                        <img src="images/li_Horror_02.png" alt="Ghost Eaters: A Novel">
+                        <b>Ghost Eaters: A Novel</b>
+                        <mark>$21.99</mark>
+                    </a>
+                </li>
+                <li>
+                    <a href="detailPage_fiction_Horror_TheOutsider.html">
+                        <img src="images/li_Also_Horror_king.png" alt="The Outsider">
+                        <b>The Outsider</b>
+                        <mark>$15.99</mark>
+                    </a>
+                </li>
+                <li>
+                    <a href="detailPage_fiction_Horror_MisterMagic.html">
+                        <img src="images/li_Also_Horror_magic.png" alt="Mister Magic">
+                        <b>Mister Magic</b>
+                        <mark>$25.20</mark>
+                    </a>
+                </li>
+            </ul>
+        </div>
+<!-- *also Fin -->
+        
+        <div>
+            <div>
+                <h2>Featured collection</h2>
+                <p>Shop our B&amp;N Horror 2023
+                    collection here!</p>
+                <a href="listPage_bestsellers.html">EXPLORE THE COLLECTION →</a>
+            </div>
+            <ul>
+                <li>
+                    <a href="detailPage_fiction_Horror_Playground.html">
+                        <img src="images/li_Horror_Collection_01.png" alt="Playground">
+                        <b>Playground</b>
+                        <mark>$15.99</mark>
+                    </a>
+                </li>
+                <li>
+                    <a href="detailPage_fiction_Horror_TheHacienday.html">
+                        <img src="images/li_Horror_Collection_02.png" alt="The Hacienda">
+                        <b>The Hacienda</b>
+                        <mark>$6.99</mark>
+                    </a>
+                </li>
+                <li>
+                    <a href="detailPage_fiction_Horror_HiddenPictures.html">
+                        <img src="images/li_Horror_Collection_03.png" alt="Hidden Pictures: A Novel">
+                        <b>Hidden Pictures: A Novel</b>
+                        <mark>$17.99</mark>
+                    </a>
+                </li>
+                <li>
+                    <a href="detailPage_fiction_Horror_AHousewithGoodBones.html">
+                        <img src="images/li_Horror_Collection_04.png" alt="A House with Good Bones">
+                        <b>A House with Good Bones</b>
+                        <mark>$13.99 </mark>
+                    </a>
+                </li>
+            </ul>  
+        </div>
+        <!-- * collectionArea Fin -->
+    </div>
+
+    <footer>
+        <div>
+            <p>
+                Become a Barnes &amp; Noble Member for Exclusive Deals and Free Shipping Online.
+            </p>
+        </div>
+        <div>
+            <div>
+                <h2><img src="images/d_main__Footer_logo.png" alt="BarnesandNoble"></h2>
+                <div>
+                    <h3>
+                        SIGN UP FOR SAVINGS, NEWS, AND UPDATES
+                    </h3>
+                    <form>
+                        <input type="email" placeholder="Email Address" title="Email Address">
+                        <input type="submit" title="submit">
+                    </form>
+                    <div>
+                        Submit your email address to receive Barnes &amp; 
+                        Noble offers &amp; updates. You can view Barnes &amp; 
+                        Noble’s Privacy Policy <a href="privacyPolicy.html">here.</a> Unsubscribe from our 
+                        emails at any time.
+                    </div>
+                </div>
+            </div>
+            <div>
+                <h2 class="footer_h2" data-section="aboutSection">About</h2>
+                <ul class="footerUl" data-section="aboutSection">
+                    <li><a href="about_aboutBarnsandNoble.html">About B&amp;N</a></li>
+                    <li><a href="about_AffiliateProgram.html">Affiliate Program</a></li>
+                    <li><a href="about_PublisherAuthor.html">Publisher Author</a></li>
+                    <li><a href="about_BulkOrder.html">Bulk Order quote</a></li>
+                    <li><a href="about_MobileApps.html">B&amp;N Mobile Apps</a></li>
+                    <li><a href="about_Membership.html">B&amp;N Membership</a></li>
+                    <li><a href="about_Mastercard.html">B&amp;N Mastercard</a></li>
+                    <li><a href="about_Bookfairs.html">B&amp;N Bookfairs</a></li>
+                </ul>
+            </div>
+            <div>
+                <h2 class="footer_h2" data-section="quickSection">Quick Help</h2>
+                <ul class="footerUl" data-section="quickSection">
+                    <li><a href="quickHelp_HelpCenter.html">Help Center</a></li>
+                    <li><a href="quickHelp_COVIDSafety.html">COVID Safety</a></li>
+                    <li><a href="quickHelp_StorePickup.html">Store Pickup</a></li>
+                    <li><a href="account.html">Order Status</a></li>
+                    <li><a href="quickHelp_ProductRecalls.html">Product Recalls</a></li>
+                    <li><a href="quickHelp_GiftCards.html">Gift Cards</a></li>
+                </ul>
+            </div>
+        </div>
+        <div>
+            <p>Copyright ©1997-2023 Barnes &amp; Noble Booksellers, Inc.</p>
+            <ul>
+                <li><a href="https://www.facebook.com/barnesandnoble">facebook</a></li>
+                <li><a href="https://twitter.com/bnbuzz">twitter</a></li>
+                <li><a href="https://www.pinterest.co.kr/barnesandnoble/">pinterest</a></li>
+                <li><a href="https://www.instagram.com/barnesandnoble/">instagram</a></li>
+            </ul>
+        </div>
+    </footer>
+    <!-- *Footer FIn -->
+</body>
+</html>

@@ -1,0 +1,782 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>barnesandnoble</title>
+    <script src="http://code.jquery.com/jquery-latest.min.js"></script>
+    <script src="js/jquery.bxslider.js"></script>
+    <script src="js/barnes.js"></script>
+    <link rel="stylesheet" href="css/import.css">
+</head>
+<body>
+    <header>
+        <div>
+            <a href="listPage_offBestsellers.html">50% OFF HUNDREDS OF HARDCOVERS</a>
+        </div>
+        <div>
+            <h1>
+                <a href="index.html">
+                    <img src="images/d_main__Header_Logo.png" alt="Welcom to BarnesandNoble">
+                </a>
+            </h1>
+        </div>
+        <div>
+            <nav>
+                <label for="mnav" class="mui">
+                    <span></span>
+                    <span></span>
+                    <span></span>
+                </label>
+                 <input type="checkbox" id="mnav" class="mui">
+                <ul>
+                    <li>
+                        <h2>Book</h2>
+                        <ol>
+                            <li>
+                                <h3>BESTSELLERS</h3>
+                                <a href="listPage_bestsellers.html">Bestsellers</a>
+                                <a href="listPage_bs100.html">B&amp;N Top 100</a>
+                                <a href="listPage_offBestsellers.html">30% Off Bestsellers</a>
+                                <a href="listPage_allBestsellers.html">All Bestsellers</a>
+                            </li>
+                            <li>
+                                <h3>WE RECOMMEND</h3>
+                                <a href="listPage_barnesMonthlyPicks.html">B&amp;N Monthly Picks</a>
+                                <a href="listPage_barnesBooksellerPicks.html">B&amp;N Bookseller Picks</a>
+                            </li>
+                            <li>
+                                <h3>TOP SUBJECTS</h3>
+                                <a href="listPage_nonfiction_Biography.html">Biography</a>
+                                <a href="listPage_nonFiction_HistoryBooks.html">History</a>
+                                <a href="listPage_fiction_Horror.html">Horror</a>
+                                <a href="listPage_fiction_MysteryandCrime.html">Mystery &amp; Crime</a>
+                                <a href="listPage_fiction_Romance.html">Romance</a>
+                                <a href="listPage_fiction_Fantasy.html">Sci-Fi &amp; Fantasy</a>
+                            </li>
+                            <li>
+                                <h3>DEPARTMENTS</h3>
+                                <a href="about_MobileApps.html">B&amp;N Apps</a>
+                            </li>
+                            <li>
+                                 <figure>
+                                    <img src="images/d_main__Nav_li_Book_01.png" alt="Go to Fiction Page">
+                                    <figcaption>
+                                        <h3>Fiction</h3>
+                                        <a href="listPage_fiction_Bestsellers.html">Shop Now →</a>
+                                    </figcaption>
+                                </figure>
+                                <figure>
+                                    <img src="images/d_main__Nav_li_Book_02.png" alt="Go to barnes and noble Books Page">
+                                    <figcaption>
+                                        <h3>B&amp;N Books</h3>
+                                        <a href="listPage_barnesandNobleBook.html">Shop Now →</a>
+                                    </figcaption>
+                                </figure>
+                            </li>
+                        </ol>
+                    </li>
+
+                    <li>
+                        <h2>Fiction</h2>
+                        <ol>
+                            <li>
+                                <h3>BESTSELLERS</h3>
+                                <a href="listPage_fiction_Bestsellers.html">Bestsellers</a>
+                                <a href="listPage_fiction_BNTop100.html">B&amp;N Top 100</a>
+                                <a href="listPage_fiction_OffBestsellers.html">30% Off Bestsellers</a>
+                                <a href="listPage_allBestsellers.html">All Bestsellers</a>
+                            </li>
+                            <li>
+                                <h3>WE RECOMMEND</h3>
+                                <a href="listPage_barnesMonthlyPicks.html">B&amp;N Monthly Picks</a>
+                                <a href="listPage_barnesBooksellerPicks.html">B&amp;N Bookseller Picks</a>
+                            </li>
+                            <li>
+                                <h3>FICTION SUBJECTS</h3>
+                                <a href="listPage_fiction_Horror.html">Horror</a>
+                                <a href="listPage_fiction_MysteryandCrime.html">Mystery &amp; Crime</a>
+                                <a href="listPage_fiction_Poetry.html">Poetry</a>
+                                <a href="listPage_fiction_Romance.html">Romance</a>
+                                <a href="listPage_fiction_Fantasy.html">Sci-Fi &amp; Fantasy</a>
+                                <a href="listPage_fiction_Thrillers.html">Thrillers</a>
+                                <a href="listPage_fiction_SeeAllSubjects.html">See All Subjects&gt;</a>
+                            </li>
+                            <li>
+                                <figure>
+                                    <img src="images/d_main__Nav_li_Book_01.png" alt="Go to Fantasy Page">
+                                    <figcaption>
+                                        <h3>Fantasy</h3>
+                                        <a href="listPage_fiction_Fantasy.html">Shop Now →</a>
+                                    </figcaption>
+                                </figure>
+                                <figure>
+                                    <img src="images/d_main__Nav_li_Fic_02.png" alt="Go to Horror Page">
+                                    <figcaption>
+                                        <h3>Horror</h3>
+                                        <a href="listPage_fiction_Horror.html">Shop Now →</a>
+                                    </figcaption>
+                                </figure>
+                                <figure>
+                                    <img src="images/d_main__Nav_li_Fic_03.png" alt="Go to Romance Page">
+                                    <figcaption>
+                                        <h3>Romance</h3>
+                                        <a href="listPage_fiction_Romance.html">Shop Now →</a>
+                                    </figcaption>
+                                </figure>
+                            </li>
+                        </ol>
+                    </li>
+
+                    <li>
+                        <h2>Nonfiction</h2>
+                        <ol>
+                            <li>
+                                <h3>BESTSELLERS</h3>
+                                <a href="listPage_nonFiction_Bestsellers.html">Bestsellers</a>
+                                <a href="listPage_nonFiction_BNTop100.html">B&amp;N Top 100</a>
+                                <a href="listPage_nonFiction_OffBestsellers.html">30% Off Bestsellers</a>
+                                <a href="listPage_allBestsellers.html">All Bestsellers</a>
+                            </li>
+                            <li>
+                                <h3>WE RECOMMEND</h3>
+                                <a href="listPage_barnesMonthlyPicks.html">B&amp;N Monthly Picks</a>
+                                <a href="listPage_barnesBooksellerPicks.html">B&amp;N Bookseller Picks</a>
+                            </li>
+                            <li>
+                                <h3>SUBJECTS</h3>
+                                <a href="listPage_nonFiction_ActivityandGameBook.html">Activity &amp; Game Books</a>
+                                <a href="listPage_nonFiction_Biography.html">Biography</a>
+                                <a href="listPage_nonFiction_BusinessBooks.html">Business Books</a>
+                                <a href="listPage_nonFiction_CurrentAffairsandPolitics.html">Current Affairs &amp; Politics</a>
+                                <a href="listPage_nonFiction_HistoryBooks.html">History Books</a>
+                                <a href="listPage_nonFiction_AllBestsellers.html">See All Subjects&gt;</a>
+                            </li>
+                            <li>
+                                <figure>
+                                    <img src="images/d_main__Nav_li_NonFic_01.png" alt="Go to BioGraphy Page">
+                                    <figcaption>
+                                        <h3>BioGraphy</h3>
+                                        <a href="listPage_nonFiction_Biography.html">Shop Now →</a>
+                                    </figcaption>
+                                </figure>
+                                <figure>
+                                    <img src="images/d_main__Nav_li_NonFic_02.png" alt="Go to Activity Page">
+                                    <figcaption>
+                                        <h3>Activity</h3>
+                                        <a href="listPage_nonFiction_ActivityandGameBook.html">Shop Now →</a>
+                                    </figcaption>
+                                </figure>
+                                <figure>
+                                    <img src="images/d_main__Nav_li_NonFic_03.png" alt="Go to Business Book Page">
+                                    <figcaption>
+                                        <h3>Business Book</h3>
+                                        <a href="listPage_nonFiction_BusinessBooks.html">Shop Now →</a>
+                                    </figcaption>
+                                </figure>
+                            </li>
+                        </ol>
+                    </li>
+
+                    <li>
+                        <h2>Teens &amp; YA</h2>
+                        <ol>
+                            <li>
+                                <h3>BESTSELLERS</h3>
+                                <a href="listPage_teen_Bestsellers.html">Teens &amp; YA Top 100</a>
+                                <a href="listPage_allBestsellers.html">All Bestsellers</a>
+                            </li>
+                            <li>
+                                <h3>BROWSE</h3>
+                                <a href="listPage_teen_HalloweenPage.html">Halloween Books &amp; Spooky Stories</a>
+                                <a href="listPage_bestof2023.html">Best Books of 2023</a>
+                                <a href="listPage_teen_SalePage.html">Get One 50% Off</a>
+                            </li>
+                            <li>
+                                <h3>SUBJECTS</h3>
+                                <a href="listPage_teen_FantasyandAdventure.html">Fantasy &amp; Adventure</a>
+                                <a href="listPage_teen_LifeandRelationship.html">Life &amp; Relationship</a>
+                                <a href="listPage_teen_Romance.html">Romance</a>
+                                <a href="listPage_teen_Mystery.html">Mystery</a>
+                                <a href="listPage_teen_Thrillers.html">Thrillers</a>
+                                <a href="listPage_teen_AllBestsellers.html">See All &gt;</a>
+                            </li>
+                            <li>
+                                <h3>FAVORITES</h3>
+                                <a href="listPage_teen_BookAwards.html">YA Book Awards</a>
+                            </li>
+                            <li>
+                                <figure>
+                                    <img src="images/d_main__Nav_li_Book_01.png" alt="Go to Fantasy Book Page">
+                                    <figcaption>
+                                        <h3>Fantasy</h3>
+                                        <a href="listPage_teen_FantasyandAdventure.html">Shop Now →</a>
+                                    </figcaption>
+                                </figure>
+                                <figure>
+                                    <img src="images/d_main__Nav_li_Fic_03.png" alt="Go to Romance Book Page">
+                                    <figcaption>
+                                        <h3>Romance</h3>
+                                        <a href="listPage_teen_Romance.html">Shop Now →</a>
+                                    </figcaption>
+                                </figure>
+                            </li>
+                        </ol>
+                    </li>
+                </ul>
+            </nav>
+            <div>
+                <ul>
+                    <li>
+                        <input type="button" value="search" data-target="searchtarget">
+                        <div class="search_container" id="searchtarget">
+                            <form>
+                                <input type="search" placeholder="What are you looking for?" title="searchField">
+                                <input type="submit" value="submit">
+                                <input type="button" value="remove">
+                            </form>
+                        </div>
+                    </li>
+                    <li>
+                        <a href="account_login.html">login</a>
+                    </li>
+                    <li>
+                        <input type="button" value="cart" data-toggle="cartPanel" class="open">
+                        <div id="cartPanel">  
+                            <div>
+                                <h2>Cart</h2>
+                                <p>Your cart is currently empty.</p>
+                            </div>  
+                            <form action="cart.html"> 
+                                <div class="active">  
+                                    <h2>Cart</h2>
+                                    <div>
+                                        <img src="images/cartbook_03.png" alt="Your Cart Book">
+                                        <div>
+                                            <h3><a href="detailPage_fiction_Romance_IronFlame.html">Iron Flame</a></h3>
+                                            <mark>$26.39</mark>
+                                            <div class="countComponent">
+                                                <input type="button" value="-" class="countDown">
+                                                <span>1</span>
+                                                <input type="button" value="+" class="countUp">
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <input type="button" value="remove" class="close">
+                                    <input type="button" value="remove" class="close">
+                                    <div>
+                                        <p>
+                                            Your subtotal today is <mark>$26.39</mark> Shipping and taxes will calculated at checkout. 
+                                        </p>
+                                        <a class="btn_arrow" href="cart.html">Go to Checkout </a>
+                                    </div>
+                                </div>
+                            </form>
+                        </div>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </header>
+    <!-- *Header FIn -->
+
+    <div class="detailContainer">
+        <div>
+            <div>
+                <ul class="mainBookSlider_1">
+                    <li>
+                        <img src="images/li_detail_teenLifeRelationship_02.png" alt="Persepolis book">
+                        <input type="button" value="expandBook" data-panel="expandPanel" class="btn_open">
+                        <div>
+                            <a href="#"><img src="images/li_detail_arrow_before.png" alt="before"></a>
+                            <a href="#"><img src="images/li_detail_arrow_next.png" alt="next"></a>
+                        </div>
+                    </li>
+                </ul>
+                <ol class="thumbNailSlider_1">
+                    <li class="active">
+                        <a href="#"><img src="images/li_detail_teenLifeRelationship_02.png" alt="Persepolis Thumbnails"></a>
+                    </li>
+                </ol>
+                <div class="expandPanel">
+                    <div id="expandPanel">
+                        <img src="images/li_detail_teenLifeRelationship_02.png" alt="Persepolis expandBook">
+                        <input type="button" value="X" class="btn_close">
+                    </div>
+                </div>
+            </div>
+            <div>
+                <span>Marjane Satrapi</span>
+                <h2>Persepolis</h2>
+                <p>The Story of a Childhood</p>
+                <div>
+                    <span>$14.54</span>
+                    <div class="saleArea">
+                        <span>$16.00</span>
+                        <span>SAVE 9%</span>
+                    </div>
+                </div>
+                <form action="#">
+                    <fieldset class="quantSet">
+                        <legend>Quantity</legend>
+                        <div class="numberInput">
+                            <input type="button" value="minBtn">
+                            <input type="number" class="quantity" value="1" step="1" min="1" title="number">
+                            <input type="button" value="plusBtn">
+                        </div>
+                    </fieldset>
+                    <fieldset>
+                        <a href="cart.html">ADD TO CART</a>
+                        <a href="account_login.html">instant Purchase</a>
+                        <a href="quickHelp_StorePickup.html">Pick up in store</a>
+                    </fieldset>
+                </form>
+                <div>
+                    <p>
+                        In powerful black-and-white comic strip images, Satrapi tells the coming-of-age 
+                        story of her life in Tehran from ages six to fourteen, years that saw the overthrow 
+                        of the Shah’s regime, the triumph of the Islamic Revolution, and the devastating 
+                        effects of war with Iraq. The intelligent and outspoken only child of committed 
+                        Marxists and the great-granddaughter of one of Iran’s last emperors, Marjane 
+                        bears witness to a childhood uniquely entwined with the history of her country...            
+                    </p>
+                    <a href="#descriptionMove">Full Description</a>
+                    <ul>
+                        <li><a href="#"><img src="images/li_detail_sns_facebook.png" alt="facebook"></a></li>
+                        <li><a href="#"><img src="images/li_detail_sns_twitter.png" alt="twitter"></a></li>
+                        <li><a href="#"><img src="images/li_detail_sns_pinterest.png" alt="pinterest"></a></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+        <!-- sliderArea FIn -->
+
+        <div id="descriptionMove">
+            <ul class="tabMenu">
+                <li class="active">DESCRIPTION</li>
+                <li>DETAILS</li>
+                <li>ABOUT THE AUTHOR</li>
+            </ul>
+            <div class="content active">
+                <h3>Notes From Your Bookseller</h3>
+                <p>
+                    Look through a child's eyes at the most tumultuous and cataclysmic years in Iran's 
+                    modern history in this terrifying and ultimately hopeful memoir.     
+                </p>
+                <p class="bold">
+                    NEW YORK TIMES BESTSELLER • Wise, funny, and heartbreaking, Persepolis is 
+                    Marjane Satrapi’s acclaimed graphic memoir of growing up in Iran during the 
+                    Islamic Revolution.        
+                </p>
+                <p class="bold">
+                    “A wholly original achievement.... Satrapi evokes herself and her schoolmates 
+                    coming of age in a world of protests and disappearances.... A stark, shocking 
+                    impact.” —The New York Times: "The 50 Best Memoirs of the Past 50 Years"          
+                </p>
+                <p>
+                    n powerful black-and-white comic strip images, Satrapi tells the coming-of-age 
+                    story of her life in Tehran from ages six to fourteen, years that saw the overthrow 
+                    of the Shah’s regime, the triumph of the Islamic Revolution, and the devastating 
+                    effects of war with Iraq. The intelligent and outspoken only child of committed 
+                    Marxists and the great-granddaughter of one of Iran’s last emperors, Marjane bears 
+                    witness to a childhood uniquely entwined with the history of her country.        
+                </p>
+                <p>
+                    Persepolis paints an unforgettable portrait of daily life in Iran and of the bewildering 
+                    contradictions between home life and public life. Marjane’s child’s-eye view of 
+                    dethroned emperors, state-sanctioned whippings, and heroes of the revolution 
+                    allows us to learn as she does the history of this fascinating country and of her own 
+                    extraordinary family. Intensely personal, profoundly political, and wholly original, 
+                    Persepolis is at once a story of growing up and a reminder of the human cost of war 
+                    and political repression. It shows how we carry on, with laughter and tears, in the 
+                    face of absurdity. And, finally, it introduces us to an irresistible little girl with whom 
+                    we cannot help but fall in love.         
+                </p>
+            </div>
+            <div class="content">
+                <h3>Product Details</h3>
+                <p>
+                    <strong>ISBN-13 :</strong>9780375714573
+                </p>
+                <p>
+                    <strong>Publisher :</strong>Knopf Doubleday Publishing Group
+                </p>
+                <p>
+                    <strong>Publication date :</strong>06/01/2004
+                </p>
+                <p>
+                    <strong>Series :</strong>Pantheon Graphic Library
+                </p>
+                <p>
+                    <strong>Edition description :</strong>Reprint
+                </p>
+                <p>
+                    <strong>Pages :</strong>160
+                </p>
+                <p>
+                    <strong>Sales rank :</strong>5,306
+                </p>
+                <p>
+                    <strong>Product dimensions :</strong>5.90(w) x 8.70(h) x 0.50(d)
+                </p>
+                <p>
+                    <strong>Age Range :</strong>GN380L (what's this?)
+                </p>
+            </div>
+            <div class="content">
+                <h3>About the Author</h3>
+                <p>
+                    <strong>MARJANE SATRAPI</strong> was born in Rasht, Iran. She now lives in Paris, where she is 
+                    a regular contributor to magazines and newspapers throughout the world, including 
+                    The New Yorker and The New York Times. She is the author of Persepolis, 
+                    Persepolis 2, Embroideries, Chicken with Plums, and several children's books. She 
+                    cowrote and codirected the animated feature film version of Persepolis, which was 
+                    nominated for an Academy Award for Best Animated Feature. Her most recent film 
+                    was a live-action version of Chicken with Plums.
+                </p>
+            </div>
+        </div>
+<!-- *tab Fin -->
+
+
+        <div class="editorialContainer">
+            <h2>Editorial Reviews</h2>
+            <div>
+                <span>
+                    A New York Times Notable Book • A Time Magazine “Best Comix of the Year” • A San Francisco Chronicle and Los Angeles Times Best Seller
+                </span>
+                <span>
+                    “Delectable. . . Dances with drama and insouciant wit.” –The New York Times Book Review
+                </span>
+                <span>
+                    “A stunning graphic memoir hailed as a wholly original achievement in the form. There’s still a startling freshness to the book. It won’t age. In inky 
+                    shadows and simple, expressive lines—reminiscent of Ludwig Bemelmans’s “Madeline”—Satrapi evokes herself and her schoolmates coming of age in a 
+                    world of protests and disappearances . . . A stark, shocking impact.” —Parul Sehgal, “The 50 Best Memoirs of the Past 50 Years” The New York Times      
+                </span>
+                <span>
+                    “A dazzlingly singular achievement. . . . Striking a perfect balance between the fantasies and neighborhood conspiracies of childhood and the mounting 
+                    lunacy of Khomeini's reign, she's like the Persian love child of Spiegelman and Lynda Barry.” –Salon         
+                </span>
+                <span>
+                    “A brilliant and unusual graphic memoir. . . . [Told] in a guileless voice . . . accompanied by a series of black-and-white drawings that dramatically 
+                    illustrate how a repressive regime deforms ordinary lives.”–Vogue        
+                </span>
+                <span>
+                    "Odds are, you’ll be too busy being entertained to realize how much you’ve learned until you turn the last page.”–Elle.com
+                </span>
+                <span>
+                    “[A] self-portrait of the artist as a young girl, rendered in graceful black-and-white comics that apply a childlike sensibility to the bleak lowlights of recent
+                    Iranian history. . . . [Her] style is powerful; it persuasively communicates confusion and horror through the eyes of a precocious preteen.” –Village Voice     
+                </span>
+                <span>
+                    "This is an excellent comic book, that deserves a place with Joe Sacco and even Art Spiegelman. In her bold black and white panels, Satrapi eloquently
+                    reasserts the moral bankruptcy of all political dogma and religious conformity; how it bullies, how it murders, and how it may always be ridiculed by
+                    individual rebellions of the spirit and the intellect." —Zadie Smith, author of The Autograph Man and White Teeth        
+                </span>
+                <span>
+                    "You've never seen anything like Persepolis—the intimacy of a memoir, the irresistability of a comic book, and the political depth of a the conflict 
+                    between fundamentalism and democracy. Marjane Satrapi may have given us a new genre." —Gloria Steinem        
+                </span>
+                <span>
+                    "I grew up reading the Mexican comics of Gabriel Vargas, graduated to the political teachings of Rius, fell under the spell of Linda Barry, Art Spiegelman,
+                    and now I am a fan of Marjane Satrapi. Her stories thrummed in my heart for days. Persepolis is part history book, part Scheherazade, astonishing as only
+                    true stories can be. I learned much about the history of Iran, but more importantly, it gave me hope for humanity in these unkind times." 
+                   —Sandra Cisneros, author of The House on Mango Street and Caramelo         
+                </span>
+                <span>
+                    "I thought [Persepolis] was a superb piece of work, not only for the child's eye view—the developing child's eye view—of a society unknown to many of us 
+                    in the west, and feared and suspected in proportion to being unknown.... Satrap has found a way of depicting human beings that is both simple and 
+                    immediately comprehensible, AND is almost infinitely flexible. Anyone who's tried to draw a simplified version of a human face knows how immensely 
+                    difficult it is not only to give the faces a range of expression, but also to maintain identities from one frame to the next. It's an enormous technical 
+                    accomplishment." —Philip Pullman, author of The Golden Compass, The Subtle Knife, and The Amber Spyglass.
+                </span>
+                <span>
+                    "I cannot praise enough Marjane Satrapi's moving account of growing up as a spirited young girl in revolutionary and war-time Iran. Persepolis is 
+                    disarming and often humorous but ultimately it is shattering." —Joe Sacco, author of Palestine and Safe Area Gorazde     
+                </span>
+                <span>
+                    "This witty, moving and illuminating book demonstrates graphically why the future of Iran lies with neither the clerics nor the American Empire." 
+                    —Tariq Ali, Author of The Clash of Fundamentalisms: Crusades, Jihads and Modernity    
+                </span>
+                <span>
+                    "I found the work immensely moving with depths of nuance and wisdom that one might never expect to find in a comic book. It’s a powerful, mysterious, 
+                    enchanting story that manages to reflect a great swath of Iranian contemporary history within the sensitive, intimate tale of a young girl’s coming-of-age. 
+                    I didn’t want it to end!" —Diana Abu-Jaber, Author of Crescent and Arabian Jazz         
+                </span>
+                <span>
+                    "A rare and chilling memoir that offers every reader a personal, honest portrait of Iran's recent political and cultural history. Ms. Satrapi's provocative, 
+                    graphic narrative of life in Iran before and after the Islamic revolution is an extraordinary testament to the level of human suffering experienced by Iranians
+                     tossed from one political hypocrisy to another. Aside from the humanistic dimension, the beautifully minimalist Persepolis gives further evidence of Marjane
+                     Satrapi's sensitivity and superb skill as an artist." —Shirin Neshat, visual artist/filmmaker        
+                </span>
+                <span>
+                    "Readers who have always wanted to look beyond political headlines and CNN's cliches should plunge into this unique illustrated story. Let Marji be your
+                    trusted companion, follow her into the warmth of a Persian home and out along Tehran's turbulent streets during those heady days of revolution. Persepolis
+                    opens a rare door to understanding of events that still haunt America, while shining a bright light on the personal humanity and humor so much alive in 
+                   Iranian families today." —Terence Ward, author of Searching for Hassan
+                </span>
+                <span>
+                    "Blending the historical with the personal is not an easy task, to blend the individual with the universal is even more challenging. But Marjane Satrapi has 
+                    succeeded brilliantly. This graphic novel is a reminder of the human spirit that fights oppression and death, it is a witness to something true and lasting 
+                    which is more affective than hundreds of news broadcasts." —Hanan al-Shaykh, author of Women of Sand and Myrhh       
+                </span>
+                <span>
+                    From the Publisher  
+                </span>
+                <div class="hidden">
+                    <span>
+                        Satrapi's drawing style is bold and vivid. She paints a thick inky black-on-white, in a faux-naif pastiche of East and West. Persepolis deploys all the 
+                        paranoid Expressionism latent in the comic strip's juxtapositions of scale -- the child dwarfed by looming parents, would-be rescuers dwarfed by giant 
+                        policemen guarding the locked doors to a movie theater that's been set on fire -- 
+                        but when Satrapi depicts a schoolyard brawl, it's straight from Persian miniature.        
+                    </span>
+                    <span>
+                        Persepolis was first published to enormous success in Satrapi's adopted France, where adult comic books are a long-favored form. The English edition 
+                        comes with an introduction expressing the author's desire to show Americans that Iran is not only a country of fanatics and terrorists. The book could 
+                        hardly have come at a better moment. — Fernanda Eberstadt           
+                    </span>
+                    <span>
+                        The New York Times
+                    </span>
+                    <span>
+                        A triumph. . . . Like Maus, Persepolis is one of those comic books capable of seducing even those most allergic to the genre. The author's masterstroke is 
+                        to allow us to experience history from within her family, with irony and tenderness.         
+                    </span>
+                    <span>
+                        Liberation (France)
+                    </span>
+                    <span>
+                        … the simple lines and shapes of Satrapi's drawings lend poignancy to the story. The fact that she is able to portray such a vast range of emotions with a
+                        few simple strokes of a pen is impressive. That she does this consistently for 153 pages is a mighty achievement. — Christopher Theokas       
+                    </span>
+                    <span>
+                        USA Today
+                    </span>
+                    <span>
+                        The Turkish novelist and translator Güneli Gün grew up on an Aegean island once used to quarantine pilgrims returning from Mecca. In Remembering 
+                        Childhood in the Middle East: Memoirs From A Century of Change, an anthology edited by Elizabeth Warnock Fernea, Gün recalls her anger at her 
+                        parents' refusal to love Quarantine Island. Her mother missed cosmopolitan social life; her father, a doctor, ridiculed his staff and railed about " 'the agony
+                         of the East,' by which he meant the scientific backwardness he believed Islam had 'brought upon' us."     
+                    </span>
+                    <span>
+                        Amid the jarring disruptions of life in Tehran during the nineteen-eighties, Marjane Satrapi could at least confide in her parents. Her comic-book memoir, 
+                        Persepolis: The Story of a Childhood, describes her pain at seeing her country descend into fundamentalism and violence. Satrapi was patriotic; she was 
+                        relieved to see her father cheer when the BBC confirmed that Iranian bombers had hit Baghdad. Later, though, the slogans scrawled on city walls "To die 
+                        a martyr is to inject blood into the veins of society") made her fearful that the country's turn toward bellicosity was too extreme.
+                        Firoozeh Dumas' family left Iran permanently in 1976, and missed the seismic shifts back home. In Funny In Farsi: A Memoir of Growing Up Iranian 
+                        In America, Dumas remembers how in 1977 her parents accepted an all-expenses-paid trip to Washington, D.C., to welcome the Shah. Undeterred by a 
+                        threatening note slipped under their hotel-room door ("Dear Brainwashed Cowards, You are nothing but puppets of the corrupt Shah . . ."), the family 
+                        finally reassessed the trip after demonstrators attacked Iranians on a lawn near the White House with nail-studded sticks. Their response? To take the 
+                        first flight back to California. (Kate Taylor)         
+                    </span>
+                    <span>
+                        The New Yorker
+                    </span>
+                    <span>
+                        Satrapi's autobiography is a timely and timeless story of a young girl's life under the Islamic Revolution. Descended from the last Emperor of Iran, Satrapi
+                        is nine when fundamentalist rebels overthrow the Shah. While Satrapi's radical parents and their community initially welcome the ouster, they soon learn 
+                       a new brand of totalitarianism is taking over. Satrapi's art is minimal and stark yet often charming and humorous as it depicts the madness around her. 
+                       She idolizes those who were imprisoned by the Shah, fascinated by their tales of torture, and bonds with her Uncle Anoosh, only to see the new regime 
+                       imprison and eventually kill him. Thanks to the Iran-Iraq war, neighbors' homes are bombed, playmates are killed and parties are forbidden. Satrapi's
+                        parents, who once lived in luxury despite their politics, struggle to educate their daughter. Her father briefly considers fleeing to America, only to realize
+                        the price would be too great. "I can become a taxi driver and you a cleaning lady?" he asks his wife. Iron Maiden, Nikes and Michael Jackson become 
+                       precious symbols of freedom, and eventually Satrapi's rebellious streak puts her in danger, as even educated women are threatened with beatings for 
+                       improper attire. Despite the grimness, Satrapi never lapses into sensationalism or sentimentality. Skillfully presenting a child's view of war and her own
+                        shifting ideals, she also shows quotidian life in Tehran and her family's pride and love for their country despite the tumultuous times. Powerfully
+                        understated, this work joins other memoirs-Spiegelman's Maus and Sacco's Safe Area Goradze-that use comics to make the unthinkable familiar.
+                        (Aug.) Copyright 2003 Reed Business Information.         
+                    </span>
+                    <span>
+                        Publishers Weekly
+                    </span>
+                    <span>
+                        This extraordinary autobiography tells the story of Satrapi's early life as a girl in late 1970s and early 1980s Iran. Through her young eyes, the reader sees the
+                        overthrow of the Shah, the Islamic fundamentalist rise to power, and the war with Iraq. Satrapi was a religious girl who grew up in a progressive family and
+                        went to a French school; but after the Islamic revolution, she was forced to wear the veil and ended up rejecting God. Under increasing threat from Iraqi 
+                       bombings and an oppressive government, Satrapi and her family still managed to enjoy forbidden parties, games, and music (such as Iron Maiden). This 
+                       fueled Satrapi's own adolescent rebellion, which eventually got her into trouble. Satrapi's simple, cartoony, even cute black-and-white art allows for easy 
+                       identification with the characters and expertly reflects their varying emotions. When first published in France, where Satrapi now lives, this book won 
+                       several European comics awards-and it's a prime candidate for American award nominations as well. A remarkable, revealing, and sometimes startling 
+                       account, this is sure to be one of the most important graphic novels of the year. Highly recommended for older teens and adults. [Previewed in Prepub 
+                       Alert, LJ 2/15/03.] Copyright 2003 Reed Business Information.     
+                    </span>
+                    <span>
+                        Library Journal
+                    </span>
+                    <span>
+                        Adult/High School-Marji tells of her life in Iran from the age of 10, when the Islamic revolution of 1979 reintroduced a religious state, through the age of 
+                        14 when the Iran-Iraq war forced her parents to send her to Europe for safety. This story, told in graphic format with simple, but expressive, black-and-white
+                         illustrations, combines the normal rebelliousness of an intelligent adolescent with the horrors of war and totalitarianism. Marji's parents, especially her 
+                        freethinking mother, modeled a strong belief in freedom and equality, while her French education gave her a strong faith in God. Her Marxist-inclined 
+                        family initially favored the overthrow of the Shah, but soon realized that the new regime was more restrictive and unfair than the last. The girl's 
+                        independence, which made her parents both proud and fearful, caused them to send her to Austria. With bold lines and deceptively uncomplicated scenes,
+                         Satrapi conveys her story. From it, teens will learn much of the history of this important area and will identify with young Marji and her friends. This is a
+                         graphic novel of immense power and importance for Westerners of all ages. It will speak to the same audience as Art Spiegelman's Maus (Pantheon, 1993).
+                        -Susan H. Woodcock, Fairfax County Public Library, Chantilly, VA Copyright 2003 Reed Business Information.   
+                    </span>
+                    <span>
+                        School Library Journal  
+                    </span>
+                    <span>
+                        This is an excellent comic book, that deserves a place with Joe Sacco and even Art Spiegelman. In her bold black and white panels, Satrapi eloquently 
+                        reasserts the moral bankruptcy of all political dogma and religious conformity; how it bullies, how it murders, and how it may always be ridiculed by 
+                        individual rebellions of the spirit and the intellect.
+                    </span>
+                    <span>
+                        Zadie Smith 
+                    </span>
+                    <input type="button" value="READ LESS">
+                </div>            
+                <input type="button" value="READ MORE">
+            </div>
+        </div>
+        
+<!-- *reviewsArea Fin -->
+
+
+        <div class="alsoContainer">
+            <h2>You May Also Like</h2>
+            <ul class="alsoSlider">
+                <li>
+                    <a href="detailPage_teen_LifeandRelationship_WhoMovedMyCheese.html">
+                        <img src="images/li_LifeandRelationship_09.png" alt="Who Moved My Cheese? for Teens">
+                        <b>Who Moved My Cheese? for Teens</b>
+                        <mark>$18.95</mark>
+                    </a>
+                </li>
+                <li>
+                    <a href="detailPage_teen_LifeandRelationship_RichDadPoorDad.html">
+                        <img src="images/li_LifeandRelationship_01.png" alt="Rich Dad Poor Dad">
+                        <b>Rich Dad Poor Dad</b>
+                        <mark>$15.99</mark>
+                    </a>
+                </li>
+                <li>
+                    <a href="detailPage_teen_LifeandRelationship_TheIdiot.html">
+                        <img src="images/li_LifeandRelationship_05.png" alt="The Idiot">
+                        <b>The Idiot</b>
+                        <mark>$15.99</mark>
+                    </a>
+                </li>
+                <li>
+                    <a href="detailPage_teen_LifeandRelationship_AnxietyReliefforTeens.html">
+                        <img src="images/li_LifeandRelationship_17.png" alt="Anxiety Relief for Teens">
+                        <b>Anxiety Relief for Teens</b>
+                        <mark>$15.99 </mark>
+                    </a>
+                </li>
+                <li>
+                    <a href="detailPage_teen_LifeandRelationship_heFamilyRomanov.html">
+                        <img src="images/li_LifeandRelationship_16.png" alt="he Family Romanov">
+                        <b>he Family Romanov</b>
+                        <mark>$19.99</mark>
+                    </a>
+                </li>
+            </ul>
+        </div>
+<!-- *also Fin -->
+        
+          <div>
+            <div>
+                <h2>Featured collection</h2>
+                <p>Shop our Life &amp; Relationship
+                    collection here!</p>
+                <a href="listPage_teen_Bestsellers.html">EXPLORE THE COLLECTION →</a>
+            </div>
+            <ul>
+                <li>
+                    <a href="detailPage_teen_LifeandRelationship_Persepolis.html">
+                        <img src="images/li_LifeandRelationship_Collation_01.png" alt="Persepolis">
+                        <b>Persepolis</b>
+                        <mark>$14.54 </mark>
+                    </a>
+                </li>
+                <li>
+                    <a href="detailPage_teen_LifeandRelationship_TheIdiot.html">
+                        <img src="images/li_LifeandRelationship_Collation_02.png" alt="The Idiot">
+                        <b>The Idiot</b>
+                        <mark>$15.99</mark>
+                    </a>
+                </li>
+                <li>
+                    <a href="detailPage_teen_LifeandRelationship_WhoMovedMyCheese.html">
+                        <img src="images/li_LifeandRelationship_Collation_03.png" alt="Who Moved My Cheese? for Teens">
+                        <b>Who Moved My Cheese? for Teens</b>
+                        <mark>$18.95</mark>
+                    </a>
+                </li>
+                <li>
+                    <a href="detailPage_teen_LifeandRelationship_IDontWanttobeCrazy.html">
+                        <img src="images/li_LifeandRelationship_Collation_04.png" alt="I Don't Want to be Crazy">
+                        <b>I Don't Want to be Crazy</b>
+                        <mark>$10.99</mark>
+                    </a>
+                </li>
+            </ul>  
+        </div>
+        <!-- * collectionArea Fin -->
+    </div>
+
+    <footer>
+        <div>
+            <p>
+                Become a Barnes &amp; Noble Member for Exclusive Deals and Free Shipping Online.
+            </p>
+        </div>
+        <div>
+            <div>
+                <h2><img src="images/d_main__Footer_logo.png" alt="BarnesandNoble"></h2>
+                <div>
+                    <h3>
+                        SIGN UP FOR SAVINGS, NEWS, AND UPDATES
+                    </h3>
+                    <form>
+                        <input type="email" placeholder="Email Address" title="Email Address">
+                        <input type="submit" title="submit">
+                    </form>
+                    <div>
+                        Submit your email address to receive Barnes &amp; 
+                        Noble offers &amp; updates. You can view Barnes &amp; 
+                        Noble’s Privacy Policy <a href="privacyPolicy.html">here.</a> Unsubscribe from our 
+                        emails at any time.
+                    </div>
+                </div>
+            </div>
+            <div>
+                <h2 class="footer_h2" data-section="aboutSection">About</h2>
+                <ul class="footerUl" data-section="aboutSection">
+                    <li><a href="about_aboutBarnsandNoble.html">About B&amp;N</a></li>
+                    <li><a href="about_AffiliateProgram.html">Affiliate Program</a></li>
+                    <li><a href="about_PublisherAuthor.html">Publisher Author</a></li>
+                    <li><a href="about_BulkOrder.html">Bulk Order quote</a></li>
+                    <li><a href="about_MobileApps.html">B&amp;N Mobile Apps</a></li>
+                    <li><a href="about_Membership.html">B&amp;N Membership</a></li>
+                    <li><a href="about_Mastercard.html">B&amp;N Mastercard</a></li>
+                    <li><a href="about_Bookfairs.html">B&amp;N Bookfairs</a></li>
+                </ul>
+            </div>
+            <div>
+                <h2 class="footer_h2" data-section="quickSection">Quick Help</h2>
+                <ul class="footerUl" data-section="quickSection">
+                    <li><a href="quickHelp_HelpCenter.html">Help Center</a></li>
+                    <li><a href="quickHelp_COVIDSafety.html">COVID Safety</a></li>
+                    <li><a href="quickHelp_StorePickup.html">Store Pickup</a></li>
+                    <li><a href="account.html">Order Status</a></li>
+                    <li><a href="quickHelp_ProductRecalls.html">Product Recalls</a></li>
+                    <li><a href="quickHelp_GiftCards.html">Gift Cards</a></li>
+                </ul>
+            </div>
+        </div>
+        <div>
+            <p>Copyright ©1997-2023 Barnes &amp; Noble Booksellers, Inc.</p>
+            <ul>
+                <li><a href="https://www.facebook.com/barnesandnoble">facebook</a></li>
+                <li><a href="https://twitter.com/bnbuzz">twitter</a></li>
+                <li><a href="https://www.pinterest.co.kr/barnesandnoble/">pinterest</a></li>
+                <li><a href="https://www.instagram.com/barnesandnoble/">instagram</a></li>
+            </ul>
+        </div>
+    </footer>
+    <!-- *Footer FIn -->
+</body>
+</html>

@@ -1,0 +1,807 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>barnesandnoble</title>
+    <script src="http://code.jquery.com/jquery-latest.min.js"></script>
+    <script src="js/jquery.bxslider.js"></script>
+    <script src="js/barnes.js"></script>
+    <link rel="stylesheet" href="css/import.css">
+</head>
+<body>
+    <header>
+        <div>
+            <a href="listPage_offBestsellers.html">50% OFF HUNDREDS OF HARDCOVERS</a>
+        </div>
+        <div>
+            <h1>
+                <a href="index.html">
+                    <img src="images/d_main__Header_Logo.png" alt="Welcom to BarnesandNoble">
+                </a>
+            </h1>
+        </div>
+        <div>
+            <nav>
+                <label for="mnav" class="mui">
+                    <span></span>
+                    <span></span>
+                    <span></span>
+                </label>
+                 <input type="checkbox" id="mnav" class="mui">
+                <ul>
+                    <li>
+                        <h2>Book</h2>
+                        <ol>
+                            <li>
+                                <h3>BESTSELLERS</h3>
+                                <a href="listPage_bestsellers.html">Bestsellers</a>
+                                <a href="listPage_bs100.html">B&amp;N Top 100</a>
+                                <a href="listPage_offBestsellers.html">30% Off Bestsellers</a>
+                                <a href="listPage_allBestsellers.html">All Bestsellers</a>
+                            </li>
+                            <li>
+                                <h3>WE RECOMMEND</h3>
+                                <a href="listPage_barnesMonthlyPicks.html">B&amp;N Monthly Picks</a>
+                                <a href="listPage_barnesBooksellerPicks.html">B&amp;N Bookseller Picks</a>
+                            </li>
+                            <li>
+                                <h3>TOP SUBJECTS</h3>
+                                <a href="listPage_nonfiction_Biography.html">Biography</a>
+                                <a href="listPage_nonFiction_HistoryBooks.html">History</a>
+                                <a href="listPage_fiction_Horror.html">Horror</a>
+                                <a href="listPage_fiction_MysteryandCrime.html">Mystery &amp; Crime</a>
+                                <a href="listPage_fiction_Romance.html">Romance</a>
+                                <a href="listPage_fiction_Fantasy.html">Sci-Fi &amp; Fantasy</a>
+                            </li>
+                            <li>
+                                <h3>DEPARTMENTS</h3>
+                                <a href="about_MobileApps.html">B&amp;N Apps</a>
+                            </li>
+                            <li>
+                                 <figure>
+                                    <img src="images/d_main__Nav_li_Book_01.png" alt="Go to Fiction Page">
+                                    <figcaption>
+                                        <h3>Fiction</h3>
+                                        <a href="listPage_fiction_Bestsellers.html">Shop Now →</a>
+                                    </figcaption>
+                                </figure>
+                                <figure>
+                                    <img src="images/d_main__Nav_li_Book_02.png" alt="Go to barnes and noble Books Page">
+                                    <figcaption>
+                                        <h3>B&amp;N Books</h3>
+                                        <a href="listPage_barnesandNobleBook.html">Shop Now →</a>
+                                    </figcaption>
+                                </figure>
+                            </li>
+                        </ol>
+                    </li>
+
+                    <li>
+                        <h2>Fiction</h2>
+                        <ol>
+                            <li>
+                                <h3>BESTSELLERS</h3>
+                                <a href="listPage_fiction_Bestsellers.html">Bestsellers</a>
+                                <a href="listPage_fiction_BNTop100.html">B&amp;N Top 100</a>
+                                <a href="listPage_fiction_OffBestsellers.html">30% Off Bestsellers</a>
+                                <a href="listPage_allBestsellers.html">All Bestsellers</a>
+                            </li>
+                            <li>
+                                <h3>WE RECOMMEND</h3>
+                                <a href="listPage_barnesMonthlyPicks.html">B&amp;N Monthly Picks</a>
+                                <a href="listPage_barnesBooksellerPicks.html">B&amp;N Bookseller Picks</a>
+                            </li>
+                            <li>
+                                <h3>FICTION SUBJECTS</h3>
+                                <a href="listPage_fiction_Horror.html">Horror</a>
+                                <a href="listPage_fiction_MysteryandCrime.html">Mystery &amp; Crime</a>
+                                <a href="listPage_fiction_Poetry.html">Poetry</a>
+                                <a href="listPage_fiction_Romance.html">Romance</a>
+                                <a href="listPage_fiction_Fantasy.html">Sci-Fi &amp; Fantasy</a>
+                                <a href="listPage_fiction_Thrillers.html">Thrillers</a>
+                                <a href="listPage_fiction_SeeAllSubjects.html">See All Subjects&gt;</a>
+                            </li>
+                            <li>
+                                <figure>
+                                    <img src="images/d_main__Nav_li_Book_01.png" alt="Go to Fantasy Page">
+                                    <figcaption>
+                                        <h3>Fantasy</h3>
+                                        <a href="listPage_fiction_Fantasy.html">Shop Now →</a>
+                                    </figcaption>
+                                </figure>
+                                <figure>
+                                    <img src="images/d_main__Nav_li_Fic_02.png" alt="Go to Horror Page">
+                                    <figcaption>
+                                        <h3>Horror</h3>
+                                        <a href="listPage_fiction_Horror.html">Shop Now →</a>
+                                    </figcaption>
+                                </figure>
+                                <figure>
+                                    <img src="images/d_main__Nav_li_Fic_03.png" alt="Go to Romance Page">
+                                    <figcaption>
+                                        <h3>Romance</h3>
+                                        <a href="listPage_fiction_Romance.html">Shop Now →</a>
+                                    </figcaption>
+                                </figure>
+                            </li>
+                        </ol>
+                    </li>
+
+                    <li>
+                        <h2>Nonfiction</h2>
+                        <ol>
+                            <li>
+                                <h3>BESTSELLERS</h3>
+                                <a href="listPage_nonFiction_Bestsellers.html">Bestsellers</a>
+                                <a href="listPage_nonFiction_BNTop100.html">B&amp;N Top 100</a>
+                                <a href="listPage_nonFiction_OffBestsellers.html">30% Off Bestsellers</a>
+                                <a href="listPage_allBestsellers.html">All Bestsellers</a>
+                            </li>
+                            <li>
+                                <h3>WE RECOMMEND</h3>
+                                <a href="listPage_barnesMonthlyPicks.html">B&amp;N Monthly Picks</a>
+                                <a href="listPage_barnesBooksellerPicks.html">B&amp;N Bookseller Picks</a>
+                            </li>
+                            <li>
+                                <h3>SUBJECTS</h3>
+                                <a href="listPage_nonFiction_ActivityandGameBook.html">Activity &amp; Game Books</a>
+                                <a href="listPage_nonFiction_Biography.html">Biography</a>
+                                <a href="listPage_nonFiction_BusinessBooks.html">Business Books</a>
+                                <a href="listPage_nonFiction_CurrentAffairsandPolitics.html">Current Affairs &amp; Politics</a>
+                                <a href="listPage_nonFiction_HistoryBooks.html">History Books</a>
+                                <a href="listPage_nonFiction_AllBestsellers.html">See All Subjects&gt;</a>
+                            </li>
+                            <li>
+                                <figure>
+                                    <img src="images/d_main__Nav_li_NonFic_01.png" alt="Go to BioGraphy Page">
+                                    <figcaption>
+                                        <h3>BioGraphy</h3>
+                                        <a href="listPage_nonFiction_Biography.html">Shop Now →</a>
+                                    </figcaption>
+                                </figure>
+                                <figure>
+                                    <img src="images/d_main__Nav_li_NonFic_02.png" alt="Go to Activity Page">
+                                    <figcaption>
+                                        <h3>Activity</h3>
+                                        <a href="listPage_nonFiction_ActivityandGameBook.html">Shop Now →</a>
+                                    </figcaption>
+                                </figure>
+                                <figure>
+                                    <img src="images/d_main__Nav_li_NonFic_03.png" alt="Go to Business Book Page">
+                                    <figcaption>
+                                        <h3>Business Book</h3>
+                                        <a href="listPage_nonFiction_BusinessBooks.html">Shop Now →</a>
+                                    </figcaption>
+                                </figure>
+                            </li>
+                        </ol>
+                    </li>
+
+                    <li>
+                        <h2>Teens &amp; YA</h2>
+                        <ol>
+                            <li>
+                                <h3>BESTSELLERS</h3>
+                                <a href="listPage_teen_Bestsellers.html">Teens &amp; YA Top 100</a>
+                                <a href="listPage_allBestsellers.html">All Bestsellers</a>
+                            </li>
+                            <li>
+                                <h3>BROWSE</h3>
+                                <a href="listPage_teen_HalloweenPage.html">Halloween Books &amp; Spooky Stories</a>
+                                <a href="listPage_bestof2023.html">Best Books of 2023</a>
+                                <a href="listPage_teen_SalePage.html">Get One 50% Off</a>
+                            </li>
+                            <li>
+                                <h3>SUBJECTS</h3>
+                                <a href="listPage_teen_FantasyandAdventure.html">Fantasy &amp; Adventure</a>
+                                <a href="listPage_teen_LifeandRelationship.html">Life &amp; Relationship</a>
+                                <a href="listPage_teen_Romance.html">Romance</a>
+                                <a href="listPage_teen_Mystery.html">Mystery</a>
+                                <a href="listPage_teen_Thrillers.html">Thrillers</a>
+                                <a href="listPage_teen_AllBestsellers.html">See All &gt;</a>
+                            </li>
+                            <li>
+                                <h3>FAVORITES</h3>
+                                <a href="listPage_teen_BookAwards.html">YA Book Awards</a>
+                            </li>
+                            <li>
+                                <figure>
+                                    <img src="images/d_main__Nav_li_Book_01.png" alt="Go to Fantasy Book Page">
+                                    <figcaption>
+                                        <h3>Fantasy</h3>
+                                        <a href="listPage_teen_FantasyandAdventure.html">Shop Now →</a>
+                                    </figcaption>
+                                </figure>
+                                <figure>
+                                    <img src="images/d_main__Nav_li_Fic_03.png" alt="Go to Romance Book Page">
+                                    <figcaption>
+                                        <h3>Romance</h3>
+                                        <a href="listPage_teen_Romance.html">Shop Now →</a>
+                                    </figcaption>
+                                </figure>
+                            </li>
+                        </ol>
+                    </li>
+                </ul>
+            </nav>
+            <div>
+                <ul>
+                    <li>
+                        <input type="button" value="search" data-target="searchtarget">
+                        <div class="search_container" id="searchtarget">
+                            <form>
+                                <input type="search" placeholder="What are you looking for?" title="searchField">
+                                <input type="submit" value="submit">
+                                <input type="button" value="remove">
+                            </form>
+                        </div>
+                    </li>
+                    <li>
+                        <a href="account_login.html">login</a>
+                    </li>
+                    <li>
+                        <input type="button" value="cart" data-toggle="cartPanel" class="open">
+                        <div id="cartPanel">  
+                            <div>
+                                <h2>Cart</h2>
+                                <p>Your cart is currently empty.</p>
+                            </div>  
+                            <form action="cart.html"> 
+                                <div class="active">  
+                                    <h2>Cart</h2>
+                                    <div>
+                                        <img src="images/cartbook_03.png" alt="Your Cart Book">
+                                        <div>
+                                            <h3><a href="detailPage_fiction_Romance_IronFlame.html">Iron Flame</a></h3>
+                                            <mark>$26.39</mark>
+                                            <div class="countComponent">
+                                                <input type="button" value="-" class="countDown">
+                                                <span>1</span>
+                                                <input type="button" value="+" class="countUp">
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <input type="button" value="remove" class="close">
+                                    <input type="button" value="remove" class="close">
+                                    <div>
+                                        <p>
+                                            Your subtotal today is <mark>$26.39</mark> Shipping and taxes will calculated at checkout. 
+                                        </p>
+                                        <a class="btn_arrow" href="cart.html">Go to Checkout </a>
+                                    </div>
+                                </div>
+                            </form>
+                        </div>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </header>
+    <!-- *Header FIn -->
+
+    <div class="detailContainer">
+        <div>
+            <div>
+                <ul class="mainBookSlider_1">
+                    <li>
+                        <img src="images/li_detail_Myster_10.png" alt="The White Lady book">
+                        <input type="button" value="expandBook" data-panel="expandPanel" class="btn_open">
+                        <div>
+                            <a href="#"><img src="images/li_detail_arrow_before.png" alt="before"></a>
+                            <a href="#"><img src="images/li_detail_arrow_next.png" alt="next"></a>
+                        </div>
+                    </li>
+                </ul>
+                <ol class="thumbNailSlider_1">
+                    <li class="active">
+                        <a href="#"><img src="images/li_detail_Myster_10.png" alt="The White Lady Thumbnails"></a>
+                    </li>
+                </ol>
+                <div class="expandPanel">
+                    <div id="expandPanel">
+                        <img src="images/li_detail_Myster_10.png" alt="The White Lady expandBook">
+                        <input type="button" value="X" class="btn_close">
+                    </div>
+                </div>
+            </div>
+            <div>
+                <span>Jacqueline Winspear</span>
+                <h2>The White Lady</h2>
+                <div>
+                    <span>$24.99 </span>
+                </div>
+                <form action="#">
+                    <fieldset class="quantSet">
+                        <legend>Quantity</legend>
+                        <div class="numberInput">
+                            <input type="button" value="minBtn">
+                            <input type="number" class="quantity" value="1" step="1" min="1" title="number">
+                            <input type="button" value="plusBtn">
+                        </div>
+                    </fieldset>
+                    <fieldset>
+                        <a href="cart.html">ADD TO CART</a>
+                        <a href="account_login.html">instant Purchase</a>
+                        <a href="quickHelp_StorePickup.html">Pick up in store</a>
+                    </fieldset>
+                </form>
+                <div>
+                    <p>
+                        A reluctant ex-spy with demons of her own, Elinor finds herself facing down one 
+                        of the most dangerous organized crime gangs in London, ultimately exposing 
+                        corruption from Scotland Yard to the highest levels of government....       
+                    </p>
+                    <a href="#descriptionMove">Full Description</a>
+                    <ul>
+                        <li><a href="#"><img src="images/li_detail_sns_facebook.png" alt="facebook"></a></li>
+                        <li><a href="#"><img src="images/li_detail_sns_twitter.png" alt="twitter"></a></li>
+                        <li><a href="#"><img src="images/li_detail_sns_pinterest.png" alt="pinterest"></a></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+        <!-- sliderArea FIn -->
+
+        <div id="descriptionMove">
+            <ul class="tabMenu">
+                <li class="active">DESCRIPTION</li>
+                <li>DETAILS</li>
+                <li>ABOUT THE AUTHOR</li>
+            </ul>
+            <div class="content active">
+                <h3>Notes From Your Bookseller</h3>
+                <p>
+                    No Strangers Here is a procedural mystery set in Ireland featuring two characters 
+                    and a partnership banter that is unforced, complicated and even funny at some 
+                    points. This is a story that’s easy to fall for, and quickly.      
+                </p>
+                <p>
+                    Readers of Tana French, Lucy Foley, and Dervla McTiernan will be spellbound by 
+                    the USA Today bestselling author’s unsettling, atmospheric suspense novel set in 
+                    Ireland’s rugged countryside. Combining an eerie and atmospheric backdrop with 
+                    compulsively taut plotting, a twisty mystery unfolds as an Irish veterinarian contends 
+                    with life, death, and the fatal secrets at the heart of her small oceanside community...        
+                </p>
+                <p>
+                    BookBub Best Mysteries and Thrillers of Fall   
+                </p>
+                <p>
+                    On a rocky beach in the southwest of Ireland, the body of a wealthy racehorse owner 
+                    Johnny O’Reilly has been discovered. In a town like Dingle, everyone knows a little 
+                    something about everyone else. But dig a bit deeper, and there’s always much more 
+                    to find. And when Detective Inspector Cormac O'Brien is dispatched out of Killarney 
+                    to lead the murder inquiry, he's determined to unearth every last buried secret.          
+                </p>
+                <p>
+                    Dimpna Wilde hasn’t been home in years. But faced with a triple bombshell—her 
+                    mother is rumored to have been in a relationship with Johnny, her father’s dementia 
+                    is escalating, and her brother is avoiding her calls—Dimpna moves back to Dingle to 
+                    clear her family of suspicion. And as she takes over the family practice, she finds 
+                    herself in a race with the detective inspector to uncover the dark, twisting truth 
+                    behind murder, no matter how close to home it strikes...            
+                </p>
+                <p>
+                    “Compelling... this is the best of O’Connor’s Irish mysteries to date.”
+                    —Kirkus STARRED REVIEW       
+                </p>
+            </div>
+            <div class="content">
+                <h3>Product Details</h3>
+                <p>
+                    <strong>ISBN-13 :</strong>9780062867988
+                </p>
+                <p>
+                    <strong>Publisher :</strong>HarperCollins Publishers
+                </p>
+                <p>
+                    <strong>Publication date :</strong>03/21/2023
+                </p>
+                <p>
+                    <strong>Pages :</strong>336
+                </p>
+                <p>
+                    <strong>Sales rank :</strong>4,382
+                </p>
+                <p>
+                    <strong>Product dimensions :</strong>8.90(w) x 6.10(h) x 1.20(d)
+                </p>
+
+            </div>
+            <div class="content">
+                <h3>About the Author</h3>
+                <p>
+                    <strong>Jacqueline Winspear</strong> is the author of the New York Times bestsellers The 
+                    Consequences of Fear, The American Agent, and To Die but Once, as well as 
+                    thirteen other bestselling Maisie Dobbs novels and The Care and Management of 
+                    Lies, a Dayton Literary Peace Prize finalist. Jacqueline has also published two 
+                    nonfiction books, What Would Maisie Do? and a memoir, This Time Next Year 
+                    We’ll Be Laughing. Originally from the United Kingdom, she divides her time 
+                    between California and the Pacific Northwest.
+                </p>
+                <p>Hometown :	 Philadelphia, Pennsylvania</p>
+                <p>Date of Birth : July 1, 1955</p>
+                <p>Place of Birth : Philadelphia, Pennsylvania</p>
+                <p>Education : B.A., University of Pennsylvania</p>
+                <p>Website : http://www.scottoline.com </p>
+            </div>
+        </div>
+<!-- *tab Fin -->
+
+
+        <div class="editorialContainer">
+            <h2>Editorial Reviews</h2>
+            <div>
+                <time datetime="2023-01-30">
+                    01/30/2023
+                </time>
+                <span>
+                    In 1917, Elinor White, the heroine of this smart, nuanced mystery from bestseller Winspear (the Maisie Dobbs series), was working in a resistance 
+                    network in German-occupied Belgium, where she, then 13, was living with her 15-year-old sister and British mother. Elinor later emigrated to 
+                    England and served as a British intelligence agent. Now, in 1947, she lives quietly in Kent, staying aloof from the inhabitants of tiny Shackleford 
+                    until the arrival of Jim Mackie; his wife, Rose; and their three-year-old daughter, Susie. Jim has left London and taken work as a farmhand to 
+                    break away from the crime family into which he was born. His brothers are now pressuring him to help them pull off their latest criminal operation. 
+                    Trauma in Elinor’s past has made her acutely sensitive to children in peril, and she can’t resist trying to protect Susie and her parents. As Elinor uses 
+                    her undercover skills and former intelligence contacts to try to foil the Mackie brothers’ plans, her sleuthing has unexpected personal repercussions. 
+                    The chapters illuminating Elinor’s dramatic backstory add vulnerability to her characterization, enriching the suspenseful main narrative. This will 
+                    please both Winspear’s fans and new readers. Agent: Amy Rennert, Amy Rennert Agency. (Mar.)
+                </span>
+                <span>
+                    Publishers Weekly          
+                </span>
+                <div class="hidden">
+                    <span>
+                        "The White Lady is a triumph of storytelling. Rarely have I been swept up into a novel, into the lives of the main characters, so quickly and thoroughly. 
+                        Winspear creates in Elinor White (The White Lady), a complex, endearing, achingly flawed hero. This is both fast-paced and thoughtful, bold and nuanced, 
+                        a thriller that is thrillingly human. I loved it." — Louise Penny      
+                    </span>
+                    <span>
+                        "The White Lady is wonderful . . . a tense and twisty character-driven thriller, a heartfelt tribute to the twentieth century's bravest women, and a perfect 
+                        match between story and storyteller. No one does this better than Jacqueline Winspear." — Lee Child           
+                    </span>
+                    <span>
+                        “Ms. Winspear ties her story elements together in a remarkably exciting manner.” — Wall Street Journal       
+                    </span>
+                    <span>
+                        “After 17 Maisie novels, fans have a new character to love: Elinor White, an enigmatic war hero at the center of The White Lady, Winspear’s second st
+                        and-alone novel. White is very much her own woman, but she’s just as inspirational as Maisie. . . . . she is such an appealing character—and one I hope 
+                        readers will get to know better.” — Washington Post
+                    </span>
+                    <span>
+                        "Winspear’s Maisie Dobbs books have explored the intersection of criminality and war—the chaos of battle and bombs providing the perfect cover for 
+                        a variety of criminal enterprises—and she expands on the subject with characteristic intelligence and psychological acuity in The White Lady." — Air Mail              
+                    </span>
+                    <span>
+                        "With focus on White's interior experience and a subplot involving the post-war London crime syndicates, this book sees Winspear taking things up 
+                        several notches in terms of theme and character development. However, she also turns up suspense with a structure that toggles between present, her 
+                        war-torn childhood and her Special Operations Executive doings during World War II." — NPR                 
+                    </span>
+                    <span>
+                        “A poignant story of courage, misogyny, and misused power. A tense history-based thriller filled with anguish and suspense.” 
+                        — Kirkus Reviews (starred review)             
+                    </span>
+                    <span>
+                        “Winspear is an absolute master of the character-driven thriller . . . [and] the real strength of the novel, lies in the poignant and beautifully written 
+                        backstory of Elinor's childhood in war-torn Belgium and her personal losses in a devastated London.” — Booklist (starred review)       
+                    </span>
+                    <span>
+                        “Smart, nuanced . . . . The chapters illuminating Elinor’s dramatic backstory add vulnerability to her characterization, enriching the suspenseful main 
+                        narrative. This will please both Winspear’s fans and new readers.”  — Publishers Weekly
+                    </span>
+                    <span>
+                        "The White Lady is a phenomenal read. You are prisoner from the opening paragraph until the suspenseful conclusion . . . .This thrilling book reveals 
+                        much about mankind. Humans can be brutal, tender, kind, treacherous, cold, friendly, tremendously loyal, deceiving, brave, cowardly. Jacqueline 
+                        Winspear includes all of these traits in The White Lady." — New York Journal of Books          
+                    </span>
+                    <span>
+                        "The award-winning author of the Maisie Dobbs series skillfully juggles three timelines in a riveting stand-alone about a woman whose wartime 
+                        experiences overshadow her post-war retirement." — Library Journal           
+                    </span>
+                    <span>
+                        "Jacqueline Winspear has struck gold with another indomitable heroine of wartime Britain.” — Daily Mail   
+                    </span>
+                    <span>
+                        "A gripping, suspenseful story full of surprises that is as captivating, finely crafted, carefully plotted, beautifully written and engaging as any of 
+                        [Winspear's] previous works." — BookTrib         
+                    </span>
+                    <span>
+                        "The White Lady doesn’t shy away from dark subjects, and historical mystery readers searching for a bit of grit and a complex main character 
+                        will admire its uncompromising storytelling." — BookPage
+                    </span>
+                    <span>
+                        "If Daphne du Maurier rewrote a John le Carré manuscript, it might resemble The White Lady." — Star Tribune    
+                    </span>
+                    <span>
+                        “The White Lady is a perfect fit for lovers of historical mysteries featuring intrepid, resourceful women who emerge as equal to their male colleagues 
+                        and sometimes are more courageous. As a neighbor comments about Elinor, ‘She’s handy with a gun.’ And she’s very clever. This is an excellent outing 
+                        for Winspear.” — New York Journal of Books             
+                    </span>
+                    <span>
+                        "This book spans two wars, is epic in scope, yet feels very intimate." — Mystery Scene           
+                    </span>
+                    <span>
+                        "Packed with action, The White Lady delivers a high-quality reading experience thanks to well-developed characters and an intriguing plot." 
+                        — Novels Alive              
+                    </span>
+                    <span>
+                        "With her keen talent for British accents, narrator Orlagh Cassidy masterfully delivers a stand-alone from Jacqueline Winspear, which introduces 
+                        powerful, brave heroine Elinor White . . . . Cassidy’s tone, pace, and pitch drive up the tension in the frightening war scenes. An engrossing experience 
+                        of Winspear’s beautifully written work." — BookTrib, Best Audiobooks
+                    </span>
+                    <span>
+                        "While The White Lady is filled with the horrors of two world wars, the people here are inspiring. It's both thrilling and humbling to read about the 
+                        unsung heroes, ordinary villagers and even children (like Elinor and her sister) who risked their lives to do the right thing." — Book Reporter           
+                    </span>
+                    <span>
+                        “A war story that explores the struggle for survival, a postwar tale that examines the hardships of victory, and a manifestation of bravery, The White 
+                        Lady represents absorbing fiction delivered with brio and authority.” — Freelance-Star/ Fredericksburg, VA           
+                    </span>
+                    <span>
+                        "Yet another extraordinary heroine from the creator of Maisie Dobbs . . . . heart-stopping." — My Edmonds News            
+                    </span>
+                    <span>
+                        "Winspear skillfully juggles three timelines in a compelling story of a woman whose wartime experiences overshadow her post-war retirement. She 
+                        does an excellent job in bringing Elinor’s heroic actions to life, but she also excels in creating the atmosphere in post-war England. Elinor herself stands 
+                        out in The White Lady. It may be a standalone, but Jacqueline Winspear has created an unforgettable character." — Lesa's Book Critiques          
+                    </span>
+                    <span>
+                        "In The White Lady, as in her Maisie Dobbs series, Winspear demonstrates a deep and multifaceted understanding of the effects of war on those forced 
+                        to fight. Her books are thought-provoking, emotionally satisfying, and well worth your time." — New Books Network
+                    </span>
+                    <span>
+                        "Jacqueline Winspear's The White Lady spans two wars. Despite the epic scope, the book has the feel of an intimate character study . . . . [Elinor] is 
+                        another indelible character from Jacqueline Winspear's talented pen." — Deadly Pleasures Mystery Magazine         
+                    </span>
+                    <span>
+                        "This standalone adventure is cleverly plotted, deftly assembled with layers of narrative that take us through the first half of the twentieth century, 
+                        developing the backstory of a fascinating heroine. The heist investigation, while absorbing, is almost a MacGuffin for the deeper mystery: what past 
+                        tragedy made Elinor who she is, and will she be able to overcome it? Altogether, it makes for a gripping historical novel." — Reviewing the Evidence              
+                    </span>
+                    <span>
+                        "In this engrossing, fast paced tale, readers get to escape their own realities, meaning there’s plenty of guilty pleasure in Winspear’s latest outing." 
+                        — East Bay Express               
+                    </span>
+                    <span>
+                        “Winspear creates another fascinating and fully realized character in Elinor White, and it will be interesting to see if we get more of Elinor in the future.” 
+                        — Auburn Citizen                
+                    </span>
+                    <span>
+                        “The White Lady is a phenomenal read. You are prisoner from the opening paragraph until the suspenseful conclusion!” — Oh Murder!
+                    </span>
+                    <span>
+                        "With the Maisie Dobbs series, Winspear has demonstrated her talents for bringing alive life in Britain and Europe during both world wars. The 
+                        White Lady alternates between those two wars and life in post-war Britain . . . . Has Elinor had enough of war? Will she return? We hope so." 
+                        — Woman Around Town                 
+                    </span>
+                    <span>
+                        From the Publisher   
+                    </span>
+                    <time datetime="2023-02-01">
+                        ★ 02/01/2023
+                    </time>
+                    <span>
+                        Elinor DeWitt's happy childhood in Belgium vanished in 1914 with her father's disappearance. She was only 12 in 1916 when she was trained as a 
+                        resistance fighter, sabotaging trains and having to kill several German soldiers to protect her sister. She tried to put the past behind her when she taught 
+                        languages in England years later but was recruited to help the Allies in the next war. A traumatic experience and a head injury ended her wartime 
+                        operations. Now, in 1947, Elinor White lives in a cottage provided for services to the country. She's 43, a silent figure to most in the small village. 
+                        A little girl, Susie Mackie, breaks through Elinor's protective layer. Then, Jim Mackie's family comes calling. They're a powerful crime family in 
+                        London, but Jim escaped from them. They want him back in the family fold, and they threaten Jim's wife and daughter, Susie. Elinor turns for help 
+                        to several of her wartime acquaintances. That's when she discovers the treachery and lies she never knew about during her wartime years. VERDICT 
+                        The award-winning author of the Maisie Dobbs series skillfully juggles three timelines in a riveting stand-alone about a woman whose wartime 
+                        experiences overshadow her post-war retirement.—Lesa Holstine          
+                    </span>
+                    <span>
+                        Library Journal    
+                    </span>
+                    <time datetime="2022-12-24">
+                        ★ 2022-12-24
+                    </time>
+                    <span>
+                        A poignant story of courage, misogyny, and misused power.
+                    </span>
+                    <span>
+                        In 1947, Elinor White lives in a village in Kent in a grace-and-favor house, rewarded for her service to the crown, and keeps her own counsel. A 
+                        farmworkers's cottage nearby is home to the Mackie family: Jim, Rose, and little Susie, who befriends the wary Elinor. Jim comes from a family of 
+                        notorious London gangsters, and when they want him to return to the fold, they'll resort to violence to convince him. In interspersed chapters we 
+                        learn about the background that Elinor keeps to herself: She was a spy during both world wars. Back in 1914, in Belgium, 10-year-old Elinor, youngest 
+                        daughter of a Belgian father and English mother, tries to catch a boat to England along with her mother and sister, Cecily, before the German advance, 
+                        but they're too late and return to their home, now under occupation. Some time later, a mysterious woman named Isabelle approaches their mother 
+                        and recruits the two girls to spy on the Germans. It's easy for schoolgirls to appear innocuous as they count the number of trains that pass by their 
+                        village. The sisters are trained in sabotage and self-defense. Elinor is a natural, but Cecily is not, and when Elinor kills two German soldiers trying to 
+                        rape her sister, Isabelle smuggles them out to England—where Elinor faces another war, decades later, by working with the Special Operations Executive 
+                        and returning to Belgium. Now she hopes her contacts from those days will save Jim from the clutches of the Mackie family. Her wartime experiences 
+                        come back to haunt her, leaving her unable to trust anyone. In the end, it’s the gangsters who tell her the truth that will shatter her world and give 
+                        her hope for the future.                 
+                    </span>
+                    <span>
+                        A tense history-based thriller filled with anguish and suspense.   
+                    </span>
+                    <span>
+                        Kirkus Reviews     
+                    </span>
+                    <span>
+                        The White Lady is a triumph of storytelling.”
+                    </span>
+                    <span>
+                        #1 New York Times bestselling author Louise Penny
+                        [A] character-driven thriller…The real strength of the novel lies in the poignant and beautifully written backstory of Elinor’s childhood in war-torn 
+                        Belgium and her personal losses in a devastated London.”
+                    </span>
+                    <span>Booklist (starred review)</span>
+                    <span>               
+                        With her keen talent for British accents, narrator Orlagh Cassidy masterfully delivers this stand-alone from Jacqueline Winspear, which introduces 
+                        powerful, brave heroine Elinor White. The story moves around in time from White's current life in Britain in 1947 to her recruitment in the Belgian 
+                        Resistance as an adolescent during WWI and her work as an SOE agent during WWII. Cassidy partners with Winspear to guide listeners through the 
+                        emotional, physical, and long-term impacts of two wars and while doing so illuminates the unrecognized role of women. Cassidy's tone, pace, and pitch 
+                        drive up the tension in the frightening war scenes. Cassidy expertly voices men, women, sulking adolescents, and young children, providing an engrossing 
+                        experience of Winspear's beautifully written work. E.Q. Winner of AudioFile Earphones Award © AudioFile 2023, Portland, Maine 
+                    </span>
+                    <span>
+                        MARCH 2023 - AudioFile
+                    </span>
+                    <span>
+                        With her keen talent for British accents, narrator Orlagh Cassidy masterfully delivers this stand-alone from Jacqueline Winspear, which introduces 
+                        powerful, brave heroine Elinor White. The story moves around in time from White's current life in Britain in 1947 to her recruitment in the Belgian 
+                        Resistance as an adolescent during WWI and her work as an SOE agent during WWII. Cassidy partners with Winspear to guide listeners through the 
+                        emotional, physical, and long-term impacts of two wars and while doing so illuminates the unrecognized role of women. Cassidy's tone, pace, and pitch 
+                        drive up the tension in the frightening war scenes. Cassidy expertly voices men, women, sulking adolescents, and young children, providing an engrossing 
+                        experience of Winspear's beautifully written work. E.Q. Winner of AudioFile Earphones Award © AudioFile 2023, Portland, Maine           
+                    </span>
+                    <span>
+                        MARCH 2023 - AudioFile
+                    </span>
+                    <input type="button" value="READ LESS">
+                </div>            
+                <input type="button" value="READ MORE">
+            </div>
+        </div>
+        
+<!-- *reviewsArea Fin -->
+
+
+        <div class="alsoContainer">
+            <h2>You May Also Like</h2>
+            <ul class="alsoSlider">
+                <li>
+                    <a href="detailPage_fiction_Mystery_Loyalty.html">
+                        <img src="images/li_Mystery_10.png" alt="Loyalty">
+                        <b>Loyalty</b>
+                        <mark>$14.00</mark>
+                    </a>
+                </li>
+                <li>
+                    <a href="detailPage_fiction_Mystery_PinkLemonadeCakeMurder.html">
+                        <img src="images/li_Mystery_04.png" alt="Pink Lemonade Cake Murder">
+                        <b>Pink Lemonade Cake Murder</b>
+                        <mark>$13.49 </mark>
+                    </a>
+                </li>
+                <li>
+                    <a href="detailPage_fiction_Mystery_HomemadeSin.html">
+                        <img src="images/li_Bs100_14.png" alt="Homemade Sin (Callahan GarritySeries)">
+                        <b>Homemade Sin (Callahan Garrity Series)</b>
+                        <mark>$16.99</mark>
+                    </a>
+                </li>
+                <li>
+                    <a href="detailPage_fiction_Mystery_TheKindWorthSaving.html">
+                        <img src="images/li_Mystery_11.png" alt="The Kind Worth Saving">
+                        <b>The Kind Worth Saving</b>
+                        <mark>$15.00</mark>
+                    </a>
+                </li>
+                <li>
+                    <a href="detailPage_fiction_Mystery_TheWidowmaker.html">
+                        <img src="images/li_Mystery_17.png" alt="The Widowmaker">
+                        <b>The Widowmaker</b>
+                        <mark>$13.99</mark>
+                    </a>
+                </li>
+            </ul>
+        </div>
+<!-- *also Fin -->
+        
+        <div>
+            <div>
+                <h2>Featured collection</h2>
+                <p>Shop our B&amp;N Mystery&amp;Crime 
+                    2023 collection here!</p>
+                <a href="listPage_bestsellers.html">EXPLORE THE COLLECTION →</a>
+            </div>
+            <ul>
+                <li>
+                    <a href="detailPage_fiction_Mystery_TheParisApartment.html">
+                        <img src="images/li_Mystery_Collaction_01.png" alt="The Paris Apartment">
+                        <b>The Paris Apartment</b>
+                        <mark>$18.99</mark>
+                    </a>
+                </li>
+                <li>
+                    <a href="detailPage_fiction_Mystery_Binary.html">
+                        <img src="images/li_Mystery_Collaction_02.png" alt="Binary">
+                        <b>Binary</b>
+                        <mark>$24.99</mark>
+                    </a>
+                </li>
+                <li>
+                    <a href="detailPage_fiction_Mystery_YouMustRememberThis.html">
+                        <img src="images/li_Mystery_Collaction_03.png" alt="You Must Remember This">
+                        <b>You Must Remember This</b>
+                        <mark>$14.49</mark>
+                    </a>
+                </li>
+                <li>
+                    <a href="detailPage_fiction_Mystery_PinkLemonadeCakeMurder.html">
+                        <img src="images/li_Mystery_Collaction_04.png" alt="Pink Lemonade Cake Murder">
+                        <b>Pink Lemonade Cake Murder</b>
+                        <mark>$13.49 </mark>
+                    </a>
+                </li>
+            </ul>  
+        </div>
+        <!-- * collectionArea Fin -->
+    </div>
+
+    <footer>
+        <div>
+            <p>
+                Become a Barnes &amp; Noble Member for Exclusive Deals and Free Shipping Online.
+            </p>
+        </div>
+        <div>
+            <div>
+                <h2><img src="images/d_main__Footer_logo.png" alt="BarnesandNoble"></h2>
+                <div>
+                    <h3>
+                        SIGN UP FOR SAVINGS, NEWS, AND UPDATES
+                    </h3>
+                    <form>
+                        <input type="email" placeholder="Email Address" title="Email Address">
+                        <input type="submit" title="submit">
+                    </form>
+                    <div>
+                        Submit your email address to receive Barnes &amp; 
+                        Noble offers &amp; updates. You can view Barnes &amp; 
+                        Noble’s Privacy Policy <a href="privacyPolicy.html">here.</a> Unsubscribe from our 
+                        emails at any time.
+                    </div>
+                </div>
+            </div>
+            <div>
+                <h2 class="footer_h2" data-section="aboutSection">About</h2>
+                <ul class="footerUl" data-section="aboutSection">
+                    <li><a href="about_aboutBarnsandNoble.html">About B&amp;N</a></li>
+                    <li><a href="about_AffiliateProgram.html">Affiliate Program</a></li>
+                    <li><a href="about_PublisherAuthor.html">Publisher Author</a></li>
+                    <li><a href="about_BulkOrder.html">Bulk Order quote</a></li>
+                    <li><a href="about_MobileApps.html">B&amp;N Mobile Apps</a></li>
+                    <li><a href="about_Membership.html">B&amp;N Membership</a></li>
+                    <li><a href="about_Mastercard.html">B&amp;N Mastercard</a></li>
+                    <li><a href="about_Bookfairs.html">B&amp;N Bookfairs</a></li>
+                </ul>
+            </div>
+            <div>
+                <h2 class="footer_h2" data-section="quickSection">Quick Help</h2>
+                <ul class="footerUl" data-section="quickSection">
+                    <li><a href="quickHelp_HelpCenter.html">Help Center</a></li>
+                    <li><a href="quickHelp_COVIDSafety.html">COVID Safety</a></li>
+                    <li><a href="quickHelp_StorePickup.html">Store Pickup</a></li>
+                    <li><a href="account.html">Order Status</a></li>
+                    <li><a href="quickHelp_ProductRecalls.html">Product Recalls</a></li>
+                    <li><a href="quickHelp_GiftCards.html">Gift Cards</a></li>
+                </ul>
+            </div>
+        </div>
+        <div>
+            <p>Copyright ©1997-2023 Barnes &amp; Noble Booksellers, Inc.</p>
+            <ul>
+                <li><a href="https://www.facebook.com/barnesandnoble">facebook</a></li>
+                <li><a href="https://twitter.com/bnbuzz">twitter</a></li>
+                <li><a href="https://www.pinterest.co.kr/barnesandnoble/">pinterest</a></li>
+                <li><a href="https://www.instagram.com/barnesandnoble/">instagram</a></li>
+            </ul>
+        </div>
+    </footer>
+    <!-- *Footer FIn -->
+</body>
+</html>

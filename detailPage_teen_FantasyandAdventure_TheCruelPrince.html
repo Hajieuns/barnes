@@ -1,0 +1,782 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>barnesandnoble</title>
+    <script src="http://code.jquery.com/jquery-latest.min.js"></script>
+    <script src="js/jquery.bxslider.js"></script>
+    <script src="js/barnes.js"></script>
+    <link rel="stylesheet" href="css/import.css">
+</head>
+<body>
+    <header>
+        <div>
+            <a href="listPage_offBestsellers.html">50% OFF HUNDREDS OF HARDCOVERS</a>
+        </div>
+        <div>
+            <h1>
+                <a href="index.html">
+                    <img src="images/d_main__Header_Logo.png" alt="Welcom to BarnesandNoble">
+                </a>
+            </h1>
+        </div>
+        <div>
+            <nav>
+                <label for="mnav" class="mui">
+                    <span></span>
+                    <span></span>
+                    <span></span>
+                </label>
+                 <input type="checkbox" id="mnav" class="mui">
+                <ul>
+                    <li>
+                        <h2>Book</h2>
+                        <ol>
+                            <li>
+                                <h3>BESTSELLERS</h3>
+                                <a href="listPage_bestsellers.html">Bestsellers</a>
+                                <a href="listPage_bs100.html">B&amp;N Top 100</a>
+                                <a href="listPage_offBestsellers.html">30% Off Bestsellers</a>
+                                <a href="listPage_allBestsellers.html">All Bestsellers</a>
+                            </li>
+                            <li>
+                                <h3>WE RECOMMEND</h3>
+                                <a href="listPage_barnesMonthlyPicks.html">B&amp;N Monthly Picks</a>
+                                <a href="listPage_barnesBooksellerPicks.html">B&amp;N Bookseller Picks</a>
+                            </li>
+                            <li>
+                                <h3>TOP SUBJECTS</h3>
+                                <a href="listPage_nonfiction_Biography.html">Biography</a>
+                                <a href="listPage_nonFiction_HistoryBooks.html">History</a>
+                                <a href="listPage_fiction_Horror.html">Horror</a>
+                                <a href="listPage_fiction_MysteryandCrime.html">Mystery &amp; Crime</a>
+                                <a href="listPage_fiction_Romance.html">Romance</a>
+                                <a href="listPage_fiction_Fantasy.html">Sci-Fi &amp; Fantasy</a>
+                            </li>
+                            <li>
+                                <h3>DEPARTMENTS</h3>
+                                <a href="about_MobileApps.html">B&amp;N Apps</a>
+                            </li>
+                            <li>
+                                 <figure>
+                                    <img src="images/d_main__Nav_li_Book_01.png" alt="Go to Fiction Page">
+                                    <figcaption>
+                                        <h3>Fiction</h3>
+                                        <a href="listPage_fiction_Bestsellers.html">Shop Now →</a>
+                                    </figcaption>
+                                </figure>
+                                <figure>
+                                    <img src="images/d_main__Nav_li_Book_02.png" alt="Go to barnes and noble Books Page">
+                                    <figcaption>
+                                        <h3>B&amp;N Books</h3>
+                                        <a href="listPage_barnesandNobleBook.html">Shop Now →</a>
+                                    </figcaption>
+                                </figure>
+                            </li>
+                        </ol>
+                    </li>
+
+                    <li>
+                        <h2>Fiction</h2>
+                        <ol>
+                            <li>
+                                <h3>BESTSELLERS</h3>
+                                <a href="listPage_fiction_Bestsellers.html">Bestsellers</a>
+                                <a href="listPage_fiction_BNTop100.html">B&amp;N Top 100</a>
+                                <a href="listPage_fiction_OffBestsellers.html">30% Off Bestsellers</a>
+                                <a href="listPage_allBestsellers.html">All Bestsellers</a>
+                            </li>
+                            <li>
+                                <h3>WE RECOMMEND</h3>
+                                <a href="listPage_barnesMonthlyPicks.html">B&amp;N Monthly Picks</a>
+                                <a href="listPage_barnesBooksellerPicks.html">B&amp;N Bookseller Picks</a>
+                            </li>
+                            <li>
+                                <h3>FICTION SUBJECTS</h3>
+                                <a href="listPage_fiction_Horror.html">Horror</a>
+                                <a href="listPage_fiction_MysteryandCrime.html">Mystery &amp; Crime</a>
+                                <a href="listPage_fiction_Poetry.html">Poetry</a>
+                                <a href="listPage_fiction_Romance.html">Romance</a>
+                                <a href="listPage_fiction_Fantasy.html">Sci-Fi &amp; Fantasy</a>
+                                <a href="listPage_fiction_Thrillers.html">Thrillers</a>
+                                <a href="listPage_fiction_SeeAllSubjects.html">See All Subjects&gt;</a>
+                            </li>
+                            <li>
+                                <figure>
+                                    <img src="images/d_main__Nav_li_Book_01.png" alt="Go to Fantasy Page">
+                                    <figcaption>
+                                        <h3>Fantasy</h3>
+                                        <a href="listPage_fiction_Fantasy.html">Shop Now →</a>
+                                    </figcaption>
+                                </figure>
+                                <figure>
+                                    <img src="images/d_main__Nav_li_Fic_02.png" alt="Go to Horror Page">
+                                    <figcaption>
+                                        <h3>Horror</h3>
+                                        <a href="listPage_fiction_Horror.html">Shop Now →</a>
+                                    </figcaption>
+                                </figure>
+                                <figure>
+                                    <img src="images/d_main__Nav_li_Fic_03.png" alt="Go to Romance Page">
+                                    <figcaption>
+                                        <h3>Romance</h3>
+                                        <a href="listPage_fiction_Romance.html">Shop Now →</a>
+                                    </figcaption>
+                                </figure>
+                            </li>
+                        </ol>
+                    </li>
+
+                    <li>
+                        <h2>Nonfiction</h2>
+                        <ol>
+                            <li>
+                                <h3>BESTSELLERS</h3>
+                                <a href="listPage_nonFiction_Bestsellers.html">Bestsellers</a>
+                                <a href="listPage_nonFiction_BNTop100.html">B&amp;N Top 100</a>
+                                <a href="listPage_nonFiction_OffBestsellers.html">30% Off Bestsellers</a>
+                                <a href="listPage_allBestsellers.html">All Bestsellers</a>
+                            </li>
+                            <li>
+                                <h3>WE RECOMMEND</h3>
+                                <a href="listPage_barnesMonthlyPicks.html">B&amp;N Monthly Picks</a>
+                                <a href="listPage_barnesBooksellerPicks.html">B&amp;N Bookseller Picks</a>
+                            </li>
+                            <li>
+                                <h3>SUBJECTS</h3>
+                                <a href="listPage_nonFiction_ActivityandGameBook.html">Activity &amp; Game Books</a>
+                                <a href="listPage_nonFiction_Biography.html">Biography</a>
+                                <a href="listPage_nonFiction_BusinessBooks.html">Business Books</a>
+                                <a href="listPage_nonFiction_CurrentAffairsandPolitics.html">Current Affairs &amp; Politics</a>
+                                <a href="listPage_nonFiction_HistoryBooks.html">History Books</a>
+                                <a href="listPage_nonFiction_AllBestsellers.html">See All Subjects&gt;</a>
+                            </li>
+                            <li>
+                                <figure>
+                                    <img src="images/d_main__Nav_li_NonFic_01.png" alt="Go to BioGraphy Page">
+                                    <figcaption>
+                                        <h3>BioGraphy</h3>
+                                        <a href="listPage_nonFiction_Biography.html">Shop Now →</a>
+                                    </figcaption>
+                                </figure>
+                                <figure>
+                                    <img src="images/d_main__Nav_li_NonFic_02.png" alt="Go to Activity Page">
+                                    <figcaption>
+                                        <h3>Activity</h3>
+                                        <a href="listPage_nonFiction_ActivityandGameBook.html">Shop Now →</a>
+                                    </figcaption>
+                                </figure>
+                                <figure>
+                                    <img src="images/d_main__Nav_li_NonFic_03.png" alt="Go to Business Book Page">
+                                    <figcaption>
+                                        <h3>Business Book</h3>
+                                        <a href="listPage_nonFiction_BusinessBooks.html">Shop Now →</a>
+                                    </figcaption>
+                                </figure>
+                            </li>
+                        </ol>
+                    </li>
+
+                    <li>
+                        <h2>Teens &amp; YA</h2>
+                        <ol>
+                            <li>
+                                <h3>BESTSELLERS</h3>
+                                <a href="listPage_teen_Bestsellers.html">Teens &amp; YA Top 100</a>
+                                <a href="listPage_allBestsellers.html">All Bestsellers</a>
+                            </li>
+                            <li>
+                                <h3>BROWSE</h3>
+                                <a href="listPage_teen_HalloweenPage.html">Halloween Books &amp; Spooky Stories</a>
+                                <a href="listPage_bestof2023.html">Best Books of 2023</a>
+                                <a href="listPage_teen_SalePage.html">Get One 50% Off</a>
+                            </li>
+                            <li>
+                                <h3>SUBJECTS</h3>
+                                <a href="listPage_teen_FantasyandAdventure.html">Fantasy &amp; Adventure</a>
+                                <a href="listPage_teen_LifeandRelationship.html">Life &amp; Relationship</a>
+                                <a href="listPage_teen_Romance.html">Romance</a>
+                                <a href="listPage_teen_Mystery.html">Mystery</a>
+                                <a href="listPage_teen_Thrillers.html">Thrillers</a>
+                                <a href="listPage_teen_AllBestsellers.html">See All &gt;</a>
+                            </li>
+                            <li>
+                                <h3>FAVORITES</h3>
+                                <a href="listPage_teen_BookAwards.html">YA Book Awards</a>
+                            </li>
+                            <li>
+                                <figure>
+                                    <img src="images/d_main__Nav_li_Book_01.png" alt="Go to Fantasy Book Page">
+                                    <figcaption>
+                                        <h3>Fantasy</h3>
+                                        <a href="listPage_teen_FantasyandAdventure.html">Shop Now →</a>
+                                    </figcaption>
+                                </figure>
+                                <figure>
+                                    <img src="images/d_main__Nav_li_Fic_03.png" alt="Go to Romance Book Page">
+                                    <figcaption>
+                                        <h3>Romance</h3>
+                                        <a href="listPage_teen_Romance.html">Shop Now →</a>
+                                    </figcaption>
+                                </figure>
+                            </li>
+                        </ol>
+                    </li>
+                </ul>
+            </nav>
+            <div>
+                <ul>
+                    <li>
+                        <input type="button" value="search" data-target="searchtarget">
+                        <div class="search_container" id="searchtarget">
+                            <form>
+                                <input type="search" placeholder="What are you looking for?" title="searchField">
+                                <input type="submit" value="submit">
+                                <input type="button" value="remove">
+                            </form>
+                        </div>
+                    </li>
+                    <li>
+                        <a href="account_login.html">login</a>
+                    </li>
+                    <li>
+                        <input type="button" value="cart" data-toggle="cartPanel" class="open">
+                        <div id="cartPanel">  
+                            <div>
+                                <h2>Cart</h2>
+                                <p>Your cart is currently empty.</p>
+                            </div>  
+                            <form action="cart.html"> 
+                                <div class="active">  
+                                    <h2>Cart</h2>
+                                    <div>
+                                        <img src="images/cartbook_03.png" alt="Your Cart Book">
+                                        <div>
+                                            <h3><a href="detailPage_fiction_Romance_IronFlame.html">Iron Flame</a></h3>
+                                            <mark>$26.39</mark>
+                                            <div class="countComponent">
+                                                <input type="button" value="-" class="countDown">
+                                                <span>1</span>
+                                                <input type="button" value="+" class="countUp">
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <input type="button" value="remove" class="close">
+                                    <input type="button" value="remove" class="close">
+                                    <div>
+                                        <p>
+                                            Your subtotal today is <mark>$26.39</mark> Shipping and taxes will calculated at checkout. 
+                                        </p>
+                                        <a class="btn_arrow" href="cart.html">Go to Checkout </a>
+                                    </div>
+                                </div>
+                            </form>
+                        </div>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </header>
+    <!-- *Header FIn -->
+
+    <div class="detailContainer">
+        <div>
+            <div>
+                <ul class="mainBookSlider_1">
+                    <li>
+                        <img src="images/li_detail_TeenFantasy_08.png" alt="The Cruel Prince book">
+                        <input type="button" value="expandBook" data-panel="expandPanel" class="btn_open">
+                        <div>
+                            <a href="#"><img src="images/li_detail_arrow_before.png" alt="before"></a>
+                            <a href="#"><img src="images/li_detail_arrow_next.png" alt="next"></a>
+                        </div>
+                    </li>
+                </ul>
+                <ol class="thumbNailSlider_1">
+                    <li class="active">
+                        <a href="#"><img src="images/li_detail_TeenFantasy_08.png" alt="The Cruel Prince Thumbnails"></a>
+                    </li>
+                </ol>
+                <div class="expandPanel">
+                    <div id="expandPanel">
+                        <img src="images/li_detail_TeenFantasy_08.png" alt="The Cruel Prince expandBook">
+                        <input type="button" value="X" class="btn_close">
+                    </div>
+                </div>
+            </div>
+            <div>
+                <span>Holly Black</span>
+                <h2>The Cruel Prince 
+                    (Folk of the Air Series #2)</h2>
+                <div>
+                    <span>$10.99</span>
+                    <div class="saleArea">
+                        <span>$12.99</span>
+                        <span>SAVE 15%</span>
+                    </div>
+                </div>
+                <form action="#">
+                    <fieldset class="quantSet">
+                        <legend>Quantity</legend>
+                        <div class="numberInput">
+                            <input type="button" value="minBtn">
+                            <input type="number" class="quantity" value="1" step="1" min="1" title="number">
+                            <input type="button" value="plusBtn">
+                        </div>
+                    </fieldset>
+                    <fieldset>
+                        <a href="cart.html">ADD TO CART</a>
+                        <a href="account_login.html">instant Purchase</a>
+                        <a href="quickHelp_StorePickup.html">Pick up in store</a>
+                    </fieldset>
+                </form>
+                <div>
+                    <p>
+                        Jude was seven years old when her parents were murdered and she and her two 
+                        sisters were stolen away to live in the treacherous High Court of Faerie. Ten years 
+                        later, Jude wants nothing more than to belong there, despite her mortality...           
+                    </p>
+                    <a href="#descriptionMove">Full Description</a>
+                    <ul>
+                        <li><a href="#"><img src="images/li_detail_sns_facebook.png" alt="facebook"></a></li>
+                        <li><a href="#"><img src="images/li_detail_sns_twitter.png" alt="twitter"></a></li>
+                        <li><a href="#"><img src="images/li_detail_sns_pinterest.png" alt="pinterest"></a></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+        <!-- sliderArea FIn -->
+
+        <div id="descriptionMove">
+            <ul class="tabMenu">
+                <li class="active">DESCRIPTION</li>
+                <li>DETAILS</li>
+                <li>ABOUT THE AUTHOR</li>
+            </ul>
+            <div class="content active">
+                <h3>Notes From Your Bookseller</h3>
+                <p>
+                    Holly Black has laced The Cruel Prince with faerie magic to delicious effect. This 
+                    dreadfully delightful fantasy will hook its claws in you from the first page and 
+                    never let go. Jude is one of the best protagonists in YA Fantasy, and The Cruel 
+                    Prince will show you why.       
+                </p>
+                <p class="bold">
+                    By #1 New York Times bestselling author Holly Black, the first book in a stunning 
+                    new series about a mortal girl who finds herself caught in a web of royal faerie 
+                    intrigue.      
+                </p>
+                <p>
+                    Of course I want to be like them. They're beautiful as blades forged in some divine 
+                    fire. They will live forever.          
+                </p>
+                <p>
+                    And Cardan is even more beautiful than the rest. I hate him more than all the others. 
+                    I hate him so much that sometimes when I look at him, I can hardly breathe.             
+                </p>
+                <p>
+                    Jude was seven years old when her parents were murdered and she and her two 
+                    sisters were stolen away to live in the treacherous High Court of Faerie. Ten years 
+                    later, Jude wants nothing more than to belong there, despite her mortality. But 
+                    many of the fey despise humans. Especially Prince Cardan, the youngest and 
+                    wickedest son of the High King.            
+                </p>
+                <p>
+                    To win a place at the Court, she must defy him—and face the consequences.
+                </p>
+                <p>
+                    In doing so, she becomes embroiled in palace intrigues and deceptions, discovering 
+                    her own capacity for bloodshed. But as civil war threatens to drown the Courts of 
+                    Faerie in violence, Jude will need to risk her life in a dangerous alliance to save her 
+                    sisters, and Faerie itself.        
+                </p>
+            </div>
+            <div class="content">
+                <h3>Product Details</h3>
+                <p>
+                    <strong>ISBN-13 :</strong>9780316310314
+                </p>
+                <p>
+                    <strong>Publisher :</strong>Little, Brown Books for Young Readers
+                </p>
+                <p>
+                    <strong>Publication date :</strong>12/04/2018
+                </p>
+                <p>
+                    <strong>Series :</strong>Folk of the Air Series , #1
+                </p>
+                <p>
+                    <strong>Edition description :</strong>Reprint
+                </p>
+                <p>
+                    <strong>Pages :</strong>416
+                </p>
+                <p>
+                    <strong>Sales rank :</strong>95
+                </p>
+                <p>
+                    <strong>Product dimensions :</strong>5.40(w) x 7.50(h) x 1.20(d)
+                </p>
+                <p>
+                    <strong>Age Range :</strong>14 - 17 Years
+                </p>
+            </div>
+            <div class="content">
+                <h3>About the Author</h3>
+                <p>
+                    <strong>Holly Black</strong> is the bestselling author of contemporary fantasy novels, including 
+                    Tithe: A Modern Faerie Tale and the #1 New York Times bestselling Spiderwick 
+                    series. She has been a finalist for the Mythopoeic Award and the Eisner Award, and 
+                    the recipient of the Andre Norton Award. Holly lives in Massachusetts with her 
+                    husband, Theo, in a house with a secret library.
+                </p>
+            </div>
+        </div>
+<!-- *tab Fin -->
+
+
+        <div class="editorialContainer">
+            <h2>Editorial Reviews</h2>
+            <div>
+                <span>
+                    Praise for The Cruel Prince:
+                </span>
+                <span>
+                    A New York Times Bestseller
+                </span>
+                <span>
+                    An IndieBound Bestseller
+                </span>
+                <span>
+                    "Black is a master at world-building, conveying integral details without that information ever seeming tedious or encyclopedic, whether you're 
+                    well versed in faerie or a newcomer to the genre....the experience of reading a novel like this is something like being surrounded by magic.”
+                    —The New York Times Book Review         
+                </span>
+                <span>
+                    "Lush, dangerous, a dark jewel of a book. Black's world is intoxicating, imbued with a relentless sense of peril that kept me riveted through every 
+                    chapter of Jude's journey. And Jude! She is a heroine to love—brave but pragmatic, utterly human. This delicious story will seduce you and leave 
+                    you desperate for just one more page."—Leigh Bardugo, #1 New York Times bestselling author of Six of Crows and Crooked Kingdom       
+                </span>
+                <span>
+                    "I require book two immediately. Holly is the Faerie Queen."—Victoria Aveyard, #1 bestselling author of The Red Queen series
+                </span>
+                <span>
+                    * "[S]pellbinding....Breathtaking set pieces, fully developed supporting characters, and a beguiling, tough-as-nails heroine enhance an intricate, 
+                    intelligent plot that crescendos to a jaw-dropping third-act twist."—Publishers Weekly, starred review         
+                </span>
+                <span>
+                    * "Another fantastic, deeply engaging, and all-consuming work from Black that belongs on all YA shelves."—School Library Journal, starred review
+                </span>
+                <span>
+                    * "Jude, who struggles with a world she both loves and hates and would rather be powerful and safe than good, is a compelling narrator. Whatever a
+                    reader is looking for—heart-in-throat action, deadly romance, double-crossing, moral complexity—this is one heck of a ride."—Booklist, starred review        
+                </span>
+                <span>
+                    "This is a heady blend of Faerie lore, high fantasy, and high school drama, dripping with description that brings the dangerous but tempting world of 
+                    Faerie to life. Black is building a complex mythology; now is a great time to tune in."—Kirkus Reviews           
+                </span>
+                <span>
+                    * "Black, quite rightly, is the acknowledged queen of faerie lit, and her latest shows her to be at the top of her game, unveiling twists and secrets 
+                    and bringing her characters vividly to life."—VOYA, starred review
+                </span>
+                <span>
+                    "With complicated characters, a suspenseful plot, and a successful return to the Faerie setting of many of her popular 
+                    books, Black's latest is sure to enchant fans."—The Horn Book     
+                </span>
+                <span>
+                    "Another enthralling story in Black's fantasy catalog."—PASTE.com
+                </span>
+                <span>
+                    Praise for Tithe:
+                </span>
+                <span>
+                    YALSA's Teen Top Ten
+                </span>
+                <span>
+                    ALA Best Book for Young Adults
+                </span>
+                <span>
+                    New York Public Library's "Best Book for the Teenage Reader"
+                </span>
+                <span>
+                    * "A gripping read."—Publishers Weekly, starred review
+                </span>
+                <span>
+                    From the Publisher
+                </span>
+                <div class="hidden">
+                    <span>
+                        Black is a master at world-building, conveying integral details without that information ever seeming tedious or encyclopedic, whether you're 
+                        well versed in faerie or a newcomer to the genre. It's an especially neat trick because the experience of reading a novel like this is something 
+                        like being surrounded by magic. Jude, who possesses just enough badness that you really root for her…will have fans eager to follow her.                 
+                    </span>
+                    <span>
+                        The New York Times Book Review - Jen Doll
+                    </span>
+                    <time datetime="2017-10-16">
+                        ★ 10/16/2017
+                    </time>
+                    <span>
+                        When Jude Duarte was seven, she watched Madoc, general to the high king of Elfhame, slaughter her parents. Madoc then dragged 
+                        Jude and her two sisters off to Faerieland, where he raised them as his own. Ten years later, Jude remains an outcast who is cruelly 
+                        bullied by the other children of Faerie—the king’s youngest son, Prince Cardan, chief among them. Jude dreams of becoming a member
+                         of the High Court and the power that it confers, so when the opportunity arises for her to enter into the service of one of Cardan’s 
+                        brothers, she seizes it, inadvertently placing herself at the center of a bloody coup and endangering the lives of everyone she loves. First
+                         in a trilogy, this spellbinding fantasy from Black (The Darkest Part of the Forest) reflects on the cost of ambition and explores the 
+                        bomb-strewn border between love and hate. Breathtaking set pieces, fully developed supporting characters, and a beguiling, tough-as-nails
+                         heroine enhance an intricate, intelligent plot that crescendos to a jaw-dropping third-act twist. Ages 15–up. Agent: Barry Goldblatt, 
+                        Barry Goldblatt Literary. (Jan.)              
+                    </span>
+                    <span>
+                        Publishers Weekly
+                    </span>
+                    <span>
+                        "This splendidly wicked and richly created story is one you won’t want to miss.”
+                    </span>
+                    <span>
+                        BuzzFeed
+                    </span>
+                    <span>
+                        "Surprises abound in this capricious tale, which shifts and changes just when readers think they have gained their footing on the 
+                        complicated details and emotions that enliven Black’s faerie world..[A] fierce and dazzling first in the Folk of the Air series”  
+                    </span>
+                    <span>
+                        RT Book Reviews (4 stars)
+                    </span>
+                    <span>
+                        Black is a master at world-building…Jude, who possesses just enough badness that you really root for her…will have fans eager to follow her. 
+                        Good thing the book kicks off a trilogy.” 
+                    </span>
+                    <span>
+                        New York Times
+                    </span>
+                    <span>
+                        Heart-in-throat action, deadly romance, double-crossing, moral complexity—this is one heck of a ride.”
+                    </span>
+                    <span>
+                        Booklist (starred review)
+                    </span>
+                    <span>
+                        Black is well known for writing dark fairy-tale novels, but this is her darkest to date. Blood splatters every page with bullying, attempted and 
+                        actual murders, political betrayal, and revolt.”
+                    </span>
+                    <span>
+                        BookRiot
+                    </span>
+                    <span>
+                        This story reveals greater depth and detail of Faerie than ever before. Black’s characters are no longer playing the game without knowing the 
+                        consequences…Black unfolds this sweeping, twisting narrative with the fine-tuned understanding of someone who’s spent nearly her whole life
+                         poking around the depths of Faerie.”
+                                
+                    </span>
+                    <span>
+                        BookPage
+                    </span>
+                    <span>
+                        Narrator Caitlin Kelly perfectly crafts the fierce and determined voice of seventeen-year-old Jude…[and] smoothly transitions from one character to 
+                        the next, creating energized dialogue that reflects the drama of the story. Listeners will be enchanted by Jude and her fantastical world of fast-paced 
+                        adventure, political intrigue, and a hint of romance.”      
+                    </span>
+                    <span>
+                        AudioFile
+                    </span>
+                    <time datetime="2017-10-01">
+                        ★ 10/01/2017
+                    </time>
+                    <span>
+                        Gr 9 Up—Human Jude has been raised along with her twin, Taryn, and half-sibling, Vivi, in Faerieland by Madoc, the faerie who murdered her parents.
+                        This intricate realm is filled with beautiful, blood-thirsty, playful, and powerful faeries who seem to have no patience or use for humans beyond
+                        enslaving them with magic. Despite this, Jude is determined to earn respect and a place in it all by becoming a knight. First in a planned trilogy,
+                        this YA fantasy features a political scramble reminiscent of Game of Thrones, with spies, manipulation, romance, swordplay, betrayal, and an 
+                       intoxicating darkness that manages to enrapture Jude and readers. Black has created a brutal and captivating world, filled with complex characters
+                        and their intricate and layered relationships. Jude is a mighty heroine; strong, smart, cunning, and yet completely vulnerable. Teens meet her as she's
+                        no longer interested in restraining her emotions and actions and is willing to give up anything in order to work for what she wants, which makes
+                        for a powerful and dangerous damsel getting herself out of distress. VERDICT Another fantastic, deeply engaging, and all-consuming work from 
+                       Black that belongs on all YA shelves.—Emily Moore, Camden County Library System, NJ         
+                    </span>
+                    <span>
+                        School Library Journal 
+                    </span>
+                    <span>
+                        In this series opener, narrator Caitlin Kelly perfectly crafts the fierce and determined voice of 17-year-old Jude, a human who is desperately trying to
+                        fit into the faerie world despite having arrived against her will and under dire circumstances. When the opportunity to become a spy for one of the 
+                       princes comes to pass, she’s finally given a chance to take control of her life and find her place. Kelly smoothly transitions from one character to the 
+                       next, creating energized dialogue that reflects the drama of the story. Listeners will be enchanted by Jude and her fantastical world of fast-paced 
+                       adventure, political intrigue, and a hint of romance. M.D. © AudioFile 2018, Portland, Maine        
+                    </span>
+                    <span>
+                        MARCH 2018 - AudioFile
+                    </span>
+                    <time datetime="2017-09-26">
+                        2017-09-26
+                    </time>
+                    <span>
+                        Black is back with another dark tale of Faerie, this one set in Faerie and launching a new trilogy.Jude—broken, rebuilt, fueled by anger and a 
+                        sense of powerlessness—has never recovered from watching her adoptive Faerie father murder her parents. Human Jude (whose brown hair curls 
+                        and whose skin color is never described) both hates and loves Madoc, whose murderous nature is true to his Faerie self and who in his way loves
+                         her. Brought up among the Gentry, Jude has never felt at ease, but after a decade, Faerie has become her home despite the constant peril. Black's
+                         latest looks at nature and nurture and spins a tale of court intrigue, bloodshed, and a truly messed-up relationship that might be the saving of Jude 
+                        and the titular prince, who, like Jude, has been shaped by the cruelties of others. Fierce and observant Jude is utterly unaware of the currents that 
+                        swirl around her. She fights, plots, even murders enemies, but she must also navigate her relationship with her complex family (human, Faerie, and 
+                        mixed). This is a heady blend of Faerie lore, high fantasy, and high school drama, dripping with description that brings the dangerous but tempting
+                         world of Faerie to life.Black is building a complex mythology; now is a great time to tune in. (Fantasy. 14-adult)             
+                    </span>
+                    <span>
+                        Kirkus Reviews
+                    </span>
+                    <input type="button" value="READ LESS">
+                </div>            
+                <input type="button" value="READ MORE">
+            </div>
+        </div>
+        
+<!-- *reviewsArea Fin -->
+
+
+         <div class="alsoContainer">
+            <h2>You May Also Like</h2>
+            <ul class="alsoSlider">
+                <li>
+                    <a href="detailPage_teen_Romance_DivineRivals.html">
+                        <img src="images/li_Bs100_27.png" alt="Divine Rivals: A Novel">
+                        <b>Divine Rivals: A Novel</b>
+                        <mark>$10.99</mark>
+                    </a>
+                </li>
+                <li>
+                    <a href="detailPage_teen_FantasyandAdventure_TheWickedKing.html">
+                        <img src="images/li_TeenFantasy_07.png" alt="The Wicked King">
+                        <b>The Wicked King</b>
+                        <mark>$12.99</mark>
+                    </a>
+                </li>
+                <li>
+                    <a href="detailPage_teen_FantasyandAdventure_Sabotage.html">
+                        <img src="images/li_TeenFantasy_11.png" alt="Sabotage">
+                        <b>Sabotage</b>
+                        <mark>$7.99 </mark>
+                    </a>
+                </li>
+                <li>
+                    <a href="detailPage_teen_FantasyandAdventure_ThisWovenKingdom.html">
+                        <img src="images/li_TeenFantasy_15.png" alt="This Woven Kingdom">
+                        <b>This Woven Kingdom</b>
+                        <mark>$15.99 </mark>
+                    </a>
+                </li>
+                <li>
+                    <a href="detailPage_teen_FantasyandAdventure_TheDarkestPartoftheForest.html">
+                        <img src="images/li_TeenFantasy_19.png" alt="The Darkest Part of the Forest">
+                        <b>The Darkest Part of the Forest</b>
+                        <mark>$12.99</mark>
+                    </a>
+                </li>
+            </ul>
+        </div>
+<!-- *also Fin -->
+        
+          <div>
+            <div>
+                <h2>Featured collection</h2>
+                <p>Shop our B&amp;N YA Fantasy 2023 
+                    collection here!</p>
+                <a href="listPage_teen_Bestsellers.html">EXPLORE THE COLLECTION →</a>
+            </div>
+            <ul>
+                <li>
+                    <a href="detailPage_teen_Romance_DivineRivals.html">
+                        <img src="images/li_TeenFantasy_Collation_01.png" alt="Divine Rivals: A Novel">
+                        <b>Divine Rivals: A Novel</b>
+                        <mark>$10.99</mark>
+                    </a>
+                </li>
+                <li>
+                    <a href="detailPage_teen_FantasyandAdventure_HotelMagnifique.html">
+                        <img src="images/li_TeenFantasy_Collation_02.png" alt="Hotel Magnifique">
+                        <b>Hotel Magnifique</b>
+                        <mark>$12.99 </mark>
+                    </a>
+                </li>
+                <li>
+                    <a href="detailPage_teen_FantasyandAdventure_BringMeYourMidnight.html">
+                        <img src="images/li_TeenFantasy_Collation_03.png" alt="Bring Me Your Midnight">
+                        <b>Bring Me Your Midnight</b>
+                        <mark>$17.09</mark>
+                    </a>
+                </li>
+                <li>
+                    <a href="detailPage_teen_FantasyandAdventure_TheBalladofNeverAfter.html">
+                        <img src="images/li_TeenFantasy_Collation_04.png" alt="The Ballad of Never After">
+                        <b>The Ballad of Never After</b>
+                        <mark>$17.99 </mark>
+                    </a>
+                </li>
+            </ul>  
+        </div>
+        <!-- * collectionArea Fin -->
+    </div>
+
+    <footer>
+        <div>
+            <p>
+                Become a Barnes &amp; Noble Member for Exclusive Deals and Free Shipping Online.
+            </p>
+        </div>
+        <div>
+            <div>
+                <h2><img src="images/d_main__Footer_logo.png" alt="BarnesandNoble"></h2>
+                <div>
+                    <h3>
+                        SIGN UP FOR SAVINGS, NEWS, AND UPDATES
+                    </h3>
+                    <form>
+                        <input type="email" placeholder="Email Address" title="Email Address">
+                        <input type="submit" title="submit">
+                    </form>
+                    <div>
+                        Submit your email address to receive Barnes &amp; 
+                        Noble offers &amp; updates. You can view Barnes &amp; 
+                        Noble’s Privacy Policy <a href="privacyPolicy.html">here.</a> Unsubscribe from our 
+                        emails at any time.
+                    </div>
+                </div>
+            </div>
+            <div>
+                <h2 class="footer_h2" data-section="aboutSection">About</h2>
+                <ul class="footerUl" data-section="aboutSection">
+                    <li><a href="about_aboutBarnsandNoble.html">About B&amp;N</a></li>
+                    <li><a href="about_AffiliateProgram.html">Affiliate Program</a></li>
+                    <li><a href="about_PublisherAuthor.html">Publisher Author</a></li>
+                    <li><a href="about_BulkOrder.html">Bulk Order quote</a></li>
+                    <li><a href="about_MobileApps.html">B&amp;N Mobile Apps</a></li>
+                    <li><a href="about_Membership.html">B&amp;N Membership</a></li>
+                    <li><a href="about_Mastercard.html">B&amp;N Mastercard</a></li>
+                    <li><a href="about_Bookfairs.html">B&amp;N Bookfairs</a></li>
+                </ul>
+            </div>
+            <div>
+                <h2 class="footer_h2" data-section="quickSection">Quick Help</h2>
+                <ul class="footerUl" data-section="quickSection">
+                    <li><a href="quickHelp_HelpCenter.html">Help Center</a></li>
+                    <li><a href="quickHelp_COVIDSafety.html">COVID Safety</a></li>
+                    <li><a href="quickHelp_StorePickup.html">Store Pickup</a></li>
+                    <li><a href="account.html">Order Status</a></li>
+                    <li><a href="quickHelp_ProductRecalls.html">Product Recalls</a></li>
+                    <li><a href="quickHelp_GiftCards.html">Gift Cards</a></li>
+                </ul>
+            </div>
+        </div>
+        <div>
+            <p>Copyright ©1997-2023 Barnes &amp; Noble Booksellers, Inc.</p>
+            <ul>
+                <li><a href="https://www.facebook.com/barnesandnoble">facebook</a></li>
+                <li><a href="https://twitter.com/bnbuzz">twitter</a></li>
+                <li><a href="https://www.pinterest.co.kr/barnesandnoble/">pinterest</a></li>
+                <li><a href="https://www.instagram.com/barnesandnoble/">instagram</a></li>
+            </ul>
+        </div>
+    </footer>
+    <!-- *Footer FIn -->
+</body>
+</html>
