@@ -1010,7 +1010,7 @@ select::-ms-expand{
     }
     footer>div:nth-of-type(2)>div:first-of-type>div>form>input[type='submit']{
         cursor: pointer;
-        background-image: url('../images/d_Main__Footer_arrow_next.png');
+        background-image: url('../images/footerarrownext.png');
         background-repeat: no-repeat;
         background-position: center;
         text-indent: -9999px;
@@ -1091,10 +1091,10 @@ select::-ms-expand{
     footer>div:last-of-type>ul>li:not(:first-of-type){
         margin-left: 15px;
     }
-     footer>div:last-of-type>ul>li:nth-child(1)>a{background-image: url('../images/d_Main__Footer_snsIcon_Facebook.png');}
-     footer>div:last-of-type>ul>li:nth-child(2)>a{background-image: url('../images/d_Main__Footer_snsIcon_Twitter.png');}
-     footer>div:last-of-type>ul>li:nth-child(3)>a{background-image: url('../images/d_Main__Footer_snsIcon_Pinterest.png');}
-     footer>div:last-of-type>ul>li:nth-child(4)>a{background-image: url('../images/d_Main__Footer_snsIcon_instagram.png');}
+     footer>div:last-of-type>ul>li:nth-child(1)>a{background-image: url('../images/footersnsIconfacebook.png');}
+     footer>div:last-of-type>ul>li:nth-child(2)>a{background-image: url('../images/footersnsIcontwitter.png');}
+     footer>div:last-of-type>ul>li:nth-child(3)>a{background-image: url('../images/footersnsIconpinterest.png');}
+     footer>div:last-of-type>ul>li:nth-child(4)>a{background-image: url('../images/footersnsIconinstagram.png');}
 
 }
 /* ? mobile Global. */
@@ -1596,7 +1596,7 @@ select::-ms-expand{
     }
     footer>div:nth-of-type(2)>div:first-of-type>div>form>input[type='submit']{
         cursor: pointer;
-        background-image: url('../images/d_Main__Footer_arrow_next.png');
+        background-image: url('../images/footerarrownext.png');
         background-repeat: no-repeat;
         background-position: center;
         text-indent: -9999px;
@@ -1672,10 +1672,10 @@ select::-ms-expand{
     footer>div:last-of-type>ul>li:not(:first-of-type){
         margin-left: 15px;
     }
-     footer>div:last-of-type>ul>li:nth-child(1)>a{background-image: url('../images/d_Main__Footer_snsIcon_Facebook.png');}
-     footer>div:last-of-type>ul>li:nth-child(2)>a{background-image: url('../images/d_Main__Footer_snsIcon_Twitter.png');}
-     footer>div:last-of-type>ul>li:nth-child(3)>a{background-image: url('../images/d_Main__Footer_snsIcon_Pinterest.png');}
-     footer>div:last-of-type>ul>li:nth-child(4)>a{background-image: url('../images/d_Main__Footer_snsIcon_instagram.png');}
+     footer>div:last-of-type>ul>li:nth-child(1)>a{background-image: url('../images/footersnsIconfacebook.png');}
+     footer>div:last-of-type>ul>li:nth-child(2)>a{background-image: url('../images/footersnsIcontwitter.png');}
+     footer>div:last-of-type>ul>li:nth-child(3)>a{background-image: url('../images/footersnsIconpinterest.png');}
+     footer>div:last-of-type>ul>li:nth-child(4)>a{background-image: url('../images/footersnsIconinstagram.png');}
 
 }
 /* ? tablet Global. */
@@ -2163,7 +2163,7 @@ select{
     }
     footer>div:nth-of-type(2)>div:first-of-type>div>form>input[type='submit']{
         cursor: pointer;
-        background-image: url('../images/d_Main__Footer_arrow_next.png');
+        background-image: url('../images/footerarrownext.png');
         background-repeat: no-repeat;
         background-position: center;
         text-indent: -9999px;
@@ -2251,9 +2251,9 @@ select{
     footer>div:last-of-type>ul>li:not(:first-of-type){
         margin-left: 15px;
     }
-     footer>div:last-of-type>ul>li:nth-child(1)>a{background-image: url('../images/d_Main__Footer_snsIcon_Facebook.png');}
-     footer>div:last-of-type>ul>li:nth-child(2)>a{background-image: url('../images/d_Main__Footer_snsIcon_Twitter.png');}
-     footer>div:last-of-type>ul>li:nth-child(3)>a{background-image: url('../images/d_Main__Footer_snsIcon_Pinterest.png');}
-     footer>div:last-of-type>ul>li:nth-child(4)>a{background-image: url('../images/d_Main__Footer_snsIcon_instagram.png');}
+     footer>div:last-of-type>ul>li:nth-child(1)>a{background-image: url('../images/footersnsIconfacebook.png');}
+     footer>div:last-of-type>ul>li:nth-child(2)>a{background-image: url('../images/footersnsIcontwitter.png');}
+     footer>div:last-of-type>ul>li:nth-child(3)>a{background-image: url('../images/footersnsIconpinterest.png');}
+     footer>div:last-of-type>ul>li:nth-child(4)>a{background-image: url('../images/footersnsIconinstagram.png');}
 
 }

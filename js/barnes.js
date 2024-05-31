@@ -48,28 +48,7 @@ function searchBar() {
             $('[data-target="#' + $target.attr('id') + '"]').removeClass('active');
         });
     }
-    // $('.search_container').hide();
-    // $('[data-target]').on('click', function() {
-    //     var targetId = $(this).data('target');
-    //     var $target = $('#' + targetId);
-    //     $target.toggleClass('active');
-    //     if ($target.hasClass('active')) {
-    //         $target.show();
-    //         $(this).addClass('active');
-    //     } else {
-    //         $target.hide();
-    //         $(this).removeClass('active'); 
-    //     }
-    // });
 }
-// function searchBar(){
-//     $('[data-panel]').on('click', function(){
-//         $(this).toggleClass("active");
-//         var panelId = $(this).data('panel');
-//         $('#' + panelId).toggleClass('active');
-//     });
-// }
-//
 function panelControl(){
     var currentPanel = null;
     $(".btn_open").click(function(){
@@ -180,7 +159,8 @@ function IconsSlider(){
         maxSlides:9,
         minSlides:2,
         pager:false,
-        controls: true
+        controls: true,
+        touchEnabled : false
     });
 
 }
