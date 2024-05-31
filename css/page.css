@@ -6580,10 +6580,12 @@
         line-height: 20px;
         font-size: 14px;
     }
+    .helpContentContainer>div:last-child>.video_Container{
+        margin-bottom: 20px;
+    }
     .helpContentContainer>div:last-child>.video_Container>img{
         display: block;
         width: 100%;
-        margin-bottom: 20px;
     }
     .helpContentContainer>div:last-child>address{
         font-size: 14px;
@@ -6739,10 +6741,12 @@
         font-size: 14px;
         line-height: 20px;
     }
+    .helpPressContentCotainer>div:last-of-type>.video_Container{
+        margin-bottom: 20px;
+    }
     .helpPressContentCotainer>div:last-of-type>.video_Container>img{
         display: block;
         width: 100%;
-        margin-bottom: 20px;
     }
     .helpPressContentCotainer>div:last-of-type>address{
         margin-bottom: 20px;
@@ -14695,10 +14699,12 @@
         line-height: 20px;
         font-size: 14px;
     }
+    .helpContentContainer>div:last-child>.video_Container{
+        margin-bottom: 20px;
+    }
     .helpContentContainer>div:last-child>.video_Container>img{
         display: block;
        width: 100%;
-       margin-bottom: 20px;
     }
     .helpContentContainer>div:last-child>address{
         font-size: 14px;
@@ -14845,10 +14851,12 @@
         line-height: 20px;
         font-size: 14px;
     }
+    .helpPressContentCotainer>div:last-of-type>.video_Container{
+        margin-bottom: 20px;
+    }
     .helpPressContentCotainer>div:last-of-type>.video_Container>img{
         display: block;
         width: 100%;
-        margin-bottom: 20px;
     }
     .helpPressContentCotainer>div:last-of-type>address{
         font-size: 14px;
@@ -22625,10 +22633,12 @@
         line-height: 20px;
         font-size: 14px;
     }
+    .helpContentContainer>div:last-child>.video_Container{
+        margin-bottom: 20px;
+    }
     .helpContentContainer>div:last-child>.video_Container>img{
         display: block;
         width: 100%;
-        margin-bottom: 20px;
     }
     .helpContentContainer>div:last-child>address{
         font-size: 14px;
@@ -22772,10 +22782,12 @@
         line-height: 20px;
         font-size: 14px;
     }
+    .helpPressContentCotainer>div:last-of-type>.video_Container{
+        margin-bottom: 20px;
+    }
     .helpPressContentCotainer>div:last-of-type>.video_Container>img{
         display: block;
         width: 100%;
-        margin-bottom: 20px;
     }
     .helpPressContentCotainer>div:last-of-type>address{
         font-size: 14px;
