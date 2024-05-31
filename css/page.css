@@ -88,7 +88,7 @@
     }
     .indexContainer .bx-wrapper:last-of-type .bx-prev{
         left: 0;
-        background-image: url('../images/mainlisttop100arrowbefore.png');
+        background-image: url('../images/d_Main__list_Top100_Arrow_before.png');
         background-repeat: no-repeat;
         background-color: #3e5962;
         background-position: center;
@@ -101,7 +101,7 @@
     }
     .indexContainer .bx-wrapper:last-of-type .bx-next{
         right: 0%;
-        background-image: url('../images/mainlisttop100arrownext.png');
+        background-image: url('../images/d_Main__list_Top100_Arrow_Next.png');
         background-repeat: no-repeat;
         background-color: #3e5962;
         background-position: center;
@@ -1441,7 +1441,7 @@
        max-width: 71.42%;
     }
     .detailContainer>div.alsoContainer>div.bx-wrapper .bx-prev{
-        background-image: url('../images/mainlisttop100arrowbefore.png');
+         background-image: url('../images/d_Main__list_Top100_Arrow_before.png');
         background-repeat: no-repeat;
         background-color: #3e5962;
         background-position: center;
@@ -1454,7 +1454,7 @@
         background-color: #00c0f3
     }
     .detailContainer>div.alsoContainer>div.bx-wrapper .bx-next{
-        background-image: url('../images/mainlisttop100arrownext.png');
+        background-image: url('../images/d_Main__list_Top100_Arrow_Next.png');
         background-repeat: no-repeat;
         background-color: #3e5962;
         background-position: center;
@@ -7992,7 +7992,7 @@
     }
     .indexContainer .bx-wrapper:last-of-type .bx-prev{
         left: 0;
-        background-image: url('../images/mainlisttop100arrowbefore.png');
+         background-image: url('../images/d_Main__list_Top100_Arrow_before.png');
         background-repeat: no-repeat;
         background-color: #3e5962;
         background-position: center;
@@ -8005,7 +8005,7 @@
     }
     .indexContainer .bx-wrapper:last-of-type .bx-next{
         right: 0;
-        background-image: url('../images/mainlisttop100arrownext.png');
+        background-image: url('../images/d_Main__list_Top100_Arrow_Next.png');
         background-repeat: no-repeat;
         background-color: #3e5962;
         background-position: center;
@@ -9403,7 +9403,7 @@
        left: 37px; max-width: 645px;
     }
     .detailContainer>div.alsoContainer>div.bx-wrapper .bx-prev{
-        background-image: url('../images/mainlisttop100arrowbefore.png');
+         background-image: url('../images/d_Main__list_Top100_Arrow_before.png');
         background-repeat: no-repeat;
         background-color: #3e5962;
         background-position: center;
@@ -9416,7 +9416,7 @@
         background-color: #00c0f3
     }
     .detailContainer>div.alsoContainer>div.bx-wrapper .bx-next{
-        background-image: url('../images/mainlisttop100arrownext.png');
+        background-image: url('../images/d_Main__list_Top100_Arrow_Next.png');
         background-repeat: no-repeat;
         background-color: #3e5962;
         background-position: center;
@@ -16102,7 +16102,7 @@
     }
     .indexContainer .bx-wrapper:last-of-type .bx-prev{
         left: -50px;
-        background-image: url('../images/mainlisttop100arrowbefore.png');
+         background-image: url('../images/d_Main__list_Top100_Arrow_before.png');
         background-repeat: no-repeat;
         background-color: #3e5962;
         background-position: center;
@@ -16115,7 +16115,7 @@
     }
     .indexContainer .bx-wrapper:last-of-type .bx-next{
         right: -50px;
-        background-image: url('../images/mainlisttop100arrownext.png');
+        background-image: url('../images/d_Main__list_Top100_Arrow_Next.png');
         background-repeat: no-repeat;
         background-color: #3e5962;
         background-position: center;
@@ -17443,7 +17443,7 @@
        left: 45px;
     }
     .detailContainer>div.alsoContainer>div.bx-wrapper .bx-prev{
-        background-image: url('../images/mainlisttop100arrowbefore.png');
+         background-image: url('../images/d_Main__list_Top100_Arrow_before.png');
         background-repeat: no-repeat;
         background-color: #3e5962;
         background-position: center;
@@ -17455,7 +17455,7 @@
         background-color: #00c0f3
     }
     .detailContainer>div.alsoContainer>div.bx-wrapper .bx-next{
-        background-image: url('../images/mainlisttop100arrownext.png');
+        background-image: url('../images/d_Main__list_Top100_Arrow_Next.png');
         background-repeat: no-repeat;
         background-color: #3e5962;
         background-position: center;
