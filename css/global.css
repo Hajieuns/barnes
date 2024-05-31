@@ -533,8 +533,7 @@ select::-ms-expand{
 
     .searchStoresContainer>div:last-child>iframe:first-of-type,
     .searchStoresContainer>div:last-child>iframe:nth-of-type(2),
-    .helpContentContainer>div:last-child>.video_Container>video:first-of-type,
-    .helpContentContainer>div:last-child>.video_Container>video:nth-of-type(2){
+    .helpContentContainer>div:last-child>.video_Container>video{
         display: none;
     }
     
@@ -1127,8 +1126,7 @@ select::-ms-expand{
     }
     .searchStoresContainer>div:last-child>iframe:first-of-type,
     .searchStoresContainer>div:last-child>iframe:last-of-type,
-    .helpContentContainer>div:last-child>.video_Container>video:first-of-type,
-    .helpContentContainer>div:last-child>.video_Container>video:last-of-type,
+    .helpContentContainer>div:last-child>.video_Container>video,
     header>div:last-child>div>ul>li>#searchtarget>form>input[type='button'],
     header>div:last-child>div>ul>li:last-of-type>#cartPanel>form>div>input[type='button']:last-of-type{
         display: none;
@@ -1717,8 +1715,7 @@ select{
     
     .searchStoresContainer>div:last-child>iframe:nth-child(2),
     .searchStoresContainer>div:last-child>iframe:last-of-type,
-    .helpContentContainer>div:last-child>.video_Container>video:nth-child(2),
-    .helpContentContainer>div:last-child>.video_Container>video:last-of-type,
+    .helpContentContainer>div:last-child>.video_Container>video,
     header>div:last-child>div>ul>li>#searchtarget>form>input[type='button'],
     header>div:last-child>div>ul>li:last-of-type>#cartPanel>form>div>input[type='button']:last-of-type{
         display: none;

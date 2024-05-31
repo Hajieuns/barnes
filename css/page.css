@@ -6581,6 +6581,7 @@
         font-size: 14px;
     }
     .helpContentContainer>div:last-child>.video_Container>img{
+        display: block;
         width: 100%;
         margin-bottom: 20px;
     }
@@ -6738,7 +6739,8 @@
         font-size: 14px;
         line-height: 20px;
     }
-    .helpPressContentCotainer>div:last-of-type>.video_Container>video{
+    .helpPressContentCotainer>div:last-of-type>.video_Container>img{
+        display: block;
         width: 100%;
         margin-bottom: 20px;
     }
@@ -14694,6 +14696,7 @@
         font-size: 14px;
     }
     .helpContentContainer>div:last-child>.video_Container>img{
+        display: block;
        width: 100%;
        margin-bottom: 20px;
     }
@@ -14843,6 +14846,7 @@
         font-size: 14px;
     }
     .helpPressContentCotainer>div:last-of-type>.video_Container>img{
+        display: block;
         width: 100%;
         margin-bottom: 20px;
     }
@@ -22622,6 +22626,7 @@
         font-size: 14px;
     }
     .helpContentContainer>div:last-child>.video_Container>img{
+        display: block;
         width: 100%;
         margin-bottom: 20px;
     }
@@ -22768,6 +22773,7 @@
         font-size: 14px;
     }
     .helpPressContentCotainer>div:last-of-type>.video_Container>img{
+        display: block;
         width: 100%;
         margin-bottom: 20px;
     }
