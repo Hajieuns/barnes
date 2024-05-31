@@ -6580,10 +6580,8 @@
         line-height: 20px;
         font-size: 14px;
     }
-    .helpContentContainer>div:last-child>.video_Container{
-        text-align: left;
-        overflow: hidden;
-        max-width: 260px;
+    .helpContentContainer>div:last-child>.video_Container>img{
+        width: 100%;
         margin-bottom: 20px;
     }
     .helpContentContainer>div:last-child>address{
@@ -6740,10 +6738,9 @@
         font-size: 14px;
         line-height: 20px;
     }
-    .helpPressContentCotainer>div:last-of-type>.video_Container{
-        text-align: left;
-        overflow: hidden;
-        max-width: 1180px;
+    .helpPressContentCotainer>div:last-of-type>.video_Container>video{
+        width: 100%;
+        margin-bottom: 20px;
     }
     .helpPressContentCotainer>div:last-of-type>address{
         margin-bottom: 20px;
@@ -14696,10 +14693,9 @@
         line-height: 20px;
         font-size: 14px;
     }
-    .helpContentContainer>div:last-child>.video_Container{
-        text-align: left;
-        overflow: hidden;
-        max-width: 720px;
+    .helpContentContainer>div:last-child>.video_Container>img{
+       width: 100%;
+       margin-bottom: 20px;
     }
     .helpContentContainer>div:last-child>address{
         font-size: 14px;
@@ -14846,10 +14842,9 @@
         line-height: 20px;
         font-size: 14px;
     }
-    .helpPressContentCotainer>div:last-of-type>.video_Container{
-        text-align: left;
-        overflow: hidden;
-        max-width: 1180px;
+    .helpPressContentCotainer>div:last-of-type>.video_Container>img{
+        width: 100%;
+        margin-bottom: 20px;
     }
     .helpPressContentCotainer>div:last-of-type>address{
         font-size: 14px;
@@ -22626,10 +22621,9 @@
         line-height: 20px;
         font-size: 14px;
     }
-    .helpContentContainer>div:last-child>.video_Container{
-        text-align: left;
-        overflow: hidden;
-        max-width: 1180px;
+    .helpContentContainer>div:last-child>.video_Container>img{
+        width: 100%;
+        margin-bottom: 20px;
     }
     .helpContentContainer>div:last-child>address{
         font-size: 14px;
@@ -22773,10 +22767,9 @@
         line-height: 20px;
         font-size: 14px;
     }
-    .helpPressContentCotainer>div:last-of-type>.video_Container{
-        text-align: left;
-        overflow: hidden;
-        max-width: 1180px;
+    .helpPressContentCotainer>div:last-of-type>.video_Container>img{
+        width: 100%;
+        margin-bottom: 20px;
     }
     .helpPressContentCotainer>div:last-of-type>address{
         font-size: 14px;
