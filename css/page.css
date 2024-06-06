@@ -6512,7 +6512,33 @@
     .quickHelpContentContainer>div:nth-child(4)>ul>li:hover>a{
         background-color: #00c0f3;
     }
-
+    .quickHelpDeviceContainer>div:last-child>h3{
+        font-size: 14px; font-weight: 700;
+        color: #505050; text-align: left;
+        margin-bottom: 20px;
+    }
+    .quickHelpDeviceContainer>div:last-child>span{
+        font-weight: 400; font-size: 12px; display: block;
+        text-align: left; margin-bottom: 200px;
+    }
+    .quickHelpDeviceContainer>div:last-child>span>a{
+        display: inline-block;
+        color: #00c0f3;
+        position: relative;
+    }
+    .quickHelpDeviceContainer>div:last-child>span>a::before{
+        content: '';
+        position: absolute;
+        bottom: -2px;
+        left: 0;
+        width: 0;
+        height: 1px;
+        background-color: #00c0f3;
+        transition: width 0.3s ease;
+    }
+    .quickHelpDeviceContainer>div:last-child>span>a:hover::before{
+        width: 100%;
+    }
     .pressContainer>div:nth-child(4)>a{
         display: block;
         text-align: center;
@@ -14636,6 +14662,33 @@
         background-color: #00c0f3;
     }
 
+    .quickHelpDeviceContainer>div:last-child>h3{
+        font-size: 20px; font-weight: 700;
+        color: #505050; text-align: center;
+        margin-bottom: 30px;
+    }
+    .quickHelpDeviceContainer>div:last-child>span{
+        font-weight: 400; font-size: 16px; display: block;
+        text-align: center; margin-bottom: 100%;
+    }
+    .quickHelpDeviceContainer>div:last-child>span>a{
+        display: inline-block;
+        color: #00c0f3;
+        position: relative;
+    }
+    .quickHelpDeviceContainer>div:last-child>span>a::before{
+        content: '';
+        position: absolute;
+        bottom: -2px;
+        left: 0;
+        width: 0;
+        height: 1px;
+        background-color: #00c0f3;
+        transition: width 0.3s ease;
+    }
+    .quickHelpDeviceContainer>div:last-child>span>a:hover::before{
+        width: 100%;
+    }
     .pressContainer>div:nth-child(4)>a{
         display: block;
         text-align: center;
@@ -22570,6 +22623,33 @@
     }
     .quickHelpContentContainer>div:nth-child(4)>ul>li:hover>a{
         background-color: #00c0f3;
+    }
+    .quickHelpDeviceContainer>div:last-child>h3{
+        font-size: 17px; font-weight: 700;
+        color: #505050; text-align: center;
+        margin-bottom: 30px;
+    }
+    .quickHelpDeviceContainer>div:last-child>span{
+        font-weight: 400; font-size: 16px; display: block;
+        text-align: center; margin-bottom: 200px;
+    }
+    .quickHelpDeviceContainer>div:last-child>span>a{
+        display: inline-block;
+        color: #00c0f3;
+        position: relative;
+    }
+    .quickHelpDeviceContainer>div:last-child>span>a::before{
+        content: '';
+        position: absolute;
+        bottom: -2px;
+        left: 0;
+        width: 0;
+        height: 1px;
+        background-color: #00c0f3;
+        transition: width 0.3s ease;
+    }
+    .quickHelpDeviceContainer>div:last-child>span>a:hover::before{
+        width: 100%;
     }
 
     .pressContainer>div:nth-child(4)>a{
